@@ -58,26 +58,56 @@ end
 
 function char_word_separator(input, env)
     ctx = env.engine.context
-    on = ctx:get_option("show_words")
+    local code = ctx.input
+    local on = ctx:get_option("show_words")
     local word_limit = 2
     if not on then
         word_limit = 0
     end
-
     local word_count = 0
     local chars = {}
+    local western = {}
+    local tail_words = {}
+
+    local western_display_threshold = 5
+    
     for cand in input:iter() do
-        if word_count < word_limit and utf8.len(cand.text) > 1 then
-            -- 删除匹配的提示符
-            cand.comment = removePrefix(cand.comment, ctx.input)
-            yield(cand)
-            word_count = word_count + 1
-        end
-        if utf8.len(cand.text) == 1 then
+        if utf8.len(cand.text) > 1 then
+            -- 西文的unicode长度一般不超过2
+            if utf8.offset(cand.text, 2)-1 <= 2 then
+                if #code >= western_display_threshold then
+                    table.insert(western, cand)
+                else
+                    table.insert(tail_words, cand)
+                end
+            elseif word_count < word_limit then
+                -- 删除匹配的提示符
+                cand.comment = removePrefix(cand.comment, ctx.input)
+                yield(cand)
+                word_count = word_count + 1
+            else
+                table.insert(tail_words, cand)
+            end
+        else
             table.insert(chars, cand)
         end
     end
+
+    for i, cand in ipairs(western) do
+        if word_count == word_limit then
+            table.insert(tail_words, cand)
+        else
+            yield(cand)
+            word_count = word_count + 1
+        end
+    end
+
     for i, cand in ipairs(chars) do
+        cand.comment = removePrefix(cand.comment, ctx.input)
+        yield(cand)
+    end
+
+    for i, cand in ipairs(tail_words) do
         cand.comment = removePrefix(cand.comment, ctx.input)
         yield(cand)
     end
