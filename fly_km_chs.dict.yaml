@@ -3,9 +3,18 @@
 
 ---
 name: fly_km_chs
-version: "2023-08-19"
+version: "2023-11-13"
 import_tables:
-  - chs_dicts/char     # 字表
-  - chs_dicts/base     # 基础词库
-  - chs_dicts/ext      # 扩展词库
-... 
+  # - flykm_dicts/char_two     # 字表
+  - flykm_dicts/char_three     # 字表
+  - flykm_dicts/base     # 基础词库
+  - flykm_dicts/ext      # 扩展词库
+  - flykm_dicts/books     # 字表
+  - flykm_dicts/celebrities     # 字表
+  - flykm_dicts/china     # 字表
+  - flykm_dicts/hongloumeng     # 字表
+  - flykm_dicts/japan     # 字表
+  - flykm_dicts/movies     # 字表
+  # - flykm_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
+  - c:/Users/user/OneDrive/custom
+...

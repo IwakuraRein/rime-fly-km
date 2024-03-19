@@ -1,0 +1,819 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 红楼梦
+# 来自搜狗细胞词库
+---
+name: japan
+version: "2023-08-23"
+sort: by_weight
+...
+艾官	ai|a gr|o	1
+凹晶馆	ao|d jk gr|e	1
+凹晶馆联诗悲寂寞	ao|d jk gr lm ui bw ji mo|o	1
+掰谎记	bd|r hl ji|n	1
+白玉钏	bd|q yu ir|j	1
+白玉钏亲尝莲叶羹	bd|q yu ir qb ih lm ye gg|y	1
+班姑	bj|j gu|b	1
+伴鹤	bj|h he|i	1
+宝钗借扇机带双敲	bc|o id jp uj ji dd ul qn|u	1
+宝钗扑蝶	bc|o id pu dp|d	1
+宝蟾	bc|o ij|d	1
+鲍二	bc|e er|j	1
+鲍二家的	bc|e er jx de|q	1
+鲍二媳妇	bc|e er xi fu|b	1
+宝二爷	bc|o er ye|w	1
+宝官	bc|o gr|o	1
+宝琴	bc|o qb|j	1
+抱琴	bc|u qb|j	1
+鲍音	bc|e yb|u	1
+包勇	bc|e ys|x	1
+北静郡王	bw|f jk jy wh|j	1
+北静王	bw|f jk wh|j	1
+北静王妃	bw|f jk wh fw|b	1
+北静王府	bw|f jk wh fu|u	1
+北静王水溶	bw|f jk wh uv rs|s	1
+焙茗	bw|y mk|a	1
+悲远嫁宝玉感离情	bw|f yr jx bc yu gj li qk|o	1
+笔锭如意	bi|r dk ru yi|u	1
+碧痕	bi|j hf|u	1
+碧粳粥	bi|j jk vz|v	1
+薜荔藤萝	bi|a li tg lo|a	1
+比通灵金莺微露意	bi|k ts lk jb yk ww lz yi|u	1
+碧月	bi|j yt|c	1
+变生不测凤姐泼醋	bm|u ug bu ce fg jp po cu|m	1
+病神瑛泪洒相思地	bk|u uf yk lw sa xl si di|l	1
+病潇湘痴魂惊恶梦	bk|u xn xl ii hy jk ee mg|f	1
+薄命女偏逢薄命郎	bo|a mk nv pm fg bo mk lh|i	1
+博庭欢宝玉赞孤儿	bo|m tk hr bc yu zj gu er|e	1
+跛足道人	bo|g zu dc rf|h	1
+卜固修	bu|s gu xq|h	1
+不了情暂撮土为香	bu|h ln qk zj co tu ww xl|r	1
+卜氏	bu|s ui|e	1
+卜世仁	bu|s ui rf|h	1
+不肖种种大承笞挞	bu|h xn vs vs da ig ii ta|u	1
+布疑阵宝玉妄谈禅	bu|h yi vf bc yu wh tj ij|i	1
+彩儿	cd|w er|e	1
+彩儿娘	cd|w er nl|b	1
+彩凤	cd|w fg|e	1
+彩哥	cd|w ge|m	1
+彩鸾	cd|w lr|u	1
+彩明	cd|w mk|v	1
+侧批	ce|h pi|u	1
+茝兰	id|a lj|y	1
+忏宿冤凤姐托村妪	ij|o su yr fg jp to cy yu|b	1
+长安都中	ih|r an dz vs|d	1
+炒豆儿	ic|y dz er|e	1
+程高本	ig|r gc bf|m	1
+程甲本	ig|r jx bf|m	1
+程日兴	ig|r ri xk|o	1
+程伟元	ig|r ww yr|j	1
+程乙本	ig|r yi bf|m	1
+痴公子杜撰芙蓉诔	ii|u gs zi du vr fu rs lw|n	1
+痴公子余痛触前情	ii|u gs zi yu ts iu qm qk|o	1
+痴女儿遗帕惹相思	ii|u nv er yi pa re xl si|d	1
+痴情女情重愈斟情	ii|u qk nv qk vs yu vf qk|o	1
+赤瑕宫	ii|l xx gs|o	1
+痴丫头误拾绣春囊	ii|u ya tz wu ui xq iy nh|m	1
+敕造宁国府	ii|m zc nk go fu|u	1
+敕造荣国府	ii|m zc rs go fu|u	1
+锄药	iu|j yc|a	1
+川宁侯	ir|q nk hz|h	1
+春流到夏	iy|j lq dc xx|h	1
+春纤	iy|j xm|c	1
+慈姨妈爱语慰痴颦	ci|y yi ma ai yu ww ii pb|f	1
+骢马使弹劾平安州	cs|c ma ui tj he pk an vz|y	1
+聪明累	cs|m mk lw|d	1
+粗绢箩	cu|y jr lo|r	1
+翠缕	cv|x lv|c	1
+翠墨	cv|x mo|d	1
+翠云	cv|x yy|j	1
+翠嶂	cv|x vh|d	1
+村姥姥是信口开合	cy|f lc lc ui xb kz kd he|h	1
+错里错以错劝哥哥	co|j li co yi co qr ge ge|m	1
+大赤飞金	da|h ii fw jb|j	1
+大观园符水驱妖孽	da|h gr yr fu uv qu yc np|a	1
+大观园试才题对额	da|h gr yr ui cd ti dv ee|o	1
+大观园月夜感幽魂	da|h gr yr yt ye gj yz hy|j	1
+大荒山	da|h hl uj|d	1
+大南蟹爪	da|h nj xp vx|t	1
+大色空	da|h se ks|o	1
+大著色	da|h vu se|e	1
+呆霸王	dd|g ba wh|j	1
+呆霸王调情遭苦打	dd|g ba wh tn qk zc ku da|u	1
+戴权	dd|m qr|f	1
+待书	dd|i uu|c	1
+呆香菱情解石榴裙	dd|g xl lk qk jp ui lq qy|i	1
+担笔	dj|u bi|r	1
+丹椒	dj|e jn|f	1
+单聘仁	dj|y pb rf|h	1
+稻香老农	dc|r xl lc ns|i	1
+得通灵幻境悟仙缘	de|i ts lk hr jk wu xm yr|c	1
+灯姑娘	dg|y gu nl|b	1
+邓好时	dg|x hc ui|v	1
+滴翠亭杨妃戏彩蝶	di|s cv tk yh fw xi cd dp|d	1
+菂官	di|a gr|o	1
+靛儿	dm|j er|e	1
+丁郎认父	dk|m lh rf fu|w	1
+顶细绢箩	dk|m xi jr lo|r	1
+东安郡王	ds|k an jy wh|j	1
+东府	ds|k fu|u	1
+东平王	ds|k pk wh|j	1
+荳官	dz|a gr|o	1
+豆官	dz|k gr|o	1
+杜若蘅芜	du|f ro hg wu|a	1
+多姑娘	do|e gu nl|b	1
+多浑虫	do|e hy is|d	1
+二木头	er|j mu tz|o	1
+方椿	fh|u iy|f	1
+芳官	fh|a gr|o	1
+粉正香	ff|y vg xl|r	1
+丰儿	fg|j er|e	1
+凤辣子	fg|e la zi|z	1
+封氏	fg|l ui|e	1
+封肃	fg|l su|v	1
+奉严词两番入家塾	fg|j yj ci ll fj ru jx uu|u	1
+蜂腰桥设言传心事	fg|d yc qn ue yj ir xb ui|m	1
+风雨夕闷制风雨词	fg|e yu xi mf vi fg yu ci|n	1
+冯渊	fg|u yr|s	1
+凤藻宫	fg|e zc gs|o	1
+富贵闲人	fu|o gv xm rf|h	1
+扶留	fu|u lq|e	1
+芙蓉诔	fu|a rs lw|n	1
+复世职政老沐天恩	fu|r ui vi vg lc mu tm en|d	1
+浮炭	fu|s tj|d	1
+尴尬人难免尴尬事	gj|h ga rf nj mm gj ga ui|m	1
+感深秋抚琴悲往事	gj|h uf qq fu qb bw wh ui|m	1
+高鹗	gc|u ee|g	1
+蛤粉	ge|d ff|y	1
+隔珠帘父女勉忠勤	ge|z vu lm fu nv mm vs qb|m	1
+庚辰本	gg|u if bf|m	1
+狗彘奴欺天招伙盗	gz|e vi nu qi tm vc ho dc|u	1
+广匀胶	gl|u yy jn|c	1
+姽婳词	gv|b hx ci|n	1
+鬼脸青	gv|q lm qk|j	1
+癸酉本	gv|x yz bf|m	1
+还孽债迎女返真元	hd|h np vd yk nv fj vf yr|j	1
+海棠春睡图	hd|s th iy uv tu|d	1
+含耻辱情烈死金钏	hj|h ii ru qk lp si jb ir|j	1
+汗巾子	hj|s jb zi|z	1
+憨湘云醉眠芍药茵	hj|v xl yy zv mm uc yc yb|a	1
+何婆	he|h po|s	1
+蘅芜君	hg|a wu jy|v	1
+蘅芜君兰言解疑癖	hg|a wu jy lj yj jp yi pi|u	1
+蘅芜苑	hg|a wu yr|a	1
+蘅芜院	hg|a wu yr|z	1
+衡芜苑	hg|i wu yr|a	1
+蘅芜苑夜拟菊花题	hg|a wu yr ye ni ju hx ti|v	1
+蘅芷清芬	hg|a vi qk ff|a	1
+红楼梦通灵遇双真	hs|c lz mg ts lk yu ul vf|m	1
+红麝串	hs|c ue ir|d	1
+红香圃	hs|c xl pu|d	1
+候芳魂五儿承错爱	hz|h fh hy wu er ig co ai|w	1
+胡道长	hu|m dc vh|r	1
+护官符	hu|u gr fu|r	1
+胡君荣	hu|m jy rs|a	1
+葫芦庙	hu|a lu mn|u	1
+葫芦僧	hu|a lu sg|h	1
+葫芦僧乱判葫芦案	hu|a lu sg lr pj hu lu an|o	1
+胡太医	hu|m td yi|k	1
+胡庸医	hu|m ys yi|k	1
+胡庸医乱用虎狼药	hu|m ys yi lr ys hu lh yc|a	1
+花姐姐	hx|a jp jp|b	1
+花母	hx|a mu|c	1
+花袭人	hx|a xi rf|h	1
+花溆	hx|a xu|s	1
+花自芳	hx|a zi fh|a	1
+怀金悼玉	hk|o jb dc yu|j	1
+鬟婢开口	hr|m bi kd kz|g	1
+璜大奶奶	hl|j da nd nd|b	1
+潢海	hl|s hd|s	1
+黄金莺巧结梅花络	hl|m jb yk qn jp mw hx lo|c	1
+璜嫂子	hl|j sc zi|z	1
+黄莺儿	hl|m yk er|e	1
+灰待者	hv|h dd ve|m	1
+会芳园	hv|h fh yr|d	1
+回前批	hv|d qm pi|u	1
+惠泉酒	hv|m qr jq|s	1
+慧紫鹃情辞试忙玉	hv|j zi jr qk ci ui mh yu|j	1
+惑奸谗抄检大观园	ho|k jm ij ic jm da gr yr|d	1
+藿蒳姜荨	ho|a na jl qm|a	1
+惑偏私惜春矢素志	ho|k pm si xi iy ui su vi|l	1
+霍启	ho|l qi|i	1
+活冤孽妙尼遭大劫	ho|s yr np mn ni zc da jp|l	1
+肌骨莹润	ji|c gu yk ry|s	1
+己卯本	ji|v mc bf|m	1
+记微嫌舅兄欺弱女	ji|n ww xm jq xs qi ro nv|b	1
+寄闲情淑女解琴书	ji|o xm qk uu nv jp qb uu|c	1
+寄言蜂蝶漫疑猜	ji|o yj fg dp mj yi cd|e	1
+寄言世俗休轻鄙	ji|o yj ui su xq qk bi|g	1
+寄言纨袴与膏粱	ji|o yj wj ku yu gc ll|s	1
+贾宝玉逞醉绛芸轩	jx|m bc yu ig zv jl yy xr|k	1
+贾宝玉初会秦鲸卿	jx|m bc yu iu hv qb jk qk|e	1
+贾宝玉初试云雨情	jx|m bc yu iu ui yy yu qk|o	1
+贾宝玉大醉绛芸轩	jx|m bc yu da zv jl yy xr|k	1
+贾宝玉机敏动诸宾	jx|m bc yu ji mb ds vu bb|o	1
+贾宝玉路谒北静王	jx|m bc yu lu ye bw jk wh|j	1
+贾宝玉品茶栊翠庵	jx|m bc yu pb ia ls cv an|u	1
+贾宝玉奇缘识金锁	jx|m bc yu qi yr ui jb so|j	1
+贾宝玉神游太虚境	jx|m bc yu uf yz td xu jk|l	1
+贾不假	jx|m bu jx|h	1
+贾菖	jx|m ih|a	1
+贾琛	jx|m if|j	1
+甲辰本	jx|d if bf|m	1
+贾敕	jx|m ii|m	1
+贾琮	jx|m cs|j	1
+贾存周	jx|m cy vz|e	1
+贾存周报升郎中任	jx|m cy vz bc ug lh vs rf|h	1
+贾代化	jx|m dd hx|h	1
+贾代儒	jx|m dd ru|h	1
+贾代善	jx|m dd uj|y	1
+贾代修	jx|m dd xq|h	1
+贾敦	jx|m dy|u	1
+贾恩侯	jx|m en hz|h	1
+贾二舍偷娶尤二姨	jx|m er ue tz qu yz er yi|b	1
+贾法	jx|m fa|s	1
+贾范	jx|m fj|a	1
+贾芳	jx|m fh|a	1
+贾芬	jx|m ff|a	1
+贾复	jx|m fu|r	1
+贾敷	jx|m fu|m	1
+贾夫人仙逝扬州城	jx|m fu rf xm ui yh vz ig|l	1
+贾珖	jx|m gl|j	1
+贾珩	jx|m hg|j	1
+贾瑚	jx|m hu|j	1
+贾化	jx|m hx|h	1
+贾环	jx|m hr|j	1
+贾璜	jx|m hl|j	1
+佳蕙	jx|h hv|a	1
+贾敬	jx|m jk|a	1
+贾菌	jx|m jy|a	1
+贾兰	jx|m lj|y	1
+贾蓝	jx|m lj|a	1
+贾璘	jx|m lb|j	1
+贾菱	jx|m lk|a	1
+贾敏	jx|m mb|r	1
+贾萍	jx|m pk|a	1
+贾婆	jx|m po|s	1
+贾蔷	jx|m ql|a	1
+贾巧姐	jx|m qn jp|b	1
+贾芹	jx|m qb|a	1
+贾琼	jx|m qs|j	1
+贾琼之母	jx|m qs vi mu|c	1
+贾蓉	jx|m rs|a	1
+贾蓉媳妇	jx|m rs xi fu|b	1
+贾蓉之妻	jx|m rs vi qi|k	1
+贾时飞	jx|m ui fw|b	1
+贾四姐儿	jx|m si jp er|e	1
+贾太君祷天消祸患	jx|m td jy dc tm xn ho hr|d	1
+贾探春	jx|m tj iy|j	1
+贾天祥	jx|m tm xl|i	1
+贾天祥正照风月鉴	jx|m tm xl vg vc fg yt jm|a	1
+贾王扁	jx|m wh bm|i	1
+贾惜春	jx|m xi iy|j	1
+贾喜鸾	jx|m xi lr|u	1
+贾效	jx|m xn|u	1
+贾荇	jx|m xk|a	1
+甲戌本	jx|d xu bf|m	1
+贾演	jx|m yj|s	1
+贾茵	jx|m yb|a	1
+嘉荫堂	jx|l yb th|k	1
+贾璎	jx|m yk|j	1
+贾迎春	jx|m yk iy|j	1
+贾迎春误嫁中山狼	jx|m yk iy wu jx vs uj lh|e	1
+贾雨村	jx|m yu cy|f	1
+贾雨村风尘怀闺秀	jx|m yu cy fg if hk gv xq|r	1
+贾雨村归结红楼梦	jx|m yu cy gv jp hs lz mg|f	1
+贾雨村夤缘复旧职	jx|m yu cy yb yr fu jq vi|m	1
+贾源	jx|m yr|s	1
+贾元春	jx|m yr iy|j	1
+贾元春才选凤藻宫	jx|m yr iy cd xr fg zc gs|o	1
+贾芸	jx|m yy|a	1
+贾藻	jx|m zc|a	1
+贾蓁	jx|m vf|a	1
+贾政	jx|m vg|m	1
+贾芝	jx|m vi|a	1
+贾珠	jx|m vu|j	1
+见土仪颦卿思故里	jm|d tu yi pb qk si gu li|d	1
+见熙凤贾瑞起淫心	jm|d xi fg jx rv qi yb xb|i	1
+蒋玉菡	jl|a yu hj|a	1
+蒋玉菡情赠茜香罗	jl|a yu hj qk zg qm xl lo|d	1
+绛云轩	jl|c yy xr|k	1
+绛云轩里召将飞符	jl|c yy xr li vc jl fw fu|r	1
+绛珠草	jl|c vu cc|a	1
+绛珠仙草	jl|c vu xm cc|a	1
+绛珠仙子	jl|c vu xm zi|z	1
+焦大	jn|h da|h	1
+胶矾	jn|c fj|h	1
+蕉下客	jn|a xx ke|o	1
+娇杏	jn|b xk|f	1
+教引嬷嬷	jn|m yb mo mo|b	1
+金钏	jb|j ir|j	1
+金簦草	jb|j dg cc|a	1
+锦珐琅杯	jb|j fa lh bw|f	1
+金寡妇贪利权受辱	jb|j gx fu tj li qr uz ru|h	1
+金魁星	jb|j kv xk|v	1
+金兰契互剖金兰语	jb|j lj qi hu pz jb lj yu|n	1
+金陵十二钗副册	jb|j lk ui er id fu ce|e	1
+金陵十二钗又副册	jb|j lk ui er id yz fu ce|e	1
+金陵十二钗正册	jb|j lk ui er id vg ce|e	1
+锦褥	jb|j ru|i	1
+金文翔	jb|j wf xl|y	1
+锦衣军查抄宁国府	jb|j yi jy ia ic nk go fu|u	1
+金银锞	jb|j yb ke|j	1
+金鸳鸯三宣牙牌令	jb|j yr yh sj xr ya pd lk|h	1
+靖藏本	jk|u ch bf|m	1
+净矾	jk|u fj|h	1
+警幻仙姑	jk|a hr xm gu|b	1
+惊谜语妻妾谏痴人	jk|o mi yu qi qp jm ii rf|h	1
+净虚	jk|u xu|f	1
+九龙珮	jq|e ls pw|j	1
+觉大限吞生金自逝	jt|o da xm ty ug jb zi ui|u	1
+开夜宴异兆发悲音	kd|j ye yj yi vc fa bw yb|u	1
+可卿	ke|m qk|e	1
+苦海慈航	ku|a hd ci hh|t	1
+苦绛珠魂归离恨天	ku|a jl vu hy gv li hf tm|j	1
+苦尤娘赚入大观园	ku|a yz nl vr ru da gr yr|d	1
+葵官	kv|a gr|o	1
+蜡油冻	la|d yz ds|u	1
+赖大	ld|m da|h	1
+赖大家的	ld|m da jx de|q	1
+赖二	ld|m er|j	1
+赖二家的	ld|m er jx de|q	1
+赖嬷嬷	ld|m mo mo|b	1
+赖尚荣	ld|m uh rs|a	1
+来升	ld|l ug|r	1
+赖升	ld|m ug|r	1
+癞头和尚	ld|u tz he uh|k	1
+来旺	ld|l wh|v	1
+来旺妇倚势霸成亲	ld|l wh fu yi ui ba ig qb|u	1
+滥情人情误思游艺	lj|s qk rf qk wu si yz yi|a	1
+浪荡子情遗九龙佩	lh|s dh zi qk yi jq ls pw|h	1
+老学究讲义警顽心	lc|m xt jq jl yi jk wj xb|i	1
+老学士闲征诡画词	lc|m xt ui xm vg gv hx ci|n	1
+缧丝	lw|c si|c	1
+冷二郎一冷入空门	lg|u er lh yi lg ru ks mf|p	1
+冷郎君惧祸走他乡	lg|u lh jy ju ho zz ta xl|c	1
+冷子兴	lg|u zi xk|o	1
+冷子兴演说荣国府	lg|u zi xk yj uo rs go fu|u	1
+李贵	li|f gv|d	1
+理国公柳彪	li|j go gs lq bn|f	1
+离恨天	li|u hf tm|j	1
+黧鸡	li|r ji|x	1
+李嬷嬷	li|f mo mo|b	1
+李奶奶	li|f nd nd|b	1
+李绮	li|f qi|c	1
+李十儿	li|f ui er|e	1
+李纨	li|f wj|c	1
+李纹	li|f wf|c	1
+梨香院	li|r xl yr|z	1
+琏二爷	lm|j er ye|w	1
+恋风流情友入家塾	lm|u fg lq qk yz ru jx uu|u	1
+莲花儿	lm|a hx er|e	1
+蓼风轩	ln|a fg xr|k	1
+蓼汀花溆	ln|a tk hx xu|s	1
+林黛玉重建桃花社	lb|f dd yu is jm tc hx ue|i	1
+林黛玉焚稿断痴情	lb|f dd yu ff gc dr ii qk|o	1
+林黛玉抛父进京都	lb|f dd yu pc fu jb jk dz|m	1
+林黛玉俏语谑娇音	lb|f dd yu qn yu xt jn yb|u	1
+林红玉	lb|f hs yu|j	1
+林如海	lb|f ru hd|s	1
+林如海捐馆扬州城	lb|f ru hd jr gr yh vz ig|l	1
+林潇湘魁夺菊花诗	lb|f xn xl kv do ju hx ui|n	1
+林之孝家的	lb|f vi xn jx de|q	1
+龄官	lk|f gr|o	1
+龄官划蔷痴及局外	lk|f gr hx ql ii ji ju wd|e	1
+菱洲	lk|a vz|s	1
+刘二当衣	lq|u er dh yi|u	1
+刘姥姥一进荣国府	lq|u lc lc yi jb rs go fu|u	1
+琉璃世界白雪红梅	lq|j li ui jp bd xt hs mw|f	1
+柳嫂	lq|f sc|b	1
+柳五儿	lq|f wu er|e	1
+柳叶渚边嗔莺咤燕	lq|f ye vu bm if yk va yj|m	1
+栊翠庵	ls|f cv an|u	1
+栊翠庵茶品梅花雪	ls|f cv an ia pb mw hx xt|l	1
+隆儿	ls|z er|e	1
+龙禁尉	ls|h jb ww|v	1
+芦雪庵争联即景诗	lu|a xt an vg lm ji jk ui|n	1
+纶组紫绛	ly|c zu zi jl|c	1
+缕儿	lv|c er|e	1
+绿荑	lv|c yi|a	1
+绿玉斗	lv|c yu dz|o	1
+马道婆	ma|c dc po|s	1
+马魁	ma|c kv|q	1
+埋香冢飞燕泣残红	md|l xl vs fw yj qi cj hs|c	1
+瞒消息凤姐设奇谋	mj|d xn xi fg jp ue qi mz|n	1
+茫茫大士	mh|a mh da ui|l	1
+卯正三刻	mc|e vg sj ke|u	1
+玫瑰露引来茯苓霜	mw|j gv lu yb ld fu lk ul|l	1
+梅花络	mw|f hx lo|c	1
+美人觚	mw|y rf gu|e	1
+美香菱屈受贪夫棒	mw|y xl lk qu uz tj fu bh|f	1
+美优伶斩情归水月	mw|y yz lk vj qk gv uv yt|c	1
+昧真禅雨村空遇旧	mw|v vf ij yu cy ks yu jq|d	1
+蒙府本	mg|a fu bf|m	1
+梦稿本	mg|f gc bf|m	1
+梦阮	mg|f rr|z	1
+渺渺真人	mn|s mn vf rf|h	1
+敏探春兴利除宿弊	mb|r tj iy xk li iu su bi|y	1
+明妃	mk|v fw|b	1
+茗烟	mk|a yj|y	1
+名霑	mk|e vj|l	1
+茉莉粉替去蔷薇硝	mo|a li ff ti qu ql ww xn|h	1
+墨雨	mo|d yu|m	1
+牡丹亭艳曲警芳心	mu|r dj tk yj qu jk fh xb|i	1
+沐皇恩贾家延世泽	mu|s hl en jx jx yj ui ze|s	1
+慕雅女雅集苦吟诗	mu|a ya nv ya ji ku yb ui|n	1
+那府里	na|v fu li|d	1
+南安王	nj|m an wh|j	1
+闹闺阃薛宝钗吞声	nc|p gv ky xt bc id ty ug|l	1
+倪二	ni|h er|j	1
+宁府	nk|o fu|u	1
+宁国府除夕祭宗祠	nk|o go fu iu xi ji zs ci|i	1
+宁国府骨肉病灾襟	nk|o go fu gu rz bk zd jb|i	1
+宁国公	nk|o go gs|w	1
+宁荣二公	nk|o rs er gs|w	1
+弄小巧用借剑杀人	ns|j xn qn ys jp jm ua rf|h	1
+暖香坞	nr|v xl wu|l	1
+暖香坞雅制春灯谜	nr|v xl wu ya vi iy dg mi|n	1
+搦湘管姊弟裁题咏	no|u xl gr zi di cd ti ys|g	1
+懦小姐不问累金凤	no|o xn jp bu wf lw jb fg|e	1
+藕官	ou|a gr|o	1
+藕香榭	ou|a xl xp|f	1
+藕榭	ou|a xp|f	1
+潘三保	pj|s sj bc|h	1
+潘又安	pj|s yz an|o	1
+判冤决狱平儿行权	pj|y yr jt yu pk er xk qr|f	1
+佩凤	pw|h fg|e	1
+披凤袄	pi|u fg ao|i	1
+平儿理妆	pk|l er li vl|u	1
+评女传巧姐慕贤良	pk|n nv ir qn jp mu xm ll|i	1
+破好事香菱结深恨	po|h hc ui xl lk jp uf hf|o	1
+琪官	qi|j gr|o	1
+齐国公陈翼	qi|u go gs if yi|x	1
+戚蓼生	qi|h ln ug|r	1
+起嫌疑顽童闹学堂	qi|l xm yi wj ts nc xt th|k	1
+欺幼主刁奴蓄险心	qi|m yz vu dn nu xu xm xb|i	1
+千红一窟	qm|r hs yi ku|o	1
+钱槐	qm|j hk|f	1
+茜纱窗真情揆痴理	qm|a ua il vf qk kv ii li|j	1
+茜香罗	qm|a xl lo|d	1
+茜雪	qm|a xt|l	1
+强欢笑蘅芜庆生辰	ql|v hr xn hg wu qk ug if|h	1
+樯木	ql|f mu|f	1
+巧姐	qn|m jp|b	1
+俏平儿情掩虾须镯	qn|h pk er qk yj xx xu vo|j	1
+俏平儿软语救贾琏	qn|h pk er rr yu jq jx lm|j	1
+俏丫鬟抱屈夭风流	qn|h ya hr bc qu yc fg lq|s	1
+茄官	qp|a gr|o	1
+沁芳亭	qb|s fh tk|u	1
+沁芳闸	qb|s fh va|p	1
+秦鲸卿得趣馒头庵	qb|j jk qk de qu mj tz an|u	1
+秦鲸卿夭逝黄泉路	qb|j jk qk yc ui hl qr lu|g	1
+秦可卿死封龙禁尉	qb|j ke qk si fg ls jb ww|v	1
+芹溪	qb|a xi|s	1
+秦显	qb|j xm|v	1
+秦显家的	qb|j xm jx de|q	1
+秦业	qb|j ye|a	1
+秦钟	qb|j vs|j	1
+秦锺	qb|j vs|j	1
+庆儿	qk|u er|e	1
+清葛	qk|s ge|a	1
+情哥哥偏寻根究底	qk|o ge ge pm xy gf jq di|u	1
+青埂峰	qk|j gg fg|d	1
+青梗峰	qk|j gg fg|d	1
+情切切良宵花解语	qk|o qp qp ll xn hx jp yu|n	1
+庆寿辰宁府排家宴	qk|u uz if nk fu pd jx yj|o	1
+青苔赋	qk|j td fu|d	1
+情小妹耻情归地府	qk|o xn mw ii qk gv di fu|u	1
+清虚观打醮	qk|s xu gr da jn|m	1
+情中情因情感妹妹	qk|o vs qk yb qk gj mw mw|b	1
+秋菱	qq|r lk|a	1
+裘世安	qq|m ui an|o	1
+秋爽斋	qq|r ul vd|u	1
+秋爽斋偶结海棠社	qq|r ul vd ou jp hd th ue|i	1
+秋桐	qq|r ts|f	1
+群芳髓	qy|v fh sv|d	1
+燃藜图	rj|y li tu|d	1
+仁清巷	rf|h qk xl|m	1
+人亡物在公子填词	rf|h wh wu zd gs zi tm ci|n	1
+荣府	rs|a fu|u	1
+蓉哥儿	rs|a ge er|e	1
+荣国府归省庆元宵	rs|a go fu gv xk qk yr xn|o	1
+荣国府元宵开夜宴	rs|a go fu yr xn kd ye yj|o	1
+荣国公	rs|a go gs|w	1
+荣宁二府	rs|a nk er fu|u	1
+荣庆堂	rs|a qk th|k	1
+荣禧堂	rs|a xi th|k	1
+辱亲女愚妾争闲气	ru|h qb nv yu qp vg xm qi|r	1
+蕊官	rv|a gr|o	1
+瑞珠	rv|j vu|j	1
+散花寺神签惊异兆	sj|m hx si uf qm jk yi vc|w	1
+散余资贾母明大义	sj|m yu zi jx mu mk da yi|y	1
+扫红	sc|u hs|c	1
+缮国公	uj|c go gs|w	1
+善姐	uj|y jp|b	1
+善姐儿	uj|y jp er|e	1
+山子野	uj|d zi ye|d	1
+赏中秋新词得佳谶	uh|k vs qq xb ci de jx if|n	1
+蛇影杯弓颦卿绝粒	ue|d yk bw gs pb qk jt li|y	1
+沈霞旧友	uf|s xx jq yz|h	1
+神瑛侍者	uf|i yk ui ve|m	1
+省宫闱贾元妃染恙	ug|k gs ww jx yr fw rj yh|y	1
+时宝钗小惠全大体	ui|v bc id xn hv qr da ti|h	1
+失宝玉通灵知奇祸	ui|r bc yu ts lk vi qi ho|i	1
+石呆子	ui|h dd zi|z	1
+实地纱	ui|o di ua|c	1
+施毒计金桂自焚身	ui|u du ji jb gv zi ff uf|q	1
+识分定情悟梨香院	ui|n ff dk qk wu li xl yr|z	1
+矢孤介杜绝宁国府	ui|r gu jp du jt nk go fu|u	1
+侍画	ui|h hx|k	1
+释旧憾情婢感痴郎	ui|w jq hj qk bi gj ii lh|i	1
+十里街	ui|m li jp|i	1
+失绵衣贫女耐嗷嘈	ui|r mm yi pb nv nd ao cc|g	1
+侍书	ui|h uu|c	1
+史太君两宴大观园	ui|d td jy ll yj da gr yr|d	1
+史太君破陈腐旧套	ui|d td jy po if fu jq tc|h	1
+史太君寿终归地府	ui|d td jy uz vs gv di fu|u	1
+试文字宝玉始提亲	ui|n wf zi bc yu ui ti qb|u	1
+史湘云偶填柳絮词	ui|d xl yy ou tm lq xu ci|n	1
+士隐	ui|l yb|z	1
+寿儿	uz|j er|e	1
+守官箴恶奴同破例	uz|o gr vf ee nu ts po li|h	1
+受私贿老官翻案牍	uz|w si hv lc gr fj an du|q	1
+寿怡红群芳开夜宴	uz|j yi hs qy fh kd ye yj|o	1
+手足耽耽小动唇舌	uz|u zu dj dj xn ds iy ue|r	1
+漱盂	uu|s yu|j	1
+双官诰	ul|x gr gc|n	1
+双行夹批	ul|x xk jx pi|u	1
+水月庵	uv|s yt an|u	1
+水月庵掀翻风月案	uv|s yt an xm fj fg yt an|o	1
+死缠绵潇湘闻鬼哭	si|h ij mm xn xl wf gv ku|g	1
+死雠仇赵妾赴冥曹	si|h iz iz vc qp fu mk cc|m	1
+死金丹独艳理亲丧	si|h jb dj du yj li qb sh|m	1
+司棋	si|v qi|f	1
+撕扇子作千金一笑	si|u uj zi zo qm jb yi xn|r	1
+送慈柩故乡全孝道	ss|y ci jq gu xl qr xn dc|y	1
+送宫花贾琏戏熙凤	ss|y gs hx jx lm xi xi fg|e	1
+送果品小郎惊叵测	ss|y go pb xn lh jk po ce|s	1
+宋嬷嬷	ss|o mo mo|b	1
+诉肺腑心迷活宝玉	su|n fw fu xb mi ho bc yu|j	1
+酥酪	su|m lc|m	1
+酸凤姐大闹宁国府	sr|m fg jp da nc nk go fu|u	1
+孙绍祖	sy|z uc zu|i	1
+探宝钗黛玉半含酸	tj|u bc id dd yu bj hj sr|m	1
+探惊风贾环重结怨	tj|u jk fg jx hr vs jp yr|e	1
+体仁沐德	ti|h rf mu de|i	1
+天香楼	tm|j xl lz|f	1
+铁槛寺	tp|j kj si|l	1
+铁网山	tp|j wh uj|d	1
+听曲文宝玉悟禅机	tk|g qu wf bc yu wu ij ji|f	1
+通灵宝玉	ts|x lk bc yu|j	1
+投鼠忌器宝玉瞒赃	tz|u uu ji qi bc yu mj zh|d	1
+凸碧堂	tu|f bi th|k	1
+凸碧堂品笛感凄清	tu|f bi th pb di gj qi qk|s	1
+玩母珠贾政参聚散	wj|j mu vu jx vg cj ju sj|m	1
+万艳同杯	wj|k yj ts bw|f	1
+王板儿	wh|j bj er|e	1
+王道士胡诌妒妇方	wh|j dc ui hu vz du fu fh|u	1
+王短腿	wh|j dr tv|c	1
+旺儿	wh|v er|e	1
+旺儿家的	wh|v er jx de|q	1
+王尔调	wh|j er tn|n	1
+旺儿媳妇	wh|v er xi fu|b	1
+王凤姐力诎失人心	wh|j fg jp li qu ui rf xb|i	1
+王凤姐弄权铁槛寺	wh|j fg jp ns qr tp kj si|l	1
+王狗儿	wh|j gz er|e	1
+王和荣	wh|j he rs|a	1
+王济仁	wh|j ji rf|h	1
+王君效	wh|j jy xn|u	1
+王老爷	wh|j lc ye|w	1
+王嬷嬷	wh|j mo mo|b	1
+王奶妈	wh|j nd ma|b	1
+王青儿	wh|j qk er|e	1
+王善保	wh|j uj bc|h	1
+王太医	wh|j td yi|k	1
+王熙凤毒设相思局	wh|j xi fg du ue xl si ju|v	1
+王熙凤历幻返金陵	wh|j xi fg li hr fj jb lk|z	1
+王熙凤恃强羞说病	wh|j xi fg ui ql xq uo bk|u	1
+王熙凤效戏彩斑衣	wh|j xi fg xn xi cd bj yi|u	1
+王熙凤协理宁国府	wh|j xi fg xp li nk go fu|u	1
+王熙凤正言弹妒意	wh|j xi fg vg yj dj du yi|u	1
+王熙凤致祸抱羞惭	wh|j xi fg vi ho bc xq cj|o	1
+王希献	wh|j xi xm|m	1
+王兴	wh|j xk|o	1
+王柱儿	wh|j vu er|e	1
+王子胜	wh|j zi ug|c	1
+王子腾	wh|j zi tg|c	1
+王作梅	wh|j zo mw|f	1
+闻秘事凤姐讯家童	wf|p mi ui fg jp xy jx ts|u	1
+五儿	wu|m er|e	1
+吴贵	wu|g gv|d	1
+无稽崖	wu|j ji ya|d	1
+邬将军	wu|e jl jy|i	1
+乌进孝	wu|e jb xn|m	1
+吴天佑	wu|g tm yz|h	1
+吴新登	wu|g xb dg|x	1
+吴新登家的	wu|g xb dg jx de|q	1
+吴兴登	wu|g xk dg|x	1
+吴巡抚	wu|g xy fu|u	1
+吴玉峰	wu|g yu fg|d	1
+乌庄头	wu|e vl tz|o	1
+喜出望外平儿理妆	xi|l iu wh wd pk er li vl|u	1
+惜春	xi|o iy|j	1
+熙凤	xi|m fg|e	1
+西宁王	xi|m nk wh|j	1
+西厢记妙词通戏语	xi|m xl ji mn ci ts xi yu|n	1
+夏秉忠	xx|h bk vs|d	1
+夏金桂	xx|h jb gv|f	1
+夏妈	xx|h ma|b	1
+夏婆	xx|h po|s	1
+夏婆子	xx|h po zi|z	1
+夏三	xx|h sj|j	1
+夏守忠	xx|h uz vs|d	1
+夏太监	xx|h td jm|a	1
+虾须镯	xx|d xu vo|j	1
+霞影纱	xx|l yk ua|c	1
+闲取乐偶攒金庆寿	xm|p qu le ou cr jb qk uz|j	1
+贤袭人娇嗔箴宝玉	xm|a xi rf jn if vf bc yu|j	1
+嫌隙人有心生嫌隙	xm|b xi rf yz xb ug xm xi|z	1
+享福人福深还祷福	xl|u fu rf fu uf hd dc fu|i	1
+湘云	xl|s yy|j	1
+湘云眠芍	xl|s yy mm uc|a	1
+小蝉儿	xn|k ij er|e	1
+笑儿	xn|r er|e	1
+小红骨践最身轻	xn|k hs gu jm zv uf qk|k	1
+小吉祥儿	xn|k ji xl er|e	1
+小鸠儿	xn|k jq er|e	1
+小内监	xn|k nw jm|a	1
+小鹊	xn|k qt|m	1
+小舍儿	xn|k ue er|e	1
+潇湘妃子	xn|s xl fw zi|z	1
+潇湘馆	xn|s xl gr|e	1
+潇湘馆春困发幽情	xn|s xl gr iy ky fa yz qk|o	1
+潇湘子雅谑补余香	xn|s xl zi ya xt bu yu xl|r	1
+小蟹爪	xn|k xp vx|t	1
+小幺儿	xn|k yc er|e	1
+小著色	xn|k vu se|e	1
+泄机关颦儿迷本性	xp|s ji gr pb er mi bf xk|o	1
+偕鸾	xp|h lr|u	1
+欣聚党恶子独承家	xb|t ju dh ee zi du ig jx|o	1
+邢德全	xk|j de qr|h	1
+兴儿	xk|o er|e	1
+杏帘在望	xk|f lm zd wh|u	1
+杏奴	xk|f nu|b	1
+省亲别墅	xk|k qb bp uu|d	1
+邢嫂子	xk|j sc zi|z	1
+猩猩毡	xk|e xk vj|r	1
+邢岫烟	xk|j xq yj|y	1
+邢忠	xk|j vs|d	1
+杏子阴假凤泣虚凰	xk|f zi yb jx fg qi xu hl|e	1
+修国公侯晓明	xq|h go gs hz xn mk|v	1
+绣桔	xq|c ju|f	1
+绣鸳鸯梦兆绛芸轩	xq|c yr yh mg vc jl yy xr|k	1
+玄真观	xr|u vf gr|x	1
+薛宝钗出闺成大礼	xt|a bc id iu gv ig da li|i	1
+薛宝钗羞笼红麝串	xt|a bc id xq ls hs ue ir|d	1
+薛宝琴	xt|a bc qb|j	1
+薛蘅芜讽和螃蟹咏	xt|a hg wu fg he ph xp ys|g	1
+薛蝌	xt|a ke|d	1
+薛文龙悔娶河东狮	xt|a wf ls hv qu he ds ui|e	1
+薛文起复惹放流刑	xt|a wf qi fu re fh lq xk|j	1
+薛小妹新编怀古诗	xt|a xn mw xb bm hk gu ui|n	1
+靴掖	xt|m ye|u	1
+丫鬟	ya|y hr|m	1
+宴海棠贾母赏花妖	yj|o hd th jx mu uh hx yc|b	1
+魇魔法姊弟逢五鬼	yj|h mo fa zi di fg wu gv|q	1
+宴宁府宝玉会秦钟	yj|o nk fu bc yu hv qb vs|j	1
+胭脂膏子	yj|c vi gc zi|z	1
+药官	yc|a gr|o	1
+叶妈	ye|g ma|b	1
+怡红公子	yi|o hs gs zi|z	1
+怡红院劫遇母蝗虫	yi|o hs yr jp yu mu hl is|d	1
+以假混真宝玉疯颠	yi|x jx hy vf bc yu fg dm|m	1
+意绵绵静日玉生香	yi|u mm mm jk ri yu ug xl|r	1
+银蝶	yb|j dp|d	1
+因讹成实元妃薨逝	yb|d ee ig ui yr fw hs ui|u	1
+因麒麟伏白首双星	yb|d qi lb fu bd uz ul xk|v	1
+饮仙醪曲演红楼梦	yb|e xm lc qu yj hs lz mg|f	1
+阴骘文	yb|z vi wf|u	1
+莺儿	yk|a er|e	1
+英莲	yk|a lm|a	1
+营缮郎	yk|a uj lh|i	1
+蝇帚	yk|d vz|v	1
+勇晴雯病补雀金裘	ys|x qk wf bk bu qt jb qq|m	1
+右寸	yz|h cy|m	1
+尤二姐	yz|h er jp|b	1
+又副册	yz|x fu ce|e	1
+游幻境指迷十二钗	yz|s hr jk vi mi ui er id|j	1
+尤老娘	yz|h lc nl|b	1
+尤婆子	yz|h po zi|z	1
+尤三姐	yz|h sj jp|b	1
+尤三姐思嫁柳二郎	yz|h sj jp si jx lq er lh|i	1
+尤氏	yz|h ui|e	1
+幽淑女悲题五美吟	yz|d uu nv bw ti wu mw yb|g	1
+玉钏	yu|j ir|j	1
+玉钏儿	yu|j ir er|e	1
+玉官	yu|j gr|o	1
+玉桂儿	yu|j gv er|e	1
+玉蕗藤	yu|j lu tg|a	1
+余信	yu|h xb|h	1
+玉柱儿	yu|j vu er|e	1
+圆信	yr|d xb|h	1
+鸳鸯女誓绝鸳鸯偶	yr|e yh nv ui jt yr yh ou|h	1
+鸳鸯女无意遇鸳鸯	yr|e yh nv wu yi yu yr yh|d	1
+鸳鸯女殉主登太虚	yr|e yh nv xy vu dg td xu|f	1
+原应叹息	yr|h yk tj xi|q	1
+阅邸报老舅自担惊	yt|p di bc lc jq zi dj jk|o	1
+云老爷	yy|j lc ye|w	1
+载权	zd|m qr|f	1
+詹光	vj|e gl|k	1
+占旺相四美钓游鱼	vj|f wh xl si mw dn yz yu|e	1
+詹子亮	vj|e zi ll|u	1
+张材	vh|v cd|f	1
+张材家的	vh|v cd jx de|q	1
+张财主	vh|v cd vu|u	1
+张大老爷	vh|v da lc ye|w	1
+张道士	vh|v dc ui|l	1
+张法官	vh|v fa gr|o	1
+张家的	vh|v jx de|q	1
+张金哥	vh|v jb ge|m	1
+张妈妈	vh|v ma ma|b	1
+张奶妈	vh|v nd ma|b	1
+张如圭	vh|v ru gv|l	1
+张若锦	vh|v ro jb|j	1
+张太医	vh|v td yi|k	1
+张太医论病细穷源	vh|v td yi ly bk xi qs yr|s	1
+张友士	vh|v yz ui|l	1
+张暂	vh|v zj|k	1
+张真人	vh|v vf rf|h	1
+昭儿	vc|v er|e	1
+赵国基	vc|l go ji|m	1
+赵嬷嬷	vc|l mo mo|b	1
+赵奶妈	vc|l nd ma|b	1
+赵全	vc|l qr|h	1
+赵侍郎	vc|l ui lh|i	1
+赵太监	vc|l td jm|a	1
+赵堂官	vc|l th gr|o	1
+赵天栋	vc|l tm ds|f	1
+赵天梁	vc|l tm ll|s	1
+赵亦华	vc|l yi hx|h	1
+赵姨娘	vc|l yi nl|b	1
+甄宝玉	vf|m bc yu|j	1
+臻儿	vf|k er|e	1
+甄费	vf|m fw|v	1
+镇国公牛清	vf|j go gs nq qk|s	1
+甄家仆投靠贾家门	vf|m jx pu tz kc jx jx mf|p	1
+甄母	vf|m mu|c	1
+甄士隐	vf|m ui yb|z	1
+甄士隐梦幻识通灵	vf|m ui yb mg hr ui ts lk|v	1
+甄士隐详说太虚情	vf|m ui yb xl uo td xu qk|o	1
+枕霞阁	vf|f xx ge|p	1
+枕霞旧友	vf|f xx jq yz|h	1
+甄应嘉	vf|m yk jx|l	1
+甄应嘉蒙恩还玉阙	vf|m yk jx mg en hd yu qt|p	1
+甄英莲	vf|m yk lm|a	1
+甄友忠	vf|m yz vs|d	1
+正房大院	vg|m fh da yr|z	1
+正家法贾珍鞭悍仆	vg|m jx fa jx vf bm hj pu|h	1
+证同类宝玉失相知	vg|n ts lw bc yu ui xl vi|r	1
+脂本	vi|c bf|m	1
+制灯迷贾政悲谶语	vi|r dg mi jx vg bw if yu|n	1
+脂粉香娃割腥啖膻	vi|c ff xl wa ge xk dj uj|c	1
+治国公马魁	vi|s go gs ma kv|q	1
+智能儿	vi|r ng er|e	1
+脂批	vi|c pi|u	1
+脂评本	vi|c pk bf|m	1
+智善	vi|r uj|y	1
+智通	vi|r ts|x	1
+忠靖侯	vs|d jk hz|h	1
+忠靖侯史鼎	vs|d jk hz ui dk|d	1
+终身误	vs|c uf wu|n	1
+忠顺亲王	vs|d uy qb wh|j	1
+忠顺王爷	vs|d uy wh ye|w	1
+中乡魁宝玉却尘缘	vs|d xl kv bc yu qt if yr|c	1
+忠义亲王	vs|d yi qb wh|j	1
+周财主	vz|e cd vu|u	1
+周大娘	vz|e da nl|b	1
+周二爷	vz|e er ye|w	1
+周奶妈	vz|e nd ma|b	1
+周琼	vz|e qs|j	1
+周瑞	vz|e rv|j	1
+周瑞家的	vz|e rv jx de|q	1
+周瑞媳妇	vz|e rv xi fu|b	1
+周嫂子	vz|e sc zi|z	1
+周太监	vz|e td jm|a	1
+周姨娘	vz|e yi nl|b	1
+住儿	vu|h er|e	1
+珠儿线	vu|j er xm|c	1
+篆儿	vr|r er|e	1
+坠儿	vv|z er|e	1
+坠儿娘	vv|z er nl|b	1
+缀锦楼	vv|c jb lz|f	1
+紫菱洲	zi|f lk vz|s	1
+紫芸	zi|f yy|a	1
+纵淫心宝蟾工设计	zs|c yb xb bc ij gs ue ji|n	1
+阻超凡佳人双护玉	zu|z ic fj jx rf ul hu yu|j	1
+醉金刚轻财尚义侠	zv|m jb gh qk cd uh yi xx|h	1
+醉金刚小鳅生大浪	zv|m jb gh xn qq ug da lh|s	1
+坐禅寂走火入邪魔	zo|l ij ji zz ho ru xp mo|u	1

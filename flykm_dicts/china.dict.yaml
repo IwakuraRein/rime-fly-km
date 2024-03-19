@@ -1,0 +1,254 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 中外名人
+# 来自搜狗和百度词库
+---
+name: celebrities
+version: "2023-08-23"
+sort: by_weight
+...
+阿拉山口市	aa|z la uj kz ui|u	1
+安塞区	an|o sd qu|k	1
+安州区	an|o vz qu|k	1
+巴宜区	ba|z yi qu|k	1
+白云鄂博矿区	bd|q yy ee bo kl qu|k	1
+碧江区	bi|j jl qu|k	1
+璧山区	bi|v uj qu|k	1
+彬州市	bb|f vz ui|u	1
+博望区	bo|m wh qu|k	1
+播州区	bo|u vz qu|k	1
+曹妃甸区	cc|m fw dm qu|k	1
+柴桑区	id|f sh qu|k	1
+呈贡区	ig|g gs qu|k	1
+澄江市	ig|s jl ui|u	1
+成县	ig|h xm|d	1
+崇礼区	is|d li qu|k	1
+崇明区	is|d mk qu|k	1
+大丰区	da|h fg qu|k	1
+大箐山县	da|h jk uj xm|d	1
+大洼区	da|h wa qu|k	1
+大足区	da|h zu qu|k	1
+电白区	dm|d bd qu|k	1
+定陶区	dk|o tc qu|k	1
+东宁市	ds|k nk ui|u	1
+洞头区	ds|s tz qu|k	1
+东乡区	ds|k xl qu|k	1
+堆龙德庆区	dv|l ls de qk qu|k	1
+范县	fj|a xm|d	1
+肥乡区	fw|c xl qu|k	1
+奉化区	fg|j hx qu|k	1
+丰林县	fg|j lb xm|d	1
+凤县	fg|e xm|d	1
+抚宁区	fu|u nk qu|k	1
+富阳区	fu|o yh qu|k	1
+抚远市	fu|u yr ui|u	1
+赣县区	gj|u xm qu|k	1
+赣榆区	gj|u yu qu|k	1
+高昌区	gc|u ih qu|k	1
+藁城区	gc|a ig qu|k	1
+高陵区	gc|u lk qu|k	1
+高县	gc|u xm|d	1
+高要区	gc|u yc qu|k	1
+共青城市	gs|m qk ig ui|u	1
+珙县	gs|j xm|d	1
+姑苏区	gu|b su qu|k	1
+观山湖区	gr|x uj hu qu|k	1
+广德市	gl|u de ui|u	1
+广丰区	gl|u fg qu|k	1
+光明区	gl|k mk qu|k	1
+广信区	gl|u xb qu|k	1
+海安市	hd|s an ui|u	1
+海门区	hd|s mf qu|k	1
+海棠区	hd|s th qu|k	1
+和县	he|r xm|d	1
+横山区	hg|f uj qu|k	1
+红谷滩区	hs|c gu tj qu|k	1
+洪泽区	hs|s ze qu|k	1
+胡杨河市	hu|m yh he ui|u	1
+鄠邑区	hu|l yi qu|k	1
+华亭市	hx|h tk ui|u	1
+华州区	hx|h vz qu|k	1
+淮安区	hk|s an qu|k	1
+怀仁市	hk|o rf ui|u	1
+淮阳区	hk|s yh qu|k	1
+浑江区	hy|s jl qu|k	1
+浑南区	hy|s nj qu|k	1
+霍尔果斯市	ho|l er go si ui|u	1
+即墨区	ji|v mo qu|k	1
+吉县	ji|l xm|d	1
+吉阳区	ji|l yh qu|k	1
+济阳区	ji|s yh qu|k	1
+冀州区	ji|f vz qu|k	1
+蓟州区	ji|a vz qu|k	1
+佳县	jx|h xm|d	1
+郏县	jx|l xm|d	1
+建安区	jm|v an qu|k	1
+监利市	jm|a li ui|u	1
+建阳区	jm|v yh qu|k	1
+江川区	jl|s ir qu|k	1
+绛县	jl|c xm|d	1
+姜堰区	jl|y yj qu|k	1
+揭东区	jp|u ds qu|k	1
+金林区	jb|j lb qu|k	1
+晋宁区	jb|m nk qu|k	1
+金平苗族瑶族傣族自治县	jb|j pk mn zu yc zu dd zu zi vi xm|d	1
+金坛区	jb|j tj qu|k	1
+静海区	jk|j hd qu|k	1
+靖西市	jk|u xi ui|u	1
+景县	jk|v xm|d	1
+泾县	jk|s xm|d	1
+竞秀区	jk|u xq qu|k	1
+九台区	jq|e td qu|k	1
+喀喇沁左翼蒙古族自治县	ka|g la qb zo yi mg gu zu zi vi xm|d	1
+卡若区	ka|f ro qu|k	1
+开州区	kd|j vz qu|k	1
+康定市	kh|u dk ui|u	1
+可克达拉市	ke|m ke da la ui|u	1
+垦利区	kf|v li qu|k	1
+库车市	ku|u ie ui|u	1
+昆玉市	ky|v yu ui|u	1
+莱芜区	ld|a wu qu|k	1
+兰陵县	lj|y lk xm|d	1
+荔浦市	li|a pu ui|u	1
+莲池区	lm|a ii qu|k	1
+濂溪区	lm|s xi qu|k	1
+梁平区	ll|s pk qu|k	1
+梁溪区	ll|s xi qu|k	1
+辽中区	ln|z vs qu|k	1
+临安区	lb|a an qu|k	1
+林芝市	lb|f vi ui|u	1
+陵城区	lk|z ig qu|k	1
+柳江区	lq|f jl qu|k	1
+隆昌市	ls|z ih ui|u	1
+龙港市	ls|h gh ui|u	1
+龙南市	ls|h nj ui|u	1
+龙圩区	ls|h xu qu|k	1
+潞城区	lu|s ig qu|k	1
+渌口区	lu|s kz qu|k	1
+鹿泉区	lu|u qr qu|k	1
+庐山市	lu|u uj ui|u	1
+泸水市	lu|s uv ui|u	1
+潞州区	lu|s vz qu|k	1
+栾城区	lr|u ig qu|k	1
+滦州市	lr|s vz ui|u	1
+罗江区	lo|d jl qu|k	1
+马尔康市	ma|c er kh ui|u	1
+马龙区	ma|c ls qu|k	1
+满城区	mj|s ig qu|k	1
+芒市	mh|a ui|u	1
+孟连傣族拉祜族佤族自治县	mg|z lm dd zu la hu zu wa zu zi vi xm|d	1
+蒙自市	mg|a zi ui|u	1
+米东区	mi|y ds qu|k	1
+密云区	mi|o yy qu|k	1
+名山区	mk|e uj qu|k	1
+漠河市	mo|s he ui|u	1
+莫力达瓦达斡尔族自治旗	mo|a li da wa da wo er zu zi vi qi|u	1
+乃东区	nd|b ds qu|k	1
+南岔县	nj|m ia xm|d	1
+南溪区	nj|m xi qu|k	1
+南郑区	nj|m vg qu|k	1
+宁乡市	nk|o xl ui|u	1
+盘州市	pj|t vz ui|u	1
+彭山区	pg|l uj qu|k	1
+平安区	pk|l an qu|k	1
+平坝区	pk|l ba qu|k	1
+平城区	pk|l ig qu|k	1
+平桂区	pk|l gv qu|k	1
+平果市	pk|l go ui|u	1
+平泉市	pk|l qr ui|u	1
+坪山区	pk|l uj qu|k	1
+普兰店区	pu|y lj dm qu|k	1
+七星关区	qi|k xk gr qu|k	1
+潜山市	qm|s uj ui|u	1
+黔西南布依族苗族自治州	qm|d xi nj bu yi zu mn zu zi vi vz|y	1
+干县	qm|j xm|d	1
+清江浦区	qk|s jl pu qu|k	1
+清新区	qk|s xb qu|k	1
+清苑区	qk|s yr qu|k	1
+衢江区	qu|i jl qu|k	1
+荣昌区	rs|a ih qu|k	1
+桑珠孜区	sh|x vu zi qu|k	1
+色尼区	se|e ni qu|k	1
+山南市	uj|d nj ui|u	1
+陕州区	uj|z vz qu|k	1
+上党区	uh|f dh qu|k	1
+邵东市	uc|b ds ui|u	1
+射洪市	ue|q hs ui|u	1
+神木市	uf|i mu ui|u	1
+双城区	ul|x ig qu|k	1
+双河市	ul|x he ui|u	1
+双流区	ul|x lq qu|k	1
+水城区	uv|s ig qu|k	1
+水富市	uv|s fu ui|u	1
+太谷区	td|h gu qu|k	1
+汤旺县	th|s wh xm|d	1
+腾冲市	tg|c is ui|u	1
+天涯区	tm|j ya qu|k	1
+田阳区	tm|d yh qu|k	1
+铁门关市	tp|j mf gr ui|u	1
+铜官区	ts|j gr qu|k	1
+铜梁区	ts|j ll qu|k	1
+潼南区	ts|s nj qu|k	1
+同仁市	ts|d rf ui|u	1
+屯留区	ty|k lq qu|k	1
+万全区	wj|k qr qu|k	1
+万山区	wj|k uj qu|k	1
+望城区	wh|u ig qu|k	1
+文登区	wf|u dg qu|k	1
+文山市	wf|u uj ui|u	1
+文县	wf|u xm|d	1
+温县	wf|s xm|d	1
+乌翠区	wu|e cv qu|k	1
+吴江区	wu|g jl qu|k	1
+武隆区	wu|j ls qu|k	1
+武鸣区	wu|j mk qu|k	1
+无为市	wu|j ww ui|u	1
+西沙区	xi|m ua qu|k	1
+息县	xi|q xm|d	1
+祥符区	xl|i fu qu|k	1
+香格里拉市	xl|r ge li la ui|u	1
+襄州区	xl|u vz qu|k	1
+新建区	xb|u jm qu|k	1
+新津区	xb|u jb qu|k	1
+新吴区	xb|u wu qu|k	1
+兴仁市	xk|o rf ui|u	1
+徐水区	xu|i uv qu|k	1
+叙州区	xu|h vz qu|k	1
+崖州区	ya|d vz qu|k	1
+延庆区	yj|q qk qu|k	1
+叶集区	ye|g ji qu|k	1
+义安区	yi|y an qu|k	1
+义县	yi|y xm|d	1
+易县	yi|v xm|d	1
+黟县	yi|d xm|d	1
+伊州区	yi|h vz qu|k	1
+宜州区	yi|o vz qu|k	1
+永年区	ys|i nm qu|k	1
+攸县	yz|h xm|d	1
+玉环市	yu|j hr ui|u	1
+余江区	yu|h jl qu|k	1
+盂县	yu|j xm|d	1
+元江哈尼族彝族傣族自治县	yr|j jl ha ni zu yi zu dd zu zi vi xm|d	1
+云安区	yy|j an qu|k	1
+云冈区	yy|j gh qu|k	1
+郧阳区	yy|g yh qu|k	1
+云州区	yy|j vz qu|k	1
+增城区	zg|l ig qu|k	1
+沾化区	vj|s hx qu|k	1
+沾益区	vj|s yi qu|k	1
+章丘区	vh|u qq qu|k	1
+镇沅彝族哈尼族拉祜族自治县	vf|j yr yi zu ha ni zu la hu zu zi vi xm|d	1
+邹平市	zz|e pk ui|u	1
+廛河回族区	ij|u he hv zu qu|k	1
+额尔虎市	ee|o er hu ui|u	1
+户县	hu|i xm|d	1
+积石山保安族东乡族撒拉族自治县	ji|r ui uj bc an zu ds xl zu sa la zu zi vi xm|d	1
+江洲区	jl|s vz qu|k	1
+荔蒲县	li|a pu xm|d	1
+木垒蒙古自治州	mu|f lw mg gu zi vi vz|y	1
+陕县	uj|z xm|d	1
+省直辖县级行政单位	ug|k vi xx xm ji xk vg dj ww|h	1
+师河区	ui|g he qu|k	1
+双江拉祜族佤族布朗族傣族自治县	ul|x jl la hu zu wa zu bu lh zu dd zu zi vi xm|d	1
+图木自治县市	tu|d mu zi vi xm ui|u	1

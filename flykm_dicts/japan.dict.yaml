@@ -1,0 +1,4326 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 日本地名姓氏人名
+# 地名来自百度输入法词库
+# 人名来自https://github.com/wainshine/Chinese-Names-Corpus
+# 只保留两个字以上的
+---
+name: japan
+version: "2023-08-22"
+sort: by_weight
+...
+智惠	vi|h hv|y	1
+智惠美	vi|h hv mw|y	1
+肥后	fw|c hz|t	1
+备后	bw|e hz|t	1
+阿东	aa|z ds|k	1
+阿儿	aa|z er|e	1
+阿寒	aa|z hj|o	1
+阿久比	aa|z jq bi|k	1
+阿久根	aa|z jq gf|f	1
+阿仁	aa|z rf|h	1
+阿山	aa|z uj|d	1
+阿苏	aa|z su|a	1
+阿武	aa|z wu|j	1
+阿知须	aa|z vi xu|t	1
+阿智	aa|z vi|r	1
+爱别	ai|w bp|g	1
+爱东	ai|w ds|k	1
+爱甲	ai|w jx|d	1
+爱野	ai|w ye|d	1
+爱知川	ai|w vi ir|q	1
+爱知	ai|w vi|r	1
+安八	an|o ba|w	1
+安城	an|o ig|l	1
+安达	an|o da|h	1
+安代	an|o dd|h	1
+安房	an|o fh|i	1
+安富	an|o fu|o	1
+安来	an|o ld|l	1
+安浓	an|o ns|s	1
+安浦	an|o pu|s	1
+安岐	an|o qi|d	1
+安苏	an|o su|a	1
+安昙川	an|o tj ir|q	1
+安昙	an|o tj|v	1
+安田	an|o tm|d	1
+安心院	an|o xb yr|z	1
+安芸津	an|o yy jb|s	1
+安芸	an|o yy|a	1
+安中	an|o vs|d	1
+庵治	an|u vi|s	1
+鞍手	an|m uz|u	1
+岸和田	an|d he tm|d	1
+奥多摩	ao|q do mo|u	1
+奥津	ao|q jb|s	1
+奥尻	ao|q kc|v	1
+八百津	ba|w bd jb|s	1
+八坂	ba|w bj|l	1
+八潮	ba|w ic|s	1
+八东	ba|w ds|k	1
+八幡浜	ba|w fj bh|s	1
+八幡	ba|w fj|d	1
+八戸	ba|w hu|k	1
+八郎潟	ba|w lh xi|s	1
+八鹿	ba|w lu|u	1
+八木	ba|w mu|f	1
+八千代	ba|w qm dd|h	1
+八千穂	ba|w qm sv|r	1
+八日市场	ba|w ri ui ih|l	1
+八日市	ba|w ri ui|u	1
+八森	ba|w sf|f	1
+八束	ba|w uu|m	1
+八田	ba|w tm|d	1
+白浜	bd|q bh|s	1
+白川	bd|q ir|q	1
+白峰	bd|q fg|d	1
+白根	bd|q gf|f	1
+白糠	bd|q kh|y	1
+白老	bd|q lc|m	1
+白滝	bd|q ls|s	1
+白鹰	bd|q yk|u	1
+白州	bd|q vz|y	1
+百石	bd|h ui|h	1
+柏崎	bd|f qi|d	1
+柏原	bd|f yr|h	1
+坂北	bj|l bw|f	1
+坂城	bj|l ig|l	1
+坂出	bj|l iu|z	1
+坂戸	bj|l hu|k	1
+坂井	bj|l jk|j	1
+坂南	bj|l nj|m	1
+坂内	bj|l nw|d	1
+坂下	bj|l xx|m	1
+坂祝	bj|l vu|i	1
+板仓	bj|f ch|h	1
+板柳	bj|f lq|f	1
+板取	bj|f qu|m	1
+板野	bj|f ye|d	1
+半田	bj|y tm|d	1
+浜坂	bh|s bj|l	1
+浜北	bh|s bw|f	1
+浜岛	bh|s dc|e	1
+浜顿别	bh|s dy bp|g	1
+浜冈	bh|s gh|d	1
+浜松	bh|s ss|f	1
+浜田	bh|s tm|d	1
+浜益	bh|s yi|y	1
+浜玉	bh|s yu|j	1
+浜中	bh|s vs|d	1
+保内	bc|h nw|d	1
+保土谷	bc|h tu gu|w	1
+保原	bc|h yr|h	1
+北本	bw|f bf|m	1
+北波多	bw|f bo do|e	1
+北茨城	bw|f ci ig|l	1
+北大东	bw|f da ds|k	1
+北澹	bw|f dj|s	1
+北葛饰	bw|f ge ui|e	1
+北谷	bw|f gu|w	1
+北広岛	bw|f gl dc|e	1
+北桧山	bw|f hv uj|d	1
+北会津	bw|f hv jb|s	1
+北见	bw|f jm|d	1
+北茂安	bw|f mc an|o	1
+北浦	bw|f pu|s	1
+北埼玉	bw|f qi yu|j	1
+北群马	bw|f qy ma|c	1
+北势	bw|f ui|u	1
+北相马	bw|f xl ma|c	1
+北相木	bw|f xl mu|f	1
+北郷	bw|f xl|c	1
+北有马	bw|f yz ma|c	1
+北御牧	bw|f yu mu|r	1
+北中城	bw|f vs ig|l	1
+北足立	bw|f zu li|u	1
+备中	bw|e vs|d	1
+本别	bf|m bp|g	1
+本川	bf|m ir|q	1
+本川根	bf|m ir gf|f	1
+本渡	bf|m du|s	1
+本吉	bf|m ji|l	1
+本匠	bf|m jl|k	1
+本山	bf|m uj|d	1
+本郷	bf|m xl|c	1
+本耶马溪	bf|m ye ma xi|s	1
+比布	bi|k bu|h	1
+比和	bi|k he|r	1
+比内	bi|k nw|d	1
+比企	bi|k qi|h	1
+碧南	bi|j nj|m	1
+标茶	bn|f ia|a	1
+标津	bn|f jb|s	1
+表郷	bn|j xl|c	1
+别海	bp|g hd|s	1
+别子山	bp|g zi uj|d	1
+氷见	bk|i jm|d	1
+氷上	bk|i uh|f	1
+兵库	bk|q ku|u	1
+波方	bo|s fh|u	1
+波贺	bo|s he|b	1
+波田	bo|s tm|d	1
+波野	bo|s ye|d	1
+波佐见	bo|s zo jm|d	1
+播磨	bo|u mo|u	1
+伯方	bo|h fh|u	1
+伯太	bo|h td|h	1
+狛江	bo|e jl|s	1
+泊村古宇	bo|s cy gu yu|o	1
+不知火	bu|h vi ho|y	1
+布津	bu|h jb|s	1
+布野	bu|h ye|d	1
+财部	cd|d bu|u	1
+财田	cd|d tm|d	1
+仓敷	ch|h fu|m	1
+仓吉	ch|h ji|l	1
+仓桥	ch|h qn|f	1
+仓石	ch|h ui|h	1
+仓岳	ch|h yt|q	1
+草津	cc|a jb|s	1
+曽尔	cg|y er|e	1
+诧间	ia|n jm|p	1
+柴田	id|f tm|d	1
+常陆太田	ih|k lu td tm|d	1
+常吕	ih|k lv|g	1
+常盘	ih|k pj|t	1
+常叶	ih|k ye|g	1
+朝仓	ic|m ch|h	1
+朝地	vc|m di|l	1
+朝来	vc|m ld|l	1
+潮来	ic|s ld|l	1
+车力	ie|k li|b	1
+辰口	if|h kz|g	1
+辰野	if|h ye|d	1
+成田	ig|h tm|d	1
+成羽	ig|h yu|x	1
+城川	ig|l ir|q	1
+城岛	ig|l dc|e	1
+城端	ig|l dr|u	1
+城崎	ig|l qi|d	1
+城阳	ig|l yh|z	1
+池川	ii|s ir|q	1
+池田	ii|s tm|d	1
+赤坂	ii|l bj|l	1
+赤泊	ii|l bo|s	1
+赤池	ii|l ii|s	1
+赤冈	ii|l gh|d	1
+赤井川	ii|l jk ir|q	1
+赤来	ii|l ld|l	1
+赤平	ii|l pk|l	1
+赤羽根	ii|l yu gf|f	1
+冲美	is|u mw|y	1
+出石	iu|z ui|h	1
+出云崎	iu|z yy qi|d	1
+出云	iu|z yy|j	1
+初山别	iu|i uj bp|g	1
+杵筑	iu|f vu|r	1
+川本	ir|q bf|m	1
+川副	ir|q fu|k	1
+川根	ir|q gf|f	1
+川井	ir|q jk|j	1
+川尻	ir|q kc|v	1
+川内	ir|q nw|d	1
+川棚	ir|q pg|f	1
+川崎	ir|q qi|d	1
+川上	ir|q uh|f	1
+川俣	ir|q yu|h	1
+川越	ir|q yt|l	1
+川之江	ir|q vi jl|s	1
+船冈	ir|t gh|d	1
+船穂	ir|t sv|r	1
+船引	ir|t yb|v	1
+串本	ir|d bf|m	1
+串间	ir|d jm|p	1
+串良	ir|d ll|i	1
+串木野	ir|d mu ye|d	1
+串原	ir|d yr|h	1
+钏路	ir|j lu|g	1
+吹田	iv|g tm|d	1
+垂井	iv|r jk|j	1
+垂水	iv|r uv|s	1
+春日部	iy|j ri bu|u	1
+春日井	iy|j ri jk|j	1
+春日居	iy|j ri ju|v	1
+春野	iy|j ye|d	1
+茨城	ci|a ig|l	1
+茨木	ci|a mu|f	1
+村冈	cy|f gh|d	1
+村山	cy|f uj|d	1
+村松	cy|f ss|f	1
+打田	da|u tm|d	1
+大坂	da|h bj|l	1
+大坂狭山	da|h bj xx uj|d	1
+大朝	da|h vc|m	1
+大船渡	da|h ir du|s	1
+大槌	da|h iv|f	1
+大村	da|h cy|f	1
+大刀洗	da|h dc xi|s	1
+大淀	da|h dm|s	1
+大町	da|h dk|d	1
+大饭	da|h fj|e	1
+大府	da|h fu|u	1
+大冈	da|h gh|d	1
+大根占	da|h gf vj|f	1
+大馆	da|h gr|e	1
+大和高田	da|h he gc tm|d	1
+大和郡山	da|h he jy uj|d	1
+大河内	da|h he nw|d	1
+大河原	da|h he yr|h	1
+大衡	da|h hg|i	1
+大津	da|h jb|s	1
+大井川	da|h jk ir|q	1
+大瀬戸	da|h ld hu|k	1
+大里	da|h li|d	1
+大鹿	dd|h lu|u	1
+大牟田	da|h mz tm|d	1
+大内山	da|h nw uj|d	1
+大平	da|h pk|l	1
+大迫	da|h po|q	1
+大浦	da|h pu|s	1
+大崎	da|h qi|d	1
+大泉	da|h qr|q	1
+大仁	da|h rf|h	1
+大栄	da|h rs|o	1
+大三岛	da|h sj dc|e	1
+大桑	da|h sh|x	1
+大森	da|h sf|f	1
+大山崎	da|h uj qi|d	1
+大山田	da|h uj tm|d	1
+大石田	da|h ui tm|d	1
+大矢野	da|h ui ye|d	1
+大柿	da|h ui|f	1
+大滝	da|h ls|s	1
+大田原	da|h tm yr|h	1
+大畠	da|h zd|q	1
+大西	da|h xi|m	1
+大潟	da|h xi|s	1
+大郷	da|h xl|c	1
+大信	da|h xb|h	1
+大须贺	da|h xu he|b	1
+大野城	da|h ye ig|l	1
+大野见	da|h ye jm|d	1
+大野原	da|h ye yr|h	1
+大宜味	da|h yi ww|g	1
+大隅	da|h yu|z	1
+大宇陀	da|h yu to|z	1
+大玉	da|h yu|j	1
+大垣	da|h yr|l	1
+大原	da|h yr|h	1
+大越	da|h yt|l	1
+岱明	dd|h mk|v	1
+帯広	dd|m gl|u	1
+袋井	dd|h jk|j	1
+丹波	dj|e bo|s	1
+丹波山	dj|e bo uj|d	1
+丹后	dj|e hz|t	1
+丹生川	dj|e ug ir|q	1
+丹原	dj|e yr|h	1
+但东	dj|h ds|k	1
+澹路	dj|s lu|g	1
+当别	dh|k bp|g	1
+当麻	dh|k ma|u	1
+岛本	dc|e bf|m	1
+岛根	dc|e gf|f	1
+岛牧	dc|e mu|r	1
+岛原	dc|e yr|h	1
+道志	dc|y vi|l	1
+徳岛	de|i dc|e	1
+徳地	de|i di|l	1
+徳山	de|i uj|d	1
+徳之岛	de|i vi dc|e	1
+登别	dg|x bp|g	1
+登米町中田	dg|x mi dk vs tm|d	1
+砥部	di|h bu|u	1
+砥用	di|h ys|e	1
+弟子屈	di|y zi qu|v	1
+淀江	dm|s jl|s	1
+町田	dk|d tm|d	1
+东彼杵	ds|k bi iu|f	1
+东伯	ds|k bo|h	1
+东成瀬	ds|k ig ld|s	1
+东出云	ds|k iu yy|j	1
+东串良	ds|k ir ll|i	1
+东茨城	ds|k ci ig|l	1
+东村桧枝岐	ds|k cy hv vi qi|d	1
+东村山	ds|k cy uj|d	1
+东大坂	ds|k da bj|l	1
+东大和	ds|k da he|r	1
+东风平	ds|k fg pk|l	1
+东葛饰	ds|k ge ui|e	1
+东根	ds|k gf|f	1
+东広岛	ds|k gl dc|e	1
+东和	ds|k he|r	1
+东吉野	ds|k ji ye|d	1
+东嵴振	ds|k ji vf|u	1
+东金	ds|k jb|j	1
+东津野	ds|k jb ye|d	1
+东久留米	ds|k jq lq mi|y	1
+东栄	ds|k rs|o	1
+东市来	ds|k ui ld|l	1
+东松山	ds|k ss uj|d	1
+东粟仓	ds|k su ch|h	1
+东条	ds|k tn|e	1
+东通	ds|k ts|x	1
+东郷	ds|k xl|c	1
+东伊豆	ds|k yi dz|k	1
+东由利	ds|k yz li|r	1
+东与贺	ds|k yu he|b	1
+东予	ds|k yu|x	1
+东员	ds|k yr|g	1
+东藻琴	ds|k zc qb|j	1
+东祖谷山	ds|k zu gu uj|d	1
+洞戸	ds|s hu|k	1
+洞爷	ds|s ye|w	1
+都留	dz|m lq|e	1
+都路	dz|m lu|g	1
+都农	dz|m ns|i	1
+都祁	dz|m qi|i	1
+都万	dz|m wj|k	1
+都筑	dz|m vu|r	1
+逗子	dz|k zi|z	1
+度会	du|u hv|h	1
+渡嘉敷	du|s jx fu|m	1
+渡名喜	du|s mk xi|l	1
+端野	dr|u ye|d	1
+椴法华	dr|f fa hx|h	1
+碓氷	dv|h bk|i	1
+碓井	dv|h jk|j	1
+敦贺	dy|u he|b	1
+顿原	dy|k yr|h	1
+多度津	do|e du jb|s	1
+多贺城	do|e he ig|l	1
+多贺	do|e he|b	1
+多伎	do|e ji|h	1
+多良间	do|e ll jm|p	1
+多良见	do|e ll jm|d	1
+多良木	do|e ll mu|f	1
+多摩	do|e mo|u	1
+多気	do|e qi|r	1
+多野	do|e ye|d	1
+多治见	do|e vi jm|d	1
+额田	ee|o tm|d	1
+姶良	ee|b ll|i	1
+恩纳	en|d na|c	1
+儿玉	er|e yu|j	1
+二本松	er|j bf ss|f	1
+二戸	er|j hu|k	1
+二见	er|j jm|d	1
+二丈	er|j vh|h	1
+幡豆	fj|d dz|k	1
+饭岛	fj|e dc|e	1
+饭高	fj|e gc|u	1
+饭南	fj|e nj|m	1
+饭山	fj|e uj|d	1
+饭盛	fj|e ug|h	1
+饭田川	fj|e tm ir|q	1
+饭田	fj|e tm|d	1
+饭野	fj|e ye|d	1
+方城	fh|u ig|l	1
+坊津	fh|l jb|s	1
+芳贺	fh|a he|b	1
+芳井	fh|a jk|j	1
+防府	fh|z fu|u	1
+飞岛	fw|b dc|e	1
+肥前	fw|c qm|y	1
+斐川	fw|f ir|q	1
+粉河	ff|y he|s	1
+风间浦	fg|e jm pu|s	1
+风连	fg|e lm|k	1
+峰浜	fg|d bh|s	1
+峰山	fg|d uj|d	1
+敷岛	fu|m dc|e	1
+浮羽	fu|s yu|x	1
+福部	fu|i bu|u	1
+福岛	fu|i dc|e	1
+福富	fu|i fu|o	1
+福间	fu|i jm|p	1
+福江	fu|i jl|s	1
+福井	fu|i jk|j	1
+福崎	fu|i qi|d	1
+福栄	fu|i rs|o	1
+福生	fu|i ug|r	1
+福野	fu|i ye|d	1
+福知山	fu|i vi uj|d	1
+釜石	fu|w ui|h	1
+付知	fu|h vi|r	1
+妇中	fu|b vs|d	1
+富冈	fu|o gh|d	1
+富谷	fu|o gu|w	1
+富合	fu|o he|h	1
+富加	fu|o jx|b	1
+富江	fu|o jl|s	1
+富津	fu|o jb|s	1
+富来	fu|o ld|l	1
+富良野	fu|o ll ye|d	1
+富士川	fu|o ui ir|q	1
+富士宫	fu|o ui gs|o	1
+富士吉田	fu|o ui ji tm|d	1
+富士见	fu|o ui jm|d	1
+富田林	fu|o tm lb|f	1
+冈部	gh|d bu|u	1
+冈谷	gh|d gu|w	1
+冈崎	gh|d qi|d	1
+冈垣	gh|d yr|l	1
+冈原	gh|d yr|h	1
+港北	gh|s bw|f	1
+高浜	gc|u bh|s	1
+高城	gc|u ig|l	1
+高岛	gc|u dc|e	1
+高富	gc|u fu|o	1
+高冈	gc|u gh|d	1
+高根	gc|u gf|f	1
+高宫	gc|u gs|o	1
+高槻	gc|u gv|f	1
+高锅	gc|u go|j	1
+高鹫	gc|u jq|u	1
+高来	gc|u ld|l	1
+高瀬	gc|u ld|s	1
+高梁	gc|u ll|s	1
+高柳	gc|u lq|f	1
+高崎	gc|u qi|d	1
+高千穂	gc|u qm sv|r	1
+高清水	gc|u qk uv|s	1
+高取	gc|u qu|m	1
+高森	gc|u sf|f	1
+高砂	gc|u ua|h	1
+高石	gc|u ui|h	1
+高松	gc|u ss|f	1
+高田	gc|u tm|d	1
+高畠	gc|u zd|q	1
+高尾野	gc|u ww ye|d	1
+高郷	gc|u xl|c	1
+高野	gc|u ye|d	1
+高野口	gc|u ye kz|g	1
+高月	gc|u yt|c	1
+歌登	ge|m dg|x	1
+歌津	ge|m jb|s	1
+歌志内	ge|m vi nw|d	1
+葛巻	ge|a jr|y	1
+葛饰	ge|a ui|e	1
+葛尾	ge|a ww|v	1
+各务原	ge|e wu yr|h	1
+根上	gf|f uh|f	1
+根室	gf|f ui|o	1
+根尾	gf|f ww|v	1
+根羽	gf|f yu|x	1
+根占	gf|f vj|f	1
+亘理	gf|k li|j	1
+更埴	gg|m vi|l	1
+弓削	gs|v xn|k	1
+肱川	gs|c ir|q	1
+宫岛	gs|o dc|e	1
+宫古	gs|o gu|m	1
+宫津	gs|o jb|s	1
+宫崎	gs|o qi|d	1
+宫守	gs|o uz|o	1
+宫田	gs|o tm|d	1
+宫洼	gs|o wa|s	1
+宫原	gs|o yr|h	1
+宫之城	gs|o vi ig|l	1
+菰野	gu|a ye|d	1
+古川	gu|m ir|q	1
+古殿	gu|m dm|v	1
+古河	gu|m he|s	1
+古贺	gu|m he|b	1
+古平	gu|m pk|l	1
+古座川	gu|m zo ir|q	1
+古座	gu|m zo|u	1
+谷汲	gu|w ji|s	1
+挂川	gx|u ir|q	1
+挂合	gx|u he|h	1
+馆山	gr|e uj|d	1
+広川	gl|u ir|q	1
+広岛	gl|u dc|e	1
+広见	gl|u jm|d	1
+広瀬	gl|u ld|s	1
+広陵	gl|u lk|z	1
+広神	gl|u uf|i	1
+広田	gl|u tm|d	1
+広尾	gl|u ww|v	1
+広野	gl|u ye|d	1
+鲑川	xp|e ir|q	1
+鬼无里	gv|q wu li|d	1
+贵志川	gv|d vi ir|q	1
+桂川	gv|f ir|q	1
+桧原	hv|f yr|h	1
+国东	go|d ds|k	1
+国分	go|d ff|w	1
+国分寺	go|d ff si|l	1
+国见	go|d jm|d	1
+国头	go|d tz|o	1
+海部	hd|s bu|u	1
+海津	hd|s jb|s	1
+海老名	hd|s lc mk|e	1
+海士	hd|s ui|l	1
+海田	hd|s tm|d	1
+函南	hj|z nj|m	1
+寒河江	hj|o he jl|s	1
+行方	hh|i fh|u	1
+行桥	hh|i qn|f	1
+行田	hh|i tm|d	1
+合志	he|h vi|l	1
+和泊	he|r bo|s	1
+和岛	he|r dc|e	1
+和光	he|r gl|k	1
+和寒	he|r hj|o	1
+和良	he|r ll|i	1
+和木	he|r mu|f	1
+和気	he|r qi|r	1
+和田山	he|r tm uj|d	1
+和知	he|r vi|r	1
+河合	he|s he|h	1
+河津	he|s jb|s	1
+河口湖	he|s kz hu|s	1
+河内长野	he|s nw ih ye|d	1
+河野	he|s ye|d	1
+河原	he|s yr|h	1
+河芸	he|s yy|a	1
+贺茂	he|b mc|a	1
+贺阳	he|b yh|z	1
+鹤岛	he|i dc|e	1
+鹤冈	he|i gh|d	1
+鹤见	he|i jm|d	1
+鹤居	he|i ju|v	1
+鹤来	he|i ld|l	1
+鹤田	he|i tm|d	1
+横浜	hg|f bh|s	1
+横岛	hg|f dc|e	1
+横手	hg|f uz|u	1
+弘前	hs|v qm|y	1
+厚岸	hz|h an|d	1
+厚木	hz|h mu|f	1
+厚田	hz|h tm|d	1
+厚真	hz|h vf|m	1
+呼子	hu|g zi|z	1
+湖陵	hu|s lk|z	1
+虎姫	hu|f vf|b	1
+戸仓	hu|k ch|h	1
+戸河内	hu|k he nw|d	1
+戸井	hu|k jk|j	1
+戸田	hu|k tm|d	1
+花巻	hx|a qr|y	1
+花泉	hx|a qr|q	1
+滑川	hx|s ir|q	1
+荒川	hl|a ir|q	1
+荒尾	hl|a ww|v	1
+幌加内	hl|d jx nw|d	1
+幌延	hl|d yj|q	1
+辉北	hv|k bw|f	1
+会津坂下	hv|h jb bj xx|m	1
+会津本郷	hv|h jb bf xl|c	1
+会津高田	hv|h jb gc tm|d	1
+会津若松	hv|h jb ro ss|f	1
+恵那	hv|m na|v	1
+恵山	hv|m uj|d	1
+恵庭	hv|m tk|u	1
+矶部	ji|h bu|u	1
+矶子	ji|h zi|z	1
+积丹	ji|r dj|e	1
+基山	ji|m uj|d	1
+箕轮	ji|r ly|k	1
+箕面	ji|r mm|h	1
+吉备	ji|l bw|e	1
+吉富	ji|l fu|o	1
+吉海	ji|l hd|s	1
+吉和	ji|l he|r	1
+吉井	ji|l jk|j	1
+吉良	ji|l ll|i	1
+吉松	ji|l ss|f	1
+吉野谷	ji|l ye gu|w	1
+吉永	ji|l ys|i	1
+嵴振	ji|d vf|u	1
+纪宝	ji|c bc|o	1
+纪和	ji|c he|r	1
+纪势	ji|c ui|u	1
+纪伊长岛	ji|c yi ih dc|e	1
+寄岛	ji|o dc|e	1
+加古川	jx|b gu ir|q	1
+加贺	jx|b he|b	1
+加计	jx|b ji|n	1
+加津佐	jx|b jb zo|h	1
+加茂川	jx|b mc ir|q	1
+加茂	jx|b mc|a	1
+加美	jx|b mw|y	1
+加世田	jx|b ui tm|d	1
+加西	jx|b xi|m	1
+加须	jx|b xu|t	1
+加悦	jx|b yt|o	1
+加治川	jx|b vi ir|q	1
+加治木	jx|b vi mu|f	1
+加子母	jx|b zi mu|c	1
+挟间	xp|u jm|p	1
+家岛	jx|o dc|e	1
+嘉岛	jx|l dc|e	1
+嘉穂	jx|l sv|r	1
+甲府	jx|d fu|u	1
+甲良	jx|d ll|i	1
+甲南	jx|d nj|m	1
+甲奴	jx|d nu|b	1
+甲山	jx|d uj|d	1
+甲田	jx|d tm|d	1
+甲佐	jx|d zo|h	1
+兼山	jm|y uj|d	1
+见附	jm|d fu|z	1
+建部	jm|v bu|u	1
+剣渊	jm|h yr|s	1
+谏早	jm|n zc|v	1
+江别	jl|s bp|g	1
+江差	jl|s ia|y	1
+江刺	jl|s ci|m	1
+江府	jl|s fu|u	1
+江戸川	jl|s hu ir|q	1
+江迎	jl|s yk|e	1
+橿原	jl|f yr|h	1
+交野	jn|u ye|d	1
+鲛川	jn|e ir|q	1
+纟贯	si|c gr|c	1
+纟満	si|c mj|s	1
+纟田	si|c tm|d	1
+纟鱼川	si|c yu ir|q	1
+角馆	jn|e gr|e	1
+阶上	jp|z uh|f	1
+皆瀬	jp|k ld|s	1
+结城	jp|c ig|l	1
+今别	jb|h bp|g	1
+今帰仁	jb|h gv rf|h	1
+今金	jb|h jb|j	1
+今津	jb|h jb|s	1
+今立	jb|h li|u	1
+今市	jb|h ui|u	1
+今治	jb|h vi|s	1
+今庄	jb|h vl|u	1
+金成	jb|j ig|h	1
+金峰	jb|j fg|d	1
+金津	jb|j jb|s	1
+金井	jb|j jk|j	1
+金浦	jb|j pu|s	1
+金崎	jb|j qi|d	1
+金武	jb|j wu|j	1
+津别	jb|s bp|g	1
+津川	jb|s ir|q	1
+津岛	jb|s dc|e	1
+津幡	jb|s fj|d	1
+津和野	jb|s he ye|d	1
+津久见	jb|s jq jm|d	1
+津久井	jb|s jq jk|j	1
+津具	jb|s ju|d	1
+津名	jb|s mk|e	1
+津奈木	jb|s nd mu|f	1
+津山	jb|s uj|d	1
+津屋崎	jb|s wu qi|d	1
+近江八幡	jb|t jl ba fj|d	1
+近江	jb|t jl|s	1
+京北	jk|u bw|f	1
+京极	jk|u ji|f	1
+京瀬	jk|u ld|s	1
+井波	jk|j bo|s	1
+井川	jk|j ir|q	1
+井手	jk|j uz|u	1
+井原	jk|j yr|h	1
+颈城	jk|x ig|l	1
+浄法寺	jk|s fa si|l	1
+静冈	jk|j gh|d	1
+静内	jk|j nw|d	1
+境川	jk|l ir|q	1
+境港	jk|l gh|s	1
+镜石	jk|j ui|h	1
+镜野	jk|j ye|d	1
+鸠谷	jq|e gu|w	1
+九度山	jq|e du uj|d	1
+九戸	jq|e hu|k	1
+久保田	jq|e bc tm|d	1
+久慈	jq|e ci|y	1
+久贺	jq|e he|b	1
+久井	jq|e jk|j	1
+久瀬	jq|e ld|s	1
+久留米	jq|e lq mi|y	1
+久美浜	jq|e mw bh|s	1
+久米岛	jq|e mi dc|e	1
+久米	jq|e mi|y	1
+久米南	jq|e mi nj|m	1
+久木野	jq|e mu ye|d	1
+久山	jq|e uj|d	1
+久世	jq|e ui|m	1
+久万	jq|e wj|k	1
+久喜	jq|e xi|l	1
+久野	jq|e ye|d	1
+久御山	jq|e yu uj|d	1
+久住	jq|e vu|h	1
+玖珂	jq|j ke|j	1
+玖珠	jq|j vu|j	1
+酒田	jq|s tm|d	1
+韮崎	jq|a qi|d	1
+韮山	jq|a uj|d	1
+臼杵	jq|q iu|f	1
+臼田	jq|q tm|d	1
+鹫敷	jq|u fu|m	1
+驹根	ju|c gf|f	1
+裾野	ju|i ye|d	1
+菊池	ju|a ii|s	1
+菊川	ju|a ir|q	1
+菊间	ju|a jm|p	1
+菊鹿	ju|a lu|u	1
+菊水	ju|a uv|s	1
+菊阳	ju|a yh|z	1
+具志川	ju|d vi ir|q	1
+具志头	ju|d vi tz|o	1
+倶知安	ju|h vi an|o	1
+君津	jy|v jb|s	1
+君田	jy|v tm|d	1
+郡家	jy|v jx|o	1
+郡山	jy|v uj|d	1
+开田	kd|j tm|d	1
+开闻	kd|j wf|p	1
+可儿	ke|m er|e	1
+口和	kz|g he|r	1
+口之津	kz|g vi jb|s	1
+堀金	ku|l jb|j	1
+堀之内	ku|l vi nw|d	1
+瀬峰	ld|s fg|d	1
+瀬高	ld|s gc|u	1
+瀬谷	ld|s gu|w	1
+瀬戸	ld|s hu|k	1
+瀬戸内	ld|s hu nw|d	1
+瀬戸田	ld|s hu tm|d	1
+瀬棚	ld|s pg|f	1
+浪冈	lh|s gh|d	1
+浪合	lh|s he|h	1
+浪江	lh|s jl|s	1
+礼文	li|i wf|u	1
+立川	li|u ir|q	1
+立花	li|u hx|a	1
+立科	li|u ke|r	1
+立田	li|u tm|d	1
+利府	li|r fu|u	1
+利根	li|r gf|f	1
+利贺	li|r he|b	1
+利尻	li|r kc|v	1
+利尻富士	li|r kc fu ui|l	1
+栃木	li|f mu|f	1
+栃尾	li|f ww|v	1
+栗东	li|m ds|k	1
+栗驹	li|m ju|c	1
+栗山	li|m uj|d	1
+栗野	li|m ye|d	1
+笠冈	li|r gh|d	1
+笠间	li|r jm|p	1
+笠利	li|r li|r	1
+笠沙	li|r ua|s	1
+笠松	li|r ss|f	1
+笠原	li|r yr|h	1
+笠置	li|r vi|d	1
+莲田	lm|a tm|d	1
+鎌仓	lm|j ch|h	1
+鎌谷	lm|j gu|w	1
+练马	lm|c ma|c	1
+梁川	ll|s ir|q	1
+苓北	lk|a bw|f	1
+铃鹿	lk|j lu|u	1
+菱刈	lk|a yi|w	1
+绫部	lk|c bu|u	1
+绫歌	lk|c ge|m	1
+绫瀬	lk|c ld|s	1
+绫南	lk|c nj|m	1
+绫上	lk|c uh|f	1
+霊山	lk|l uj|d	1
+留寿都	lq|e uz dz|m	1
+流山	lq|s uj|d	1
+柳川	lq|f ir|q	1
+柳谷	lq|f gu|w	1
+柳津	lq|f jb|s	1
+柳井	lq|f jk|j	1
+六戸	lq|u hu|k	1
+六日市	lq|u ri ui|u	1
+六郷	lq|u xl|c	1
+龙崎	ls|h qi|d	1
+龙郷	ls|h xl|c	1
+龙野	ls|h ye|d	1
+龙岳	ls|h yt|q	1
+芦北	lu|a bw|f	1
+芦别	lu|a bp|g	1
+芦川	lu|a ir|q	1
+芦屋	lu|a wu|v	1
+芦刈	lu|a yi|w	1
+陆别	lu|z bp|g	1
+陆前高田	lu|z qm gc tm|d	1
+鹿北	lu|u bw|f	1
+鹿本	lu|u bf|m	1
+鹿部	lu|u bu|u	1
+鹿岛	lu|u dc|e	1
+鹿岛台	lu|u dc td|x	1
+鹿嶋	lu|u dc|d	1
+鹿町	lu|u dk|d	1
+鹿瀬	lu|u ld|s	1
+鹿屋	lu|u wu|v	1
+鹿西	lu|u xi|m	1
+鹿央	lu|u yh|d	1
+鹿沼	lu|u vc|s	1
+轮岛	ly|k dc|e	1
+轮之内	ly|k vi nw|d	1
+罗臼	lo|d jq|q	1
+落合	lo|a he|h	1
+马瀬	ma|c ld|s	1
+売木	md|l mu|f	1
+満浓	mj|s ns|s	1
+茅崎	mc|a qi|d	1
+茅野	mc|a ye|d	1
+茂原	mc|a yr|h	1
+枚方	mw|f fh|u	1
+美浜	mw|y bh|s	1
+美呗	mw|y bw|g	1
+美并	mw|y bk|y	1
+美川	mw|y ir|q	1
+美甘	mw|y gj|m	1
+美和	mw|y he|r	1
+美幌	mw|y hl|d	1
+美津岛	mw|y jb dc|e	1
+美里	mw|y li|d	1
+美麻	mw|y ma|u	1
+美马	mw|y ma|c	1
+美祢	mw|y mi|i	1
+美浓加茂	mw|y ns jx mc|a	1
+美浓	mw|y ns|s	1
+美杉	mw|y uj|f	1
+美深	mw|y uf|s	1
+美土里	mw|y tu li|d	1
+美郷	mw|y xl|c	1
+美瑛	mw|y yk|j	1
+美原	mw|y yr|h	1
+美作	mw|y zo|h	1
+妹背牛	mw|b bw nq|r	1
+门别	mf|p bp|g	1
+门川	mf|p ir|q	1
+门真	mf|p vf|m	1
+虻田	mg|d tm|d	1
+梦前	mg|f qm|y	1
+弥富	mi|v fu|o	1
+弥栄	mi|v rs|o	1
+弥彦	mi|v yj|u	1
+米水津	mi|y uv jb|s	1
+米原	mi|y yr|h	1
+免田	mm|e tm|d	1
+面河	mm|h he|s	1
+妙高	mn|b gc|u	1
+妙高高原	mn|b gc gc yr|h	1
+名川	mk|e ir|q	1
+名和	mk|e he|r	1
+名护	mk|e hu|u	1
+名寄	mk|e ji|o	1
+名瀬	mk|e ld|s	1
+名立	mk|e li|u	1
+名取	mk|e qu|m	1
+名田庄	mk|e tm vl|u	1
+名张	mk|e vh|v	1
+明浜	mk|v bh|s	1
+明宝	mk|v bc|o	1
+明和	mk|v he|r	1
+明科	mk|v ke|r	1
+明石	mk|v ui|h	1
+明野	mk|v ye|d	1
+鸣瀬	mk|g ld|s	1
+鸣门	mk|g mf|p	1
+鸣子	mk|g zi|z	1
+末吉	mo|j ji|l	1
+墨田	mo|d tm|d	1
+牟礼	mz|x li|i	1
+牟岐	mz|x qi|d	1
+木曽川	mu|f cg ir|q	1
+木曽福岛	mu|f cg fu dc|e	1
+木曽岬	mu|f cg jx|d	1
+木城	mu|f ig|l	1
+木次	mu|f ci|u	1
+木岛平	mu|f dc pk|l	1
+木古内	mu|f gu nw|d	1
+木江	mu|f jl|s	1
+木津	mu|f jb|s	1
+木屋平	mu|f wu pk|l	1
+木之本	mu|f vi bf|m	1
+木祖	mu|f zu|i	1
+牧丘	mu|r qq|q	1
+牧园	mu|r yr|d	1
+幕别	mu|a bp|g	1
+雫石	na|l ui|h	1
+那覇	na|v ba|m	1
+那贺川	na|v he ir|q	1
+那贺	na|v he|b	1
+那珂川	na|v ke ir|q	1
+那珂	na|v ke|j	1
+那须	na|v xu|t	1
+那智胜浦	na|v vi ug pu|s	1
+奈半利	nd|h bj li|r	1
+奈川	nd|h ir|q	1
+奈井江	nd|h jk jl|s	1
+奈良尾	nd|h ll ww|v	1
+奈留	nd|h lq|e	1
+奈义	nd|h yi|y	1
+男鹿	nj|d lu|u	1
+南部川	nj|m bu ir|q	1
+南串山	nj|m ir uj|d	1
+南大东	nj|m da ds|k	1
+南澹	nj|m dj|s	1
+南岛	nj|m dc|e	1
+南风原	nj|m fg yr|h	1
+南富良野	nj|m fu ll ye|d	1
+南光	nj|m gl|k	1
+南幌	nj|m hl|d	1
+南箕轮	nj|m ji ly|k	1
+南茅部	nj|m mc bu|u	1
+南木曽	nj|m mu cg|y	1
+南牧	nj|m mu|r	1
+南浓	nj|m ns|s	1
+南埼玉	nj|m qi yu|j	1
+南山城	nj|m uj ig|l	1
+南势	nj|m ui|u	1
+南条	nj|m tn|e	1
+南外	nj|m wd|e	1
+南相木	nj|m xl mu|f	1
+南郷	nj|m xl|c	1
+南小国	nj|m xn go|d	1
+南信浓	nj|m xb ns|s	1
+南伊豆	nj|m yi dz|k	1
+南有马	nj|m yz ma|c	1
+南知多	nj|m vi do|e	1
+南种子	nj|m vs zi|z	1
+南足柄	nj|m zu bk|f	1
+内浦	nw|d pu|s	1
+内滩	nw|d tj|s	1
+内之浦	nw|d vi pu|s	1
+能代	ng|x dd|h	1
+能登川	ng|x dg ir|q	1
+能登岛	ng|x dg dc|e	1
+能都	ng|x dz|m	1
+能美	ng|x mw|y	1
+能势	ng|x ui|u	1
+尼崎	ni|v qi|d	1
+廿日市	nm|m ri ui|u	1
+鸟海	nn|e hd|s	1
+鸟栖	nn|e qi|f	1
+鸟取	nn|e qu|m	1
+鸟屋	nn|e wu|v	1
+鸟羽	nn|e yu|x	1
+鸟越	nn|e yt|l	1
+牛窓	nq|r il|o	1
+牛久	nq|r jq|e	1
+牛深	nq|r uf|s	1
+女川	nv|b ir|q	1
+女満别	nv|b mj bp|g	1
+杷木	pa|f mu|f	1
+磐梯	pj|t ti|f	1
+磐田	pj|t tm|d	1
+棚仓	pg|f ch|h	1
+蓬田	pg|a tm|d	1
+匹见	pi|k jm|d	1
+品川	pb|g ir|q	1
+平贺	pk|l he|b	1
+平戸	pk|l hu|k	1
+平良	pk|l ll|i	1
+平内	pk|l nw|d	1
+粕屋	po|y wu|v	1
+蒲郡	pu|a jy|v	1
+蒲生	pu|a ug|r	1
+蒲刈	pu|a yi|w	1
+蒲原	pu|a yr|h	1
+浦安	pu|s an|o	1
+浦川原	pu|s ir yr|h	1
+浦幌	pu|s hl|d	1
+浦臼	pu|s jq|q	1
+浦添	pu|s tm|s	1
+普代	pu|y dd|h	1
+七浜	qi|k bh|s	1
+七城	qi|k ig|l	1
+七饭	qi|k fj|e	1
+七戸	qi|k hu|k	1
+七山	qi|k uj|d	1
+七宿	qi|k su|o	1
+七宗	qi|k zs|o	1
+栖本	qi|f bf|m	1
+祁答院	qi|i da yr|z	1
+岐阜	qi|d fu|q	1
+岐南	qi|d nj|m	1
+岐宿	qi|d su|o	1
+崎戸	qi|d hu|k	1
+気高	qi|r gc|u	1
+気仙沼	qi|r xm vc|s	1
+千代田	qm|r dd tm|d	1
+千丁	qm|r dk|m	1
+千厩	qm|r jq|h	1
+千早赤坂	qm|r zc ii bj|l	1
+前津江	qm|y jb jl|s	1
+前原	qm|y yr|h	1
+浅川	qm|s ir|q	1
+浅井	qm|s jk|j	1
+浅科	qm|s ke|r	1
+浅羽	qm|s yu|x	1
+秦野	qb|j ye|d	1
+琴海	qb|j hd|s	1
+琴南	qb|j nj|m	1
+琴平	qb|j pk|l	1
+琴丘	qb|j qq|q	1
+寝屋川	qb|o wu ir|q	1
+青谷	qk|j gu|w	1
+青垣	qk|j yr|l	1
+清川	qk|s ir|q	1
+清见	qk|s jm|d	1
+清瀬	qk|s ld|s	1
+清里	qk|s li|d	1
+清内路	qk|s nw lu|g	1
+清武	qk|s wu|j	1
+清洲	qk|s vz|s	1
+鲭江	vg|e jl|s	1
+秋芳	qq|r fh|a	1
+秋穂	qq|r sv|r	1
+取手	qu|m uz|u	1
+泉大津	qr|q da jb|s	1
+泉南	qr|q nj|m	1
+泉崎	qr|q qi|d	1
+泉佐野	qr|q zo ye|d	1
+犬山	qr|h uj|d	1
+犬饲	qr|h si|e	1
+热海	re|u hd|s	1
+仁淀	rf|h dm|s	1
+仁多	rf|h do|e	1
+仁贺保	rf|h he bc|h	1
+仁摩	rf|h mo|u	1
+仁木	rf|h mu|f	1
+仁尾	rf|h ww|v	1
+忍野	rf|b ye|d	1
+日和佐	ri|v he zo|h	1
+日吉	ri|v ji|l	1
+日吉津	ri|v ji jb|s	1
+日南	ri|v nj|m	1
+日生	ri|v ug|r	1
+日田	ri|v tm|d	1
+日向	ri|v xl|q	1
+日野	ri|v ye|d	1
+日义	ri|v yi|y	1
+日原	ri|v yr|h	1
+日之影	ri|v vi yk|v	1
+日置川	ri|v vi ir|q	1
+日置	ri|v vi|d	1
+宍喰	rz|o cj|g	1
+宍道	rz|o dc|y	1
+入広瀬	ru|w gl ld|s	1
+入间	ru|w jm|p	1
+入来	ru|w ld|l	1
+入善	ru|w uj|y	1
+瑞浪	rv|j lh|s	1
+瑞穂	rv|j sv|r	1
+若草	ro|a cc|a	1
+若宫	ro|a gs|o	1
+若柳	ro|a lq|f	1
+若美	ro|a mw|y	1
+若桜	ro|a yk|f	1
+三本木	sj|j bf mu|f	1
+三刀屋	sj|j dc wu|v	1
+三和町神石	sj|j he dk uf ui|h	1
+三和町双三	sj|j he dk ul sj|j	1
+三戸	sj|j hu|k	1
+三加和	sj|j jx he|r	1
+三加茂	sj|j jx mc|a	1
+三瀬	sj|j ld|s	1
+三良坂	sj|j ll bj|l	1
+三崎	sj|j qi|d	1
+三日月	sj|j ri yt|c	1
+三石	sj|j ui|h	1
+三田川	sj|j tm ir|q	1
+三田	sj|j tm|d	1
+三郷	sj|j xl|c	1
+三鹰	sj|j yk|u	1
+三隅	sj|j yu|z	1
+三岳	sj|j yt|q	1
+三云	sj|j yy|j	1
+三宅	sj|j vd|o	1
+三珠	sj|j vu|j	1
+三潴	sj|j vu|s	1
+桑名	sh|x mk|e	1
+桑折	sh|x ve|u	1
+色麻	se|e ma|u	1
+森吉	sf|f ji|l	1
+森田	sf|f tm|d	1
+砂川	ua|h ir|q	1
+山北	uj|d bw|f	1
+山都	uj|d dz|m	1
+山古志	uj|d gu vi|l	1
+山江	uj|d jl|s	1
+山鹿	uj|d lu|u	1
+山手	uj|d uz|u	1
+山添	uj|d tm|s	1
+山武	uj|d wu|j	1
+山之口	uj|d vi kz|g	1
+山中湖	uj|d vs hu|s	1
+杉并	uj|f bk|y	1
+苫小牧	uj|a xn mu|r	1
+善通寺	uj|y ts si|l	1
+上北	uh|f bw|f	1
+上北山	uh|f bw uj|d	1
+上川	uh|f ir|q	1
+上都贺	uh|f du he|b	1
+上対马	uh|f dv ma|c	1
+上福冈	uh|f fu gh|d	1
+上富良野	uh|f fu ll ye|d	1
+上富田	uh|f fu tm|d	1
+上矶	uh|f ji|h	1
+上津江	uh|f jb jl|s	1
+上九一色	uh|f jq yi se|e	1
+上牧	uh|f mu|r	1
+上那贺	uh|f na he|b	1
+上平	uh|f pk|l	1
+上砂川	uh|f ua ir|q	1
+上山田	uh|f uj tm|d	1
+上胜	uh|f ug|c	1
+上石津	uh|f ui jb|s	1
+上矢作	uh|f ui zo|h	1
+上士幌	uh|f ui hl|d	1
+上松	uh|f ss|f	1
+上田	uh|f tm|d	1
+上尾	uh|f ww|v	1
+上屋久	uh|f wu jq|e	1
+上五岛	uh|f wu dc|e	1
+上县	uh|f xm|d	1
+上小阿仁	uh|f xn aa rf|h	1
+上阳	uh|f yh|z	1
+上野原	uh|f ye yr|h	1
+上涌别	uh|f ys bp|g	1
+上越	uh|f yt|l	1
+上甑	uh|f zg|y	1
+上斋原	uh|f vd yr|h	1
+上之保	uh|f vi bc|h	1
+上志比	uh|f vi bi|k	1
+焼津	uc|y jb|s	1
+摂津	ue|u jb|s	1
+身延	uf|q yj|q	1
+深川	uf|s ir|q	1
+深江	uf|s jl|s	1
+深浦	uf|s pu|s	1
+神冈	uf|i gh|d	1
+神戸	uf|i hu|k	1
+神恵内	uf|i hv nw|d	1
+神林	uf|i lb|f	1
+神埼	uf|i qi|l	1
+神崎	uf|i qi|d	1
+神石	uf|i ui|h	1
+神郷	uf|i xl|c	1
+甚目寺	uf|m mu si|l	1
+生坂	ug|r bj|l	1
+生驹	ug|r ju|c	1
+生名	ug|r mk|e	1
+生田原	ug|r tm yr|h	1
+生野	ug|r ye|d	1
+生月	ug|r yt|c	1
+圣笼	ug|x ls|r	1
+胜北	ug|c bw|f	1
+胜本	ug|c bf|m	1
+胜浦	ug|c pu|s	1
+胜山	ug|c uj|d	1
+胜田	ug|c tm|d	1
+胜央	ug|c yh|d	1
+胜沼	ug|c vc|s	1
+盛冈	ug|h gh|d	1
+十岛	ui|m dc|e	1
+十和	ui|m he|r	1
+十和田湖	ui|m he tm hu|s	1
+十和田	ui|m he tm|d	1
+十津川	ui|m jb ir|q	1
+十日町	ui|m ri dk|d	1
+十四山	ui|m si uj|d	1
+石部	ui|h bu|u	1
+石川	ui|h ir|q	1
+石冈	ui|h gh|d	1
+石和	ui|h he|r	1
+石见	ui|h jm|d	1
+石井	ui|h jk|j	1
+石巻	ui|h jr|y	1
+石鸟谷	ui|h nn gu|w	1
+石狩	ui|h uz|e	1
+石垣	ui|h yr|l	1
+时津	ui|v jb|s	1
+矢板	ui|r bj|f	1
+矢本	ui|r bf|m	1
+矢部	ui|r bu|u	1
+矢吹	ui|r iv|g	1
+矢岛	ui|r dc|e	1
+矢挂	ui|r gx|u	1
+矢祭	ui|r ji|e	1
+矢巾	ui|r jb|d	1
+士别	ui|l bp|g	1
+士幌	ui|l hl|d	1
+世罗	ui|m lo|d	1
+世罗西	ui|m lo xi|m	1
+世知原	ui|m vi yr|h	1
+市川大门	ui|u ir da mf|p	1
+市川	ui|u ir|q	1
+市岛	ui|u dc|e	1
+市来	ui|u ld|l	1
+市浦	ui|u pu|s	1
+市原	ui|u yr|h	1
+势多	ui|u do|e	1
+势和	ui|u he|r	1
+柿木	ui|f mu|f	1
+柿崎	ui|f qi|d	1
+室根	ui|o gf|f	1
+室戸	ui|o hu|k	1
+室兰	ui|o lj|y	1
+室生	ui|o ug|r	1
+寿都	uz|j dz|m	1
+双海	ul|x hd|s	1
+滝川	ls|s ir|q	1
+滝根	ls|s gf|f	1
+滝上	ls|s uh|f	1
+滝野	ls|s ye|d	1
+水戸	uv|s hu|k	1
+水巻	uv|s jr|y	1
+水俣	uv|s yu|h	1
+四街道	si|d jp dc|y	1
+四条畷	si|d tn vv|d	1
+寺泊	si|l bo|s	1
+寺井	si|l jk|j	1
+松坂	ss|f bj|l	1
+松川	ss|f ir|q	1
+松代	ss|f dd|h	1
+松岛	ss|f dc|e	1
+松冈	ss|f gh|d	1
+松戸	ss|f hu|k	1
+松崎	ss|f qi|d	1
+松前	ss|f qm|y	1
+松任	ss|f rf|h	1
+松尾	ss|f ww|v	1
+松元	ss|f yr|j	1
+松之山	ss|f vi uj|d	1
+粟岛浦	su|m dc pu|s	1
+粟国	su|m go|d	1
+穂别	sv|r bp|g	1
+穂波	sv|r bo|s	1
+穂高	sv|r gc|u	1
+穂积	sv|r ji|r	1
+隼人	sy|h rf|h	1
+太地	td|h di|l	1
+太田	td|h tm|d	1
+太宰府	td|h zd fu|u	1
+泰阜	td|j fu|q	1
+滩崎	tj|s qi|d	1
+汤布院	th|s bu yr|z	1
+汤川	th|s ir|q	1
+汤来	th|s ld|l	1
+汤前	th|s qm|y	1
+汤田	th|s tm|d	1
+汤原	th|s yr|h	1
+汤之谷	uh|s vi gu|w	1
+唐津	th|u jb|s	1
+唐桑	th|u sh|x	1
+桃生	tc|f ug|r	1
+檮原	iz|f yr|h	1
+藤岛	tg|a dc|e	1
+藤冈	tg|a gh|d	1
+藤井寺	tg|a jk si|l	1
+藤里	tg|a li|d	1
+藤崎	tg|a qi|d	1
+藤枝	tg|a qi|f	1
+鹈殿	ti|y dm|v	1
+天城汤岛	tm|j ig th dc|e	1
+天川	tm|j ir|q	1
+天间林	tm|j jm lb|f	1
+天瀬	tm|j ld|s	1
+天童	tm|j ts|u	1
+添田	tm|s tm|d	1
+田布施	tm|d bu ui|u	1
+田代	tm|d dd|h	1
+田岛	tm|d dc|e	1
+田富	tm|d fu|o	1
+田鹤浜	tm|d he bh|s	1
+田尻	tm|d kc|v	1
+田老	tm|d lc|m	1
+田平	tm|d pk|l	1
+田浦	tm|d pu|s	1
+田上	tm|d uh|f	1
+田万川	tm|d wj ir|q	1
+田原本	tm|d yr bf|m	1
+田原	tm|d yr|h	1
+田主丸	tm|d vu wj|e	1
+调布	tn|n bu|h	1
+樋脇	ts|f xp|c	1
+桐生	ts|f ug|r	1
+桶川	ts|f ir|q	1
+筒贺	ts|r he|b	1
+土成	tu|l ig|h	1
+土居	tu|l ju|v	1
+土浦	tu|l pu|s	1
+土岐	tu|l qi|d	1
+土佐清水	tu|l zo qk uv|s	1
+土佐山	tu|l zo uj|d	1
+土佐山田	tu|l zo uj tm|d	1
+菟田野	tu|a tm ye|d	1
+洼川	wa|s ir|q	1
+丸冈	wj|e gh|d	1
+丸瀬布	wj|e ld bu|h	1
+丸森	wj|e sf|f	1
+王滝	wh|j ls|s	1
+网野	wh|d ye|d	1
+网走	wh|d zz|l	1
+尾道	ww|v dc|y	1
+尾鹫	yi|v jq|u	1
+尾口	ww|v kz|g	1
+尾上	ww|v uh|f	1
+尾西	ww|v xi|m	1
+尾张旭	ww|v vh xu|e	1
+味方	ww|g fh|u	1
+温海	wf|s hd|s	1
+温泉津	wf|s qr jb|s	1
+文京	wf|u jk|u	1
+纹别	wf|c bp|g	1
+我孙子	wo|r sy zi|z	1
+渥美	wo|s mw|y	1
+屋久	wu|v jq|e	1
+吾北	wu|m bw|f	1
+吾川	wu|m ir|q	1
+吾平	wu|m pk|l	1
+吾妻	wu|m qi|k	1
+五城目	wu|m ig mu|d	1
+五和	wu|m he|r	1
+五戸	wu|m hu|k	1
+五瀬	wu|m ld|s	1
+五木	wu|m mu|f	1
+五泉	wu|m qr|q	1
+五十崎	wu|m ui qi|d	1
+五所川原	wu|m so ir yr|h	1
+武石	wu|j ui|h	1
+武雄	wu|j xs|h	1
+武仪	wu|j yi|h	1
+武芸川	wu|j yy ir|q	1
+鹉川	wu|j ir|q	1
+舞坂	wu|r bj|l	1
+物部	wu|r bu|u	1
+雾岛	wu|l dc|e	1
+夕张	xi|e vh|v	1
+西彼	xi|m bi|i	1
+西春	xi|m iy|j	1
+西茨城	xi|m ci ig|l	1
+西澹	xi|m dj|s	1
+西东京	xi|m ds jk|u	1
+西都	xi|m du|m	1
+西根	xi|m gf|f	1
+西桂	xi|m gv|f	1
+西合志	xi|m he vi|l	1
+西会津	xi|m hv jb|s	1
+西吉野	xi|m ji ye|d	1
+西米良	xi|m mi ll|i	1
+西木	xi|m mu|f	1
+西目	xi|m mu|d	1
+西目屋	xi|m mu wu|v	1
+西枇杷岛	xi|m pi pa dc|e	1
+西浅井	xi|m qm jk|j	1
+西粟仓	xi|m su ch|h	1
+西条	xi|m tn|e	1
+西土佐	xi|m tu zo|h	1
+西尾	xi|m ww|v	1
+西仙北	xi|m xm bw|f	1
+西郷	xi|m xl|c	1
+西脇	xi|m xp|c	1
+西兴部	xi|m xk bu|u	1
+西伊豆	xi|m yi dz|k	1
+西有家	xi|m yz jx|o	1
+西有田	xi|m yz tm|d	1
+西之表	xi|m vi bn|j	1
+西祖谷山	xi|m zu gu uj|d	1
+犀川	xi|v ir|q	1
+嬉野	xi|b ye|d	1
+习志野	xi|x vi ye|d	1
+喜多方	xi|l do fh|u	1
+喜界	xi|l jp|d	1
+喜茂别	xi|l mc bp|g	1
+喜入	xi|l ru|w	1
+细江	xi|c jl|s	1
+细入	xi|c ru|w	1
+潟东	xi|s ds|k	1
+狭山	xx|e uj|d	1
+下北山	xx|m bw uj|d	1
+下都贺	xx|m dz he|b	1
+下津	xx|m jb|s	1
+下吕	xx|m lv|g	1
+下蒲刈	xx|m pu yi|w	1
+下妻	xx|m qi|k	1
+下松	xx|m ss|f	1
+下条	xx|m tn|e	1
+下郷	xx|m xl|c	1
+下甑	xx|m zg|y	1
+下诹访	xx|m zz fh|n	1
+仙北	xm|h bw|f	1
+仙南	xm|h nj|m	1
+相川	xl|f ir|q	1
+相良	xl|f ll|i	1
+香北	xl|r bw|f	1
+香春	xl|r iy|j	1
+香地	xl|r di|l	1
+香良洲	xl|r ll vz|s	1
+香南	xl|r nj|m	1
+香取	xl|r qu|m	1
+香焼	xl|r uc|y	1
+香寺	xl|r si|l	1
+香我美	xl|r wo mw|y	1
+香芝	xl|r vi|a	1
+香住	xl|r vu|h	1
+郷浦	xl|c pu|s	1
+向岛	xl|q dc|e	1
+向原	xl|q yr|h	1
+象潟	xl|e xi|s	1
+小坂	xn|k bj|l	1
+小坂井	xn|k bj jk|j	1
+小浜	xn|k bh|s	1
+小泊	xn|k bo|s	1
+小布施	xn|k bu ui|u	1
+小出	xn|k iu|z	1
+小菅	xn|k jm|a	1
+小郡	xn|k jy|v	1
+小笠	xn|k li|r	1
+小牛田	xn|k nq tm|d	1
+小千谷	xn|k qm gu|w	1
+小清水	xn|k qk uv|s	1
+小石原	xn|k ui yr|h	1
+小矢部	xn|k ui bu|u	1
+小松岛	xn|k ss dc|e	1
+小田原	xn|k tm yr|h	1
+小须戸	xn|k xu hu|k	1
+小野田	xn|k ye tm|d	1
+小长井	xn|k ih jk|j	1
+小値贺	xn|k vi he|b	1
+小诸	xn|k vu|n	1
+小竹	xn|k vu|r	1
+小佐	xn|k zo|h	1
+斜里	xp|h li|d	1
+蟹江	xp|e jl|s	1
+蟹田	xp|e tm|d	1
+新川	xb|u ir|q	1
+新凑	xb|u cz|u	1
+新得	xb|u de|i	1
+新宫	xb|u gs|o	1
+新鹤	xb|u he|i	1
+新吉富	xb|u ji fu|o	1
+新见	xb|u jm|d	1
+新津	xb|u jb|s	1
+新居浜	xb|u ju bh|s	1
+新里	xb|u li|d	1
+新南阳	xb|u nj yh|z	1
+新十津川	xb|u ui jb ir|q	1
+新穂	xb|u sv|r	1
+新郷	xb|u xl|c	1
+新旭	xb|u xu|e	1
+新鱼目	xb|u yu mu|d	1
+新治	xb|u vi|s	1
+新庄	xb|u vl|u	1
+新座	xb|u zo|u	1
+信浓	xb|h ns|s	1
+信州新	xb|h vz xb|u	1
+兴部	xk|o bu|u	1
+幸手	xk|l uz|u	1
+幸田	xk|l tm|d	1
+雄和	xs|h he|r	1
+雄胜	xs|h ug|c	1
+雄踏	xs|h ta|g	1
+雄物川	xs|h wu ir|q	1
+熊毛	xs|x mc|r	1
+熊取	xs|x qu|m	1
+熊山	xs|x uj|d	1
+熊石	xs|x ui|h	1
+熊野川	xs|x ye ir|q	1
+熊野	xs|x ye|d	1
+修善寺	xq|h uj si|l	1
+宿毛	su|o mc|r	1
+袖浦	xq|i pu|s	1
+须坂	xu|t bj|l	1
+须贺川	xu|t he ir|q	1
+须恵	xu|t hv|m	1
+须惠	xu|t hv|m	1
+须木	xu|t mu|f	1
+须崎	xu|t qi|d	1
+须玉	xu|t yu|j	1
+须佐	xu|t zo|h	1
+旭志	xu|e vi|l	1
+绪方	xu|c fh|u	1
+玄海	xr|u hd|s	1
+穴吹	xt|o iv|g	1
+训子府	xy|n zi fu|u	1
+鸭川	ya|d ir|q	1
+鸭岛	ya|d dc|e	1
+鸭方	ya|d fh|u	1
+芽室	ya|a ui|o	1
+延冈	yj|q gh|d	1
+岩仓	yj|d ch|h	1
+岩城	yj|d ig|l	1
+岩出	yj|d iu|z	1
+岩出山	yj|d iu uj|d	1
+岩村	yj|d cy|f	1
+岩代	yj|d dd|h	1
+岩槻	yj|d gv|f	1
+岩国	yj|d go|d	1
+岩瀬	yj|d ld|s	1
+岩美	yj|d mw|y	1
+岩木	yj|d mu|f	1
+岩内	yj|d nw|d	1
+岩室	yj|d ui|o	1
+岩手	yj|d uz|u	1
+岩滝	yj|d ls|s	1
+岩沼	yj|d vc|s	1
+厳木	yj|o mu|f	1
+厳原	yj|o yr|h	1
+彦根	yj|u gf|f	1
+様似	yh|f si|h	1
+耶马溪	ye|m ma xi|s	1
+野津	ye|d jb|s	1
+野津原	ye|d jb yr|h	1
+野尻	ye|d kc|v	1
+野母崎	ye|d mu qi|d	1
+野迫川	ye|d po ir|q	1
+野上	ye|d uh|f	1
+野市	ye|d ui|u	1
+野田川	ye|d tm ir|q	1
+野田	ye|d tm|d	1
+野洲	ye|d vz|s	1
+叶山	ye|g uj|d	1
+夜久野	ye|u jq ye|d	1
+夜须	ye|u xu|t	1
+一本松	yi|k bf ss|f	1
+一宫	yi|k gs|o	1
+一宫町津名	yi|k gs dk jb mk|e	1
+一宫町宍粟	yi|k gs dk rz su|m	1
+一戸	yi|k hu|k	1
+一迫	yi|k po|q	1
+一宇	yi|k yu|o	1
+伊吹	yi|h iv|g	1
+伊丹	yi|h dj|e	1
+伊东	yi|h ds|k	1
+伊豆长冈	yi|h dz ih gh|d	1
+伊方	yi|h fh|u	1
+伊根	yi|h gf|f	1
+伊集院	yi|h ji yr|z	1
+伊江	yi|h jl|s	1
+伊良部	yi|h ll bu|u	1
+伊那	yi|h na|v	1
+伊南	yi|h nj|m	1
+伊平屋	yi|h pk wu|v	1
+伊势崎	yi|h ui qi|d	1
+伊势原	yi|h ui yr|h	1
+伊是名	yi|h ui mk|e	1
+伊万里	yi|h wj li|d	1
+伊王岛	yi|h wh dc|e	1
+伊仙	yi|h xm|h	1
+伊野	yi|h ye|d	1
+伊予三岛	yi|h yu sj dc|e	1
+伊予	yi|h yu|x	1
+伊自良	yi|h zi ll|i	1
+衣川	yi|u ir|q	1
+揖保川	yi|u bc ir|q	1
+揖斐川	yi|u fw ir|q	1
+夷隅	yi|k yu|z	1
+宜野湾	yi|o ye wj|s	1
+宜野座	yi|o ye zo|u	1
+刈谷	yi|w gu|w	1
+刈羽	yi|w yu|x	1
+邑久	yi|g jq|e	1
+邑智	yi|g vi|r	1
+益城	yi|y ig|l	1
+益田	yi|y tm|d	1
+因岛	yb|d dc|e	1
+音别	yb|u bp|g	1
+音更	yb|u gg|m	1
+音戸	yb|u hu|k	1
+音威子府	yb|u ww zi fu|u	1
+音羽	yb|u yu|x	1
+引田	yb|v tm|d	1
+引佐	yb|v zo|h	1
+印旛	yb|e fj|u	1
+印南	yb|e nj|m	1
+印西	yb|e xi|m	1
+英田	yk|a tm|d	1
+桜岛	yk|f dc|e	1
+桜江	yk|f jl|s	1
+桜井	yk|f jk|j	1
+鹰岛	yk|u dc|e	1
+鹰栖	yk|u qi|f	1
+永平寺	ys|i pk si|l	1
+永源寺	ys|i yr si|l	1
+涌别	ys|s bp|g	1
+涌谷	ys|s gu|w	1
+用瀬	ys|e ld|s	1
+由比	yz|d bi|k	1
+由利	yz|d li|r	1
+由良	yz|d ll|i	1
+由岐	yz|d qi|d	1
+由仁	yz|d rf|h	1
+由宇	yz|d yu|o	1
+油谷	yz|s gu|w	1
+油木	yz|s mu|f	1
+游佐	yz|s zo|h	1
+有川	yz|h ir|q	1
+有汉	yz|h hj|s	1
+有明	yz|h mk|v	1
+有田	yz|h tm|d	1
+余目	yu|h mu|d	1
+余市	yu|h ui|u	1
+余呉	yu|h wu|g	1
+鱼岛	yu|e dc|e	1
+鱼津	yu|e jb|s	1
+与板	yu|k bj|f	1
+与论	yu|k ly|n	1
+与那城	yu|k na ig|l	1
+与那国	yu|k na go|d	1
+与那原	yu|k na yr|h	1
+宇部	yu|o bu|u	1
+宇多津	yu|o do jb|s	1
+宇和岛	yu|o he dc|e	1
+宇和	yu|o he|r	1
+宇検	yu|o jm|f	1
+宇久	yu|o jq|e	1
+宇美	yu|o mw|y	1
+宇目	yu|o mu|d	1
+宇奈月	yu|o nd yt|c	1
+宇気	yu|o qi|r	1
+宇土	yu|o tu|l	1
+宇治	yu|o vi|s	1
+宇治田原	yu|o vi tm yr|h	1
+宇佐	yu|o zo|h	1
+羽村	yu|x cy|f	1
+羽岛	yu|x dc|e	1
+羽合	yu|x he|h	1
+羽后	yu|x hz|t	1
+羽幌	yu|x hl|d	1
+羽茂	yu|x mc|a	1
+羽浦	yu|x pu|s	1
+羽生	yu|x ug|r	1
+羽须美	yu|x xu mw|y	1
+羽曳野	yu|x ye ye|d	1
+羽咋	yu|x za|g	1
+玉城	yu|j ig|l	1
+玉东	yu|j ds|k	1
+玉名	yu|j mk|e	1
+玉穂	yu|j sv|r	1
+玉汤	yu|j th|s	1
+玉野	yu|j ye|d	1
+玉之浦	yu|j vi pu|s	1
+御坂	yu|i bj|l	1
+御浜	yu|i bh|s	1
+御船	yu|i ir|t	1
+御代田	yu|i dd tm|d	1
+御殿场	yu|i dm ih|l	1
+御津	yu|i jb|s	1
+御前崎	yu|i qm qi|d	1
+御嵩	yu|i ss|d	1
+御所浦	yu|i so pu|s	1
+御所	yu|i so|t	1
+御调	yu|i dn|n	1
+园部	yr|d bu|u	1
+员弁	yr|g bm|x	1
+原町	yr|h dk|d	1
+猿岛	yr|e dc|e	1
+远别	yr|j bp|g	1
+远贺	yr|j he|b	1
+月潟	yt|c xi|s	1
+越谷	yt|l gu|w	1
+芸北	yy|a bw|f	1
+芸西	yy|a xi|m	1
+匝嵯	za|k co|d	1
+早川	zc|v ir|q	1
+早岛	zc|v dc|e	1
+増毛	zg|l mc|r	1
+増穂	zg|l sv|r	1
+増田	zg|l tm|d	1
+占冠	vj|f gr|i	1
+长坂	ih|r bj|l	1
+长浜	ih|r bh|s	1
+长船	ih|r ir|t	1
+长冈京	ih|r gh jk|u	1
+长冈	ih|r gh|d	1
+长谷	ih|r gu|w	1
+长井	ih|r jk|j	1
+长久手	ih|r jq uz|u	1
+长泉	ih|r qr|q	1
+长万部	ih|r wj bu|u	1
+长阳	ih|r yh|z	1
+长与	ih|r yu|k	1
+长沼	ih|r vc|s	1
+昭岛	vc|v dc|e	1
+沼津	vc|s jb|s	1
+沼田	vc|s tm|d	1
+沼隈	vc|s ww|z	1
+哲多	ve|u do|e	1
+哲西	ve|u xi|m	1
+贞光	vf|f gl|k	1
+真备	vf|m bw|e	1
+真壁	vf|m bi|v	1
+真冈	vf|m gh|d	1
+真室川	vf|m ui ir|q	1
+真狩	vf|m uz|e	1
+真野	vf|m ye|d	1
+真玉	vf|m yu|j	1
+榛原	vf|f yr|h	1
+枕崎	vf|f qi|d	1
+姫岛	vf|b dc|e	1
+姫戸	vf|b hu|k	1
+姫路	vf|b lu|g	1
+芝川	vi|a ir|q	1
+枝幸	vi|f xk|l	1
+知多	vi|r do|e	1
+知夫	vi|r fu|j	1
+知内	vi|r nw|d	1
+知念	vi|r nm|h	1
+直川	vi|m ir|q	1
+直岛	vi|m dc|e	1
+指宿	vi|u su|o	1
+志波姫	vi|l bo vf|b	1
+志布志	vi|l bu vi|l	1
+志贺	vi|l he|b	1
+志津川	vi|l jb ir|q	1
+志免	vi|l mm|e	1
+志木	vi|l mu|f	1
+栉形	vi|f xk|j	1
+栉引	vi|f yb|v	1
+秩父别	vi|r fu bp|g	1
+秩父	vi|r fu|w	1
+蛭川	vi|d ir|q	1
+智头	vi|r tz|o	1
+置戸	vi|d hu|k	1
+稚内	vi|r nw|d	1
+中标津	vs|d bn jb|s	1
+中城	vs|d ig|l	1
+中川	vs|d ir|q	1
+中川根	vs|d ir gf|f	1
+中顿别	vs|d dy bp|g	1
+中富	vs|d fu|o	1
+中富良野	vs|d fu ll ye|d	1
+中津川	vs|d jb ir|q	1
+中津	vs|d jb|s	1
+中津江	vs|d jb jl|s	1
+中里	vs|d li|d	1
+中条	vs|d tn|e	1
+中土佐	vs|d tu zo|h	1
+中仙	vs|d xm|h	1
+中郷	vs|d xl|c	1
+中新田	vs|d xb tm|d	1
+中野	vs|d ye|d	1
+中伊豆	vs|d yi dz|k	1
+中札内	vs|d va nw|d	1
+中之岛	vs|d vi dc|e	1
+中之口	vs|d vi kz|g	1
+中种子	vs|d vs zi|z	1
+中主	vs|d vu|u	1
+忠冈	vs|d gh|d	1
+忠类	vs|d lw|y	1
+种市	is|r ui|u	1
+仲南	vs|h nj|m	1
+重信	vs|r xb|h	1
+舟形	vz|t xk|j	1
+周东	vz|e ds|k	1
+洲本	vz|s bf|m	1
+珠洲	vu|j vz|s	1
+诸富	vu|n fu|o	1
+猪苗代	vu|e mn dd|h	1
+猪名川	vu|e mk ir|q	1
+竹富	vu|r fu|o	1
+竹田	vu|r tm|d	1
+竹野	vu|r ye|d	1
+住田	vu|h tm|d	1
+住用	vu|h ys|e	1
+筑波	vu|r bo|s	1
+筑馆	vu|r gr|e	1
+筑后	vu|r hz|t	1
+筑穂	vu|r sv|r	1
+筑紫野	vu|r zi ye|d	1
+庄川	vl|u ir|q	1
+庄原	vl|u yr|h	1
+椎田	vv|f tm|d	1
+椎叶	vv|f ye|g	1
+滋贺	zi|s he|b	1
+梓川	zi|f ir|q	1
+紫波	zi|f bo|s	1
+紫云寺	zi|f yy si|l	1
+宗像	zs|o xl|h	1
+足柄上	zu|g bk uh|f	1
+足柄下	zu|g bk xx|m	1
+足和田	zu|g he tm|d	1
+足寄	zu|g ji|o	1
+足立	zu|g li|u	1
+足利	zu|g li|r	1
+足助	zu|g vu|d	1
+祖父江	zu|i fu jl|s	1
+佐波	zo|h bo|s	1
+佐仓	zo|h ch|h	1
+佐多	zo|h do|e	1
+佐敷	zo|h fu|m	1
+佐和田	zo|h he tm|d	1
+佐贺	zo|h he|b	1
+佐久	zo|h jq|e	1
+佐吕间	zo|h lv jm|p	1
+佐那河内	zo|h na he nw|d	1
+佐田	zo|h tm|d	1
+佐土原	zo|h tu yr|h	1
+佐屋	zo|h wu|v	1
+佐野	zo|h ye|d	1
+佐用	zo|h ys|e	1
+佐原	zo|h yr|h	1
+佐织	zo|h vi|c	1
+作东	zo|h ds|k	1
+作木	zo|h mu|f	1
+座间	zo|u jm|p	1
+座间味	zo|u jm ww|g	1
+# 日本姓氏人名
+渡辺	du|s bm|b	2005
+木村	mu|f cy|f	1074
+斎藤	vd|u tg|a	1017
+阿部	aa|z bu|u	868
+藤田	tg|a tm|d	723
+后藤	hz|t tg|a	716
+冈田	gh|d tm|d	703
+远藤	yr|j tg|a	626
+斉藤	qi|u tg|a	625
+藤井	tg|a jk|j	592
+田村	tm|d cy|f	536
+竹内	vu|r nw|d	532
+内田	nw|d tm|d	431
+高木	gc|u mu|f	431
+安藤	an|o tg|a	420
+丸山	wj|e uj|d	403
+今井	jb|h jk|j	395
+杉山	uj|f uj|d	384
+菅原	jm|a yr|h	380
+大冢	da|h vs|i	366
+久保	jq|e bc|h	360
+渡部	du|s bu|u	352
+菊地	ju|a di|l	347
+野口	ye|d kz|g	347
+杉本	uj|f bf|m	337
+五十岚	wu|m ui lj|d	307
+樋口	ts|f kz|g	274
+田口	tm|d kz|g	272
+永井	ys|i jk|j	269
+森本	sf|f bf|m	266
+矢野	ui|r ye|d	266
+吉冈	ji|l gh|d	253
+浅野	qm|s ye|d	251
+荒木	hl|a mu|f	250
+川村	ir|q cy|f	248
+大谷	da|h gu|w	241
+尾崎	ww|v qi|d	238
+黒田	hw|d tm|d	237
+菅野	jm|a ye|d	237
+永田	ys|i tm|d	236
+内藤	nw|d tg|a	234
+松村	ss|f cy|f	232
+田辺	tm|d bm|b	228
+本间	bf|m jm|p	224
+平井	pk|l jk|j	224
+岩本	yj|d bf|m	222
+镰田	lm|j tm|d	217
+荒井	hl|a jk|j	215
+须藤	xu|t tg|a	210
+筿原	xn|r yr|h	207
+萩原	qq|a yr|h	205
+栗原	li|m yr|h	203
+桑原	sh|x yr|h	201
+沢田	ze|s tm|d	199
+奥村	ao|q cy|f	197
+内山	nw|d uj|d	196
+片冈	pm|q gh|d	195
+松永	ss|f ys|i	193
+関口	gr|d kz|g	193
+上原	uh|f yr|h	191
+奥田	ao|q tm|d	189
+今村	jb|h cy|f	186
+富田	fu|o tm|d	185
+小沢	xn|k ze|s	183
+小野寺	xn|k ye si|l	183
+冈村	gh|d cy|f	182
+中尾	vs|d ww|v	182
+坂口	bj|l kz|g	181
+寺田	si|l tm|d	181
+児玉	er|d yu|j	179
+多田	do|e tm|d	176
+小笠原	xn|k li yr|h	175
+渋谷	se|s gu|w	175
+杉浦	uj|f pu|s	172
+小原	xn|k yr|h	169
+天野	tm|j ye|d	167
+豊田	li|d tm|d	166
+武藤	wu|j tg|a	165
+水谷	uv|s gu|w	165
+森下	sf|f xx|m	165
+河村	he|s cy|f	165
+饭冢	fj|e vs|i	162
+関根	gr|d gf|f	162
+冢本	vs|i bf|m	160
+神田	uf|i tm|d	160
+前川	qm|y ir|q	159
+植田	vi|f tm|d	159
+安部	an|o bu|u	158
+中井	vs|d jk|j	158
+白井	bd|q jk|j	156
+长田	vh|r tm|d	154
+堀内	ku|l nw|d	154
+畠山	tm|q uj|d	153
+及川	ji|e ir|q	152
+若林	ro|a lb|f	151
+稲垣	dc|r yr|l	149
+细川	xi|c ir|q	149
+森山	sf|f uj|d	149
+今野	jb|h ye|d	148
+中谷	vs|d gu|w	148
+斋藤	vd|u tg|a	146
+中嶋	vs|d dc|d	146
+大沢	da|h ze|s	145
+榎本	jx|f bf|m	143
+石冢	ui|h vs|i	143
+本多	bf|m do|e	139
+森川	sf|f ir|q	138
+稲叶	dc|r ye|g	138
+中沢	vs|d ze|s	137
+津田	jb|s tm|d	136
+冈野	gh|d ye|d	135
+米田	mi|y tm|d	134
+黒木	hw|d mu|f	134
+西冈	xi|m gh|d	131
+堀田	ku|l tm|d	130
+山岸	uj|d an|d	130
+野崎	ye|d qi|d	130
+西野	xi|m ye|d	126
+徳永	de|i ys|i	124
+土田	tu|l tm|d	123
+黒川	hw|d ir|q	123
+滝沢	ls|s ze|s	121
+奥山	ao|q uj|d	121
+须田	xu|t tm|d	120
+野中	ye|d vs|d	118
+堀江	ku|l jl|s	118
+村井	cy|f jk|j	117
+川端	ir|q dr|u	114
+梶原	ww|f yr|h	113
+金沢	jb|j ze|s	110
+向井	xl|q jk|j	108
+榊原	uf|f yr|h	108
+藤川	tg|a ir|q	107
+竹中	vu|r vs|d	107
+庄司	vl|u si|v	106
+藤沢	tg|a ze|s	106
+冢田	vs|i tm|d	106
+竹下	vu|r xx|m	104
+安井	an|o jk|j	103
+竹本	vu|r bf|m	103
+谷川	gu|w ir|q	103
+栗田	li|m tm|d	103
+洼田	wa|s tm|d	102
+福本	fu|i bf|m	102
+石黒	ui|h hw|d	102
+宇野	yu|o ye|d	102
+茂木	mc|a mu|f	101
+柳沢	lq|f ze|s	101
+奥野	ao|q ye|d	100
+嶋田	dc|d tm|d	99
+丹羽	dj|e yu|x	98
+亀井	gv|e jk|j	98
+宫沢	gs|o ze|s	98
+高井	gc|u jk|j	97
+古谷	gu|m gu|w	96
+藤野	tg|a ye|d	96
+青柳	qk|j lq|f	96
+竹村	vu|r cy|f	96
+荻野	di|a ye|d	95
+稲田	dc|r tm|d	93
+吉沢	ji|l ze|s	91
+福永	fu|i ys|i	91
+筒井	ts|r jk|j	91
+横井	hg|f jk|j	91
+黒沢	hw|d ze|s	90
+北原	bw|f yr|h	90
+林田	lb|f tm|d	90
+平松	pk|l ss|f	90
+越智	yt|l vi|r	89
+武井	wu|j jk|j	88
+筿崎	xn|r qi|d	88
+手冢	uz|u vs|i	87
+富永	fu|o ys|i	87
+永野	ys|i ye|d	86
+堀川	ku|l ir|q	86
+二宫	er|j gs|o	86
+臼井	jq|q jk|j	86
+比嘉	bi|k jx|l	86
+冨田	fu|i tm|d	85
+浅田	qm|s tm|d	85
+入江	ru|w jl|s	85
+石崎	ui|h qi|d	84
+川野	ir|q ye|d	84
+片桐	pm|q ts|f	83
+谷本	gu|w bf|m	83
+平冈	pk|l gh|d	83
+筿田	xn|r tm|d	83
+杉原	uj|f yr|h	83
+根岸	gf|f an|d	83
+千田	qm|r tm|d	82
+大槻	da|h gv|f	82
+池上	ii|s uh|f	82
+笠井	li|r jk|j	82
+田畑	tm|d tm|y	82
+西沢	xi|m ze|s	81
+长沢	vh|r ze|s	81
+深沢	uf|s ze|s	81
+志村	vi|l cy|f	80
+堀口	ku|l kz|g	80
+仓田	ch|h tm|d	80
+野沢	ye|d ze|s	79
+新谷	xb|u gu|w	79
+福原	fu|i yr|h	79
+村瀬	cy|f ld|s	79
+森冈	sf|f gh|d	78
+徳田	de|i tm|d	78
+浜口	bh|s kz|g	77
+畑中	tm|y vs|d	76
+岛崎	dc|e qi|d	76
+中本	vs|d bf|m	75
+三谷	sj|j gu|w	75
+原口	yr|h kz|g	74
+相沢	xl|f ze|s	74
+难波	nj|x bo|s	73
+秋元	qq|r yr|j	72
+川畑	ir|q tm|y	72
+木原	mu|f yr|h	72
+坪井	pk|l jk|j	72
+植木	vi|f mu|f	72
+川瀬	ir|q ld|s	72
+皆川	jp|k ir|q	71
+荻原	di|a yr|h	71
+岩下	yj|d xx|m	71
+今泉	jb|h qr|q	71
+浜崎	bh|s qi|d	71
+浜野	bh|s ye|d	70
+大坪	da|h pk|l	70
+细谷	xi|c gu|w	70
+细田	xi|c tm|d	70
+佐竹	zo|h vu|r	70
+小嶋	xn|k dc|d	70
+井出	jk|j iu|z	69
+塩田	yj|l tm|d	69
+三村	sj|j cy|f	69
+辻本	ui|m bf|m	68
+植村	vi|f cy|f	68
+河田	he|s tm|d	68
+亀山	gv|e uj|d	67
+早坂	zc|v bj|l	67
+真锅	vf|m go|j	67
+保坂	bc|h bj|l	67
+相原	xl|f yr|h	67
+堀井	ku|l jk|j	66
+渡邉	du|s bm|q	66
+川合	ir|q he|h	66
+瀬川	ld|s ir|q	66
+玉井	yu|j jk|j	66
+葛西	ge|a xi|m	65
+尾形	ww|v xk|j	65
+亀田	gv|e tm|d	64
+进藤	jb|j tg|a	64
+狩野	uz|e ye|d	64
+立石	li|u ui|h	64
+板垣	bj|f yr|l	64
+寺岛	si|l dc|e	64
+有马	yz|h ma|c	63
+河本	he|s bf|m	63
+市村	ui|u cy|f	63
+大沼	da|h vc|s	63
+门脇	mf|p xp|c	63
+植松	vi|f ss|f	62
+武内	wu|j nw|d	62
+宫地	gs|o di|l	62
+寺本	si|l bf|m	62
+齐藤	qi|u tg|a	62
+江藤	jl|s tg|a	62
+松沢	ss|f ze|s	61
+岛村	dc|e cy|f	61
+木内	mu|f nw|d	60
+田崎	tm|d qi|d	59
+中根	vs|d gf|f	59
+富㭴	fu|o jm	58
+柴崎	id|f qi|d	58
+今田	jb|h tm|d	58
+守屋	uz|o wu|v	58
+岩佐	yj|d zo|h	57
+海野	hd|s ye|d	57
+関谷	gr|d gu|w	57
+滝本	ls|s bf|m	57
+长瀬	vh|r ld|s	57
+高尾	gc|u ww|v	57
+岩永	yj|d ys|i	56
+石丸	ui|h wj|e	56
+长谷部	vh|r gu bu|u	56
+冢原	vs|i yr|h	56
+米沢	mi|y ze|s	55
+西谷	xi|m gu|w	55
+黒岩	hw|d yj|d	55
+菅谷	jm|a gu|w	55
+成瀬	ig|h ld|s	55
+鸟居	nn|e ju|v	55
+金森	jb|j sf|f	55
+正木	vg|m mu|f	54
+石本	ui|h bf|m	54
+宫脇	gs|o xp|c	54
+滝口	ls|s kz|g	54
+阪本	bj|z bf|m	54
+小関	xn|k gr|d	54
+末永	mo|j ys|i	53
+门田	mf|p tm|d	53
+永山	ys|i uj|d	53
+小宫	xn|k gs|o	53
+坂元	bj|l yr|j	53
+宍戸	rz|o hu|k	53
+小室	xn|k ui|o	53
+木田	mu|f tm|d	53
+野本	ye|d bf|m	53
+中泽	vs|d ze|s	53
+小畑	xn|k tm|y	53
+江川	jl|s ir|q	52
+杉村	uj|f cy|f	52
+森谷	sf|f gu|w	52
+江崎	jl|s qi|d	52
+岩渕	yj|d yr|s	52
+豊岛	li|d dc|e	52
+小杉	xn|k uj|f	52
+藤木	tg|a mu|f	52
+平冢	pk|l vs|i	51
+古沢	gu|m ze|s	51
+梅原	mw|f yr|h	51
+新垣	xb|u yr|l	51
+浜本	bh|s bf|m	51
+森脇	sf|f xp|c	51
+阿久津	aa|z jq jb|s	51
+北沢	bw|f ze|s	50
+风间	fg|e jm|p	50
+塩谷	yj|l gu|w	50
+喜多	xi|l do|e	50
+金丸	jb|j wj|e	50
+野原	ye|d yr|h	50
+生田	ug|r tm|d	50
+今西	jb|h xi|m	49
+浦田	pu|s tm|d	49
+小椋	xn|k ll|f	49
+细井	xi|c jk|j	49
+羽田	yu|x tm|d	49
+平沢	pk|l ze|s	49
+宫野	gs|o ye|d	49
+岩间	yj|d jm|p	49
+曽根	cg|y gf|f	49
+细野	xi|c ye|d	49
+梅本	mw|f bf|m	49
+堀越	ku|l yt|l	48
+小幡	xn|k fj|d	48
+大矢	da|h ui|r	48
+仲村	vs|h cy|f	48
+仲田	vs|h tm|d	48
+染谷	rj|s gu|w	48
+山元	uj|d yr|j	48
+杉野	uj|f ye|d	48
+矢田	ui|r tm|d	48
+滨田	bb|s tm|d	48
+目黒	mu|d hw|d	48
+并木	bk|y mu|f	48
+木戸	mu|f hu|k	48
+北田	bw|f tm|d	48
+大畑	da|h tm|y	48
+高梨	gc|u li|r	47
+寺尾	si|l ww|v	47
+川辺	ir|q bm|b	47
+梅津	mw|f jb|s	47
+影山	yk|v uj|d	47
+菅沼	jm|a vc|s	47
+石渡	ui|h du|s	47
+波多野	bo|s do ye|d	46
+仓持	ch|h ii|u	46
+大贯	da|h gr|c	46
+小沼	xn|k vc|s	46
+胜又	ug|c yz|x	45
+桥爪	qn|f vc|t	45
+高仓	gc|u ch|h	45
+柳原	lq|f yr|h	45
+雨宫	yu|m gs|o	45
+栗林	li|m lb|f	45
+瀬尾	ld|s ww|v	45
+石坂	ui|h bj|l	45
+神野	uf|i ye|d	45
+首藤	uz|y tg|a	45
+丹野	dj|e ye|d	44
+合田	he|h tm|d	44
+上杉	uh|f uj|f	44
+海老原	hd|s lc yr|h	44
+青野	qk|j ye|d	44
+玉置	yu|j vi|d	44
+宫坂	gs|o bj|l	44
+大下	da|h xx|m	43
+妹尾	mw|b ww|v	43
+永岛	ys|i dc|e	43
+三沢	sj|j ze|s	43
+清田	qk|s tm|d	43
+小久保	xn|k jq bc|h	43
+曽我	cg|y wo|r	43
+有贺	yz|h he|b	43
+森口	sf|f kz|g	43
+横尾	hg|f ww|v	43
+坂野	bj|l ye|d	42
+池本	ii|s bf|m	42
+须贺	xu|t he|b	42
+田端	tm|d dr|u	42
+日比野	ri|v bi ye|d	42
+大嶋	da|h dc|d	42
+飞田	fw|b tm|d	42
+芦田	lu|a tm|d	41
+小堀	xn|k ku|l	41
+脇田	xp|c tm|d	41
+水岛	uv|s dc|e	41
+石仓	ui|h ch|h	41
+笹川	ti|r ir|q	41
+小栗	xn|k li|m	41
+谷村	gu|w cy|f	40
+内村	nw|d cy|f	40
+坂东	bj|l ds|k	40
+浦野	pu|s ye|d	40
+岛袋	dc|e dd|h	40
+江原	jl|s yr|h	40
+手岛	uz|u dc|e	40
+角谷	jn|e gu|w	40
+楠本	nj|f bf|m	40
+花冈	hx|a gh|d	40
+岛津	dc|e jb|s	40
+高畑	gc|u tm|y	40
+前岛	qm|y dc|e	39
+玉木	yu|j mu|f	39
+本桥	bf|m qn|f	39
+中冢	vs|d vs|i	39
+吉崎	ji|l qi|d	39
+前野	qm|y ye|d	39
+柴山	id|f uj|d	39
+池谷	ii|s gu|w	39
+浅沼	qm|s vc|s	39
+野吕	ye|d lv|g	38
+熊田	xs|x tm|d	38
+森永	sf|f ys|i	38
+井本	jk|j bf|m	38
+戸冢	hu|k vs|i	38
+高谷	gc|u gu|w	38
+桜田	yk|f tm|d	38
+吉泽	ji|l ze|s	38
+寺沢	si|l ze|s	38
+大高	da|h gc|u	38
+仓本	ch|h bf|m	38
+菅井	jm|a jk|j	38
+田渕	tm|d yr|s	38
+黒崎	hw|d qi|d	37
+梅沢	mw|f ze|s	37
+会田	hv|h tm|d	37
+畠中	tm|q vs|d	37
+村木	cy|f mu|f	37
+古山	gu|m uj|d	37
+塩见	yj|l jm|d	37
+石野	ui|h ye|d	37
+笹原	ti|r yr|h	37
+高嶋	gc|u dc|d	37
+恩田	en|d tm|d	37
+百瀬	bd|h ld|s	37
+井村	jk|j cy|f	37
+児岛	er|d dc|e	37
+日下部	ri|v xx bu|u	37
+沢井	ze|s jk|j	37
+田所	tm|d so|t	37
+广瀬	gl|u ld|s	36
+阪口	bj|z kz|g	36
+若山	ro|a uj|d	36
+川添	ir|q tm|s	36
+熊仓	xs|x ch|h	36
+寺冈	si|l gh|d	36
+猪股	vu|e gu|c	36
+城戸	ig|l hu|k	36
+绀野	gj|c ye|d	36
+矶野	ji|h ye|d	36
+重松	vs|r ss|f	36
+野岛	ye|d dc|e	36
+森井	sf|f jk|j	36
+丸田	wj|e tm|d	36
+冨永	fu|i ys|i	36
+金泽	jb|j ze|s	35
+菊田	ju|a tm|d	35
+长友	vh|r yz|h	35
+照井	vc|z jk|j	35
+赤羽	ii|l yu|x	35
+牧田	mu|r tm|d	35
+重田	vs|r tm|d	35
+土谷	tu|l gu|w	35
+石沢	ui|h ze|s	35
+福士	fu|i ui|l	35
+増井	zg|l jk|j	35
+西森	xi|m sf|f	35
+新保	xb|u bc|h	34
+冈岛	gh|d dc|e	34
+持田	ii|u tm|d	34
+大関	da|h gr|d	34
+今川	jb|h ir|q	34
+氏家	ui|e jx|o	34
+柿沼	ui|f vc|s	34
+中冈	vs|d gh|d	34
+神原	uf|i yr|h	34
+古市	gu|m ui|u	34
+川嶋	ir|q dc|d	34
+有村	yz|h cy|f	34
+西浦	xi|m pu|s	34
+宇田川	yu|o tm ir|q	34
+安永	an|o ys|i	34
+松谷	ss|f gu|w	34
+二瓶	er|j pk|y	33
+柳瀬	lq|f ld|s	33
+藤山	tg|a uj|d	33
+寺崎	si|l qi|d	33
+鹈饲	ti|y si|e	33
+秋本	qq|r bf|m	33
+矶崎	ji|h qi|d	33
+梶田	ww|f tm|d	33
+相田	xl|f tm|d	33
+野间	ye|d jm|p	33
+富沢	fu|o ze|s	33
+辻村	ui|m cy|f	33
+我妻	wo|r qi|k	32
+滝田	ls|s tm|d	32
+的场	de|q ih|l	32
+金野	jb|j ye|d	32
+北冈	bw|f gh|d	32
+上冈	uh|f gh|d	32
+小山田	xn|k uj tm|d	32
+室井	ui|o jk|j	32
+河崎	he|s qi|d	32
+塩崎	yj|l qi|d	32
+高坂	gc|u bj|l	31
+益子	yi|y zi|z	31
+加瀬	jx|b ld|s	31
+江田	jl|s tm|d	31
+藤谷	tg|a gu|w	31
+安川	an|o ir|q	31
+郡司	jy|v si|v	31
+谷内	gu|w nw|d	31
+小俣	xn|k yu|h	31
+迫田	po|q tm|d	31
+中森	vs|d sf|f	31
+仲野	vs|h ye|d	31
+梅木	mw|f mu|f	31
+平本	pk|l bf|m	31
+対马	dv|u ma|c	31
+船木	ir|t mu|f	31
+金原	jb|j yr|h	31
+栗本	li|m bf|m	31
+安原	an|o yr|h	31
+伏见	fu|h jm|d	31
+花井	hx|a jk|j	31
+増子	zg|l zi|z	31
+森岛	sf|f dc|e	31
+垣内	yr|l nw|d	31
+黒泽	hw|d ze|s	31
+赤井	ii|l jk|j	31
+小暮	xn|k mu|a	30
+粕谷	po|y gu|w	30
+冢越	vs|i yt|l	30
+江头	jl|s tz|o	30
+水本	uv|s bf|m	30
+神保	uf|i bc|h	30
+棚桥	pg|f qn|f	30
+山脇	uj|d xp|c	30
+矢崎	ui|r qi|d	30
+田沢	tm|d ze|s	30
+唐沢	th|u ze|s	30
+鸣海	mk|g hd|s	30
+片野	pm|q ye|d	30
+津村	jb|s cy|f	30
+増山	zg|l uj|d	30
+船越	ir|t yt|l	30
+八巻	ba|w jr|y	30
+小山内	xn|k uj nw|d	30
+赤冢	ii|l vs|i	30
+久田	jq|e tm|d	30
+住吉	vu|h ji|l	30
+汤本	th|s bf|m	30
+福元	fu|i yr|j	30
+森崎	sf|f qi|d	30
+保田	bc|h tm|d	30
+藤巻	tg|a jr|y	30
+稲村	dc|r cy|f	30
+畑山	tm|y uj|d	29
+塩沢	yj|l ze|s	29
+须永	xu|t ys|i	29
+熊沢	xs|x ze|s	29
+村越	cy|f yt|l	29
+薄井	bc|a jk|j	29
+関本	gr|d bf|m	29
+谷田	gu|w tm|d	29
+袴田	ku|i tm|d	29
+大岩	da|h yj|d	29
+河井	he|s jk|j	29
+长屋	vh|r wu|v	29
+梶山	ww|f uj|d	29
+吉见	ji|l jm|d	29
+绿川	lv|c ir|q	29
+柿本	ui|f bf|m	29
+高津	gc|u jb|s	29
+小宫山	xn|k gs uj|d	29
+鲛岛	jn|e dc|e	29
+桑野	sh|x ye|d	29
+高沢	gc|u ze|s	29
+杉崎	uj|f qi|d	29
+小田岛	xn|k tm dc|e	29
+二村	er|j cy|f	28
+长泽	vh|r ze|s	28
+尾関	ww|v gr|d	28
+福沢	fu|i ze|s	28
+筿冢	xn|r vs|i	28
+高须	gc|u xu|t	28
+卫藤	ww|z tg|a	28
+芝田	vi|a tm|d	28
+村本	cy|f bf|m	28
+饭村	fj|e cy|f	28
+高林	gc|u lb|f	28
+西崎	xi|m qi|d	28
+井沢	jk|j ze|s	28
+永瀬	ys|i ld|s	28
+高杉	gc|u uj|f	27
+矶贝	ji|h bw|d	27
+宇田	yu|o tm|d	27
+长嶋	vh|r dc|d	27
+福留	fu|i lq|e	27
+浦川	pu|s ir|q	27
+田嶋	tm|d dc|d	27
+赤堀	ii|l ku|l	27
+米谷	mi|y gu|w	27
+沢村	ze|s cy|f	27
+矢沢	ui|r ze|s	27
+山浦	uj|d pu|s	27
+冈林	gh|d lb|f	27
+桜庭	yk|f tk|u	27
+安冈	an|o gh|d	27
+平石	pk|l ui|h	27
+藤泽	tg|a ze|s	27
+疋田	pi|z tm|d	27
+吉武	ji|l wu|j	27
+植野	vi|f ye|d	27
+牛岛	nq|r dc|e	27
+川又	ir|q yz|x	27
+高本	gc|u bf|m	27
+木谷	mu|f gu|w	27
+驹井	ju|c jk|j	27
+宫村	gs|o cy|f	27
+安江	an|o jl|s	26
+岩元	yj|d yr|j	26
+若杉	ro|a uj|f	26
+川名	ir|q mk|e	26
+大杉	da|h uj|f	26
+新山	xb|u uj|d	26
+早瀬	zc|v ld|s	26
+平间	pk|l jm|p	26
+関野	gr|d ye|d	26
+小崎	xn|k qi|d	26
+米村	mi|y cy|f	26
+金本	jb|j bf|m	26
+小峰	xn|k fg|d	26
+安斎	an|o vd|u	26
+加贺谷	jx|b he gu|w	26
+森野	sf|f ye|d	26
+岩桥	yj|d qn|f	26
+保科	bc|h ke|r	26
+高冢	gc|u vs|i	26
+井戸	jk|j hu|k	26
+矶田	ji|h tm|d	26
+须贝	xu|t bw|d	26
+辻井	ui|m jk|j	26
+谷山	gu|w uj|d	26
+西垣	xi|m yr|l	26
+岩切	yj|d qp|k	26
+黒瀬	hw|d ld|s	26
+镰仓	lm|j ch|h	26
+芹沢	qb|a ze|s	26
+板谷	bj|f gu|w	26
+大上	da|h uh|f	25
+相泽	xl|f ze|s	25
+桥诘	qn|f ji|n	25
+名仓	mk|e ch|h	25
+鹫见	jq|u jm|d	25
+竹岛	vu|r dc|e	25
+柳沼	lq|f vc|s	25
+木岛	mu|f dc|e	25
+桐山	ts|f uj|d	25
+高久	gc|u jq|e	25
+伊沢	yi|h ze|s	25
+砂田	ua|h tm|d	25
+猪狩	vu|e uz|e	25
+丸尾	wj|e ww|v	25
+国井	go|d jk|j	25
+塩野	yj|l ye|d	25
+志水	vi|l uv|s	25
+羽鸟	yu|x nn|e	25
+饭沼	fj|e vc|s	25
+猪俣	vu|e yu|h	25
+笹本	ti|r bf|m	25
+村川	cy|f ir|q	25
+岩野	yj|d ye|d	25
+竹之内	vu|r vi nw|d	25
+长内	vh|r nw|d	24
+荒谷	hl|a gu|w	24
+清家	qk|s jx|o	24
+岩见	yj|d jm|d	24
+岩沢	yj|d ze|s	24
+柘植	ve|f vi|f	24
+早田	zc|v tm|d	24
+塩川	yj|l ir|q	24
+梶谷	ww|f gu|w	24
+関川	gr|d ir|q	24
+柳泽	lq|f ze|s	24
+塩原	yj|l yr|h	24
+福嶋	fu|i dc|d	24
+五岛	wu|m dc|e	24
+永松	ys|i ss|f	24
+时田	ui|v tm|d	24
+曽我部	cg|y wo bu|u	24
+仲宗根	vs|h zs gf|f	24
+直井	vi|m jk|j	24
+上西	uh|f xi|m	24
+竹谷	vu|r gu|w	23
+竹井	vu|r jk|j	23
+藤江	tg|a jl|s	23
+赤间	ii|l jm|p	23
+马渕	ma|c yr|s	23
+平岩	pk|l yj|d	23
+水越	uv|s yt|l	23
+鬼冢	gv|q vs|i	23
+萩野	qq|a ye|d	23
+市桥	ui|u qn|f	23
+春田	iy|j tm|d	23
+照屋	vc|z wu|v	23
+越川	yt|l ir|q	23
+星川	xk|v ir|q	23
+平木	pk|l mu|f	23
+神尾	uf|i ww|v	23
+竹沢	vu|r ze|s	23
+谷冈	gu|w gh|d	23
+新藤	xb|u tg|a	23
+安本	an|o bf|m	23
+池野	ii|s ye|d	23
+石津	ui|h jb|s	23
+深见	uf|s jm|d	23
+平岛	pk|l dc|e	23
+赤沢	ii|l ze|s	23
+小松崎	xn|k ss qi|d	23
+野泽	ye|d ze|s	22
+脇坂	xp|c bj|l	22
+杉谷	uj|f gu|w	22
+小木曽	xn|k mu cg|y	22
+蛭田	vi|d tm|d	22
+崎山	qi|d uj|d	22
+一ノ瀬	yi|k ノ ld|s	22
+秋吉	qq|r ji|l	22
+元木	yr|j mu|f	22
+竹川	vu|r ir|q	22
+赤石	ii|l ui|h	22
+守田	uz|o tm|d	22
+小田切	xn|k tm qp|k	22
+猿渡	yr|e du|s	22
+米川	mi|y ir|q	22
+坪内	pk|l nw|d	22
+宫武	gs|o wu|j	22
+横内	hg|f nw|d	22
+奥谷	ao|q gu|w	22
+広冈	gl|u gh|d	22
+东田	ds|k tm|d	22
+宫嶋	gs|o dc|d	22
+二阶堂	er|j jp th|k	22
+宫尾	gs|o ww|v	22
+奥原	ao|q yr|h	22
+小冢	xn|k vs|i	22
+瀬戸口	ld|s hu kz|g	22
+片平	pm|q pk|l	22
+姫野	ji|b ye|d	22
+副岛	fu|k dc|e	22
+井坂	jk|j bj|l	22
+田坂	tm|d bj|l	22
+八重㭴	ba|w vs jm	22
+吉成	ji|l ig|h	22
+若月	ro|a yt|c	22
+柴原	id|f yr|h	21
+友田	yz|h tm|d	21
+堀部	ku|l bu|u	21
+古泽	gu|m ze|s	21
+真下	vf|m xx|m	21
+末広	mo|j gl|u	21
+桥田	qn|f tm|d	21
+亀谷	gv|e gu|w	21
+田渊	tm|d yr|s	21
+堀尾	ku|l ww|v	21
+中园	vs|d yr|d	21
+今冈	jb|h gh|d	21
+沢口	ze|s kz|g	21
+江本	jl|s bf|m	21
+梶川	ww|f ir|q	21
+绵贯	mm|c gr|c	21
+松泽	ss|f ze|s	21
+中込	vs|d yu|w	21
+嶋崎	dc|d qi|d	21
+兼子	jm|y zi|z	21
+武山	wu|j uj|d	21
+佐山	zo|h uj|d	21
+高垣	gc|u yr|l	21
+大脇	da|h xp|c	21
+田山	tm|d uj|d	21
+野坂	ye|d bj|l	21
+熊崎	xs|x qi|d	21
+下平	xx|m pk|l	21
+有本	yz|h bf|m	21
+上条	uh|f tn|e	21
+船津	ir|t jb|s	21
+城间	ig|l jm|p	21
+坂根	bj|l gf|f	21
+冲野	is|u ye|d	21
+広沢	gl|u ze|s	21
+锦织	jb|j vi|c	21
+赤尾	ii|l ww|v	21
+矶村	ji|h cy|f	21
+浅利	qm|s li|r	20
+八岛	ba|w dc|e	20
+田丸	tm|d wj|e	20
+犬冢	qr|h vs|i	20
+辰巳	if|h si|v	20
+戸谷	hu|k gu|w	20
+笹冈	ti|r gh|d	20
+井関	jk|j gr|d	20
+石毛	ui|h mc|r	20
+作田	zo|h tm|d	20
+设楽	ue|n le|q	20
+寺山	si|l uj|d	20
+中江	vs|d jl|s	20
+须山	xu|t uj|d	20
+半沢	bj|y ze|s	20
+小松原	xn|k ss yr|h	20
+永吉	ys|i ji|l	20
+赤岭	ii|l lk|d	20
+岸野	an|d ye|d	20
+若井	ro|a jk|j	20
+片仓	pm|q ch|h	20
+田井	tm|d jk|j	20
+中崎	vs|d qi|d	20
+间瀬	jm|p ld|s	20
+永尾	ys|i ww|v	20
+原岛	yr|h dc|e	20
+伊原	yi|h yr|h	20
+有吉	yz|h ji|l	20
+金川	jb|j ir|q	20
+江尻	jl|s kc|v	20
+辻田	ui|m tm|d	20
+糸井	mi|c jk|j	19
+笹田	ti|r tm|d	19
+矢作	ui|r zo|h	19
+石神	ui|h uf|i	19
+成沢	ig|h ze|s	19
+藤仓	tg|a ch|h	19
+锅岛	go|j dc|e	19
+草间	cc|a jm|p	19
+一瀬	yi|k ld|s	19
+久松	jq|e ss|f	19
+汤沢	th|s ze|s	19
+牟田	mz|x tm|d	19
+山际	uj|d ji|z	19
+稲川	dc|r ir|q	19
+深津	uf|s jb|s	19
+高桑	gc|u sh|x	19
+品田	pb|g tm|d	19
+木山	mu|f uj|d	19
+鸟山	nn|e uj|d	19
+黒须	hw|d xu|t	19
+永冈	ys|i gh|d	19
+藤间	tg|a jm|p	19
+戸村	hu|k cy|f	19
+古野	gu|m ye|d	19
+白岩	bd|q yj|d	19
+野野村	ye|d ye cy|f	19
+辻野	ui|m ye|d	19
+日比	ri|v bi|k	19
+鹫尾	jq|u ww|v	19
+池永	ii|s ys|i	19
+河辺	he|s bm|b	19
+角野	jn|e ye|d	19
+胜部	ug|c bu|u	19
+细见	xi|c jm|d	19
+仙波	xm|h bo|s	19
+中瀬	vs|d ld|s	19
+末松	mo|j ss|f	19
+杉江	uj|f jl|s	19
+羽贺	yu|x he|b	19
+梅野	mw|f ye|d	19
+间宫	jm|p gs|o	19
+海老沢	hd|s lc ze|s	18
+宫部	gs|o bu|u	18
+古瀬	gu|m ld|s	18
+若狭	ro|a xx|e	18
+立野	li|u ye|d	18
+隅田	yu|z tm|d	18
+船山	ir|t uj|d	18
+福村	fu|i cy|f	18
+宫前	gs|o qm|y	18
+柳本	lq|f bf|m	18
+饭尾	fj|e ww|v	18
+岩上	yj|d uh|f	18
+木元	mu|f yr|j	18
+古家	gu|m jx|o	18
+菅田	jm|a tm|d	18
+矢内	ui|r nw|d	18
+猪野	vu|e ye|d	18
+泉谷	qr|q gu|w	18
+逸见	yi|e jm|d	18
+小野冢	xn|k ye vs|i	18
+早野	zc|v ye|d	18
+木暮	mu|f mu|a	18
+门马	mf|p ma|c	18
+宫永	gs|o ys|i	18
+江岛	jl|s dc|e	18
+丹治	dj|e vi|s	18
+笹木	ti|r mu|f	18
+胜野	ug|c ye|d	18
+正田	vg|m tm|d	18
+渕上	yr|s uh|f	18
+君岛	jy|v dc|e	18
+里见	li|d jm|d	18
+立山	li|u uj|d	18
+山室	uj|d ui|o	18
+浦上	pu|s uh|f	18
+松仓	ss|f ch|h	18
+宫冈	gs|o gh|d	18
+小黒	xn|k hw|d	18
+新妻	xb|u qi|k	18
+沟上	gz|s uh|f	18
+田部	tm|d bu|u	18
+内川	nw|d ir|q	18
+栗栖	li|m qi|f	18
+河岛	he|s dc|e	17
+深瀬	uf|s ld|s	17
+新仓	xb|u ch|h	17
+杉森	uj|f sf|f	17
+桥场	qn|f ih|l	17
+笹井	ti|r jk|j	17
+桝田	jp|f tm|d	17
+诸冈	vu|n gh|d	17
+赤川	ii|l ir|q	17
+戸川	hu|k ir|q	17
+岩尾	yj|d ww|v	17
+手嶋	uz|u dc|d	17
+横沢	hg|f ze|s	17
+别所	bp|g so|t	17
+中垣	vs|d yr|l	17
+寺嶋	si|l dc|d	17
+石森	ui|h sf|f	17
+米泽	mi|y ze|s	17
+永谷	ys|i gu|w	17
+北尾	bw|f ww|v	17
+野瀬	ye|d ld|s	17
+川久保	ir|q jq bc|h	17
+冈安	gh|d an|o	17
+鸟井	nn|e jk|j	17
+池原	ii|s yr|h	17
+岸川	an|d ir|q	17
+杉冈	uj|f gh|d	17
+香月	xl|r yt|c	17
+奥井	ao|q jk|j	17
+藤永	tg|a ys|i	17
+菱沼	lk|a vc|s	17
+诸桥	vu|n qn|f	17
+樋渡	ts|f du|s	17
+芦沢	lu|a ze|s	17
+中居	vs|d ju|v	17
+浦山	pu|s uj|d	17
+楠田	nj|f tm|d	17
+西嶋	xi|m dc|d	17
+国吉	go|d ji|l	17
+梅崎	mw|f qi|d	17
+引地	yb|v di|l	17
+伊波	yi|h bo|s	17
+猪瀬	vu|e ld|s	17
+津野	jb|s ye|d	17
+折原	ve|u yr|h	17
+谷崎	gu|w qi|d	17
+山之内	uj|d vi nw|d	17
+室田	ui|o tm|d	17
+兵藤	bk|q tg|a	17
+二木	er|j mu|f	17
+宫井	gs|o jk|j	17
+石谷	ui|h gu|w	17
+桧山	gv|f uj|d	17
+嶋村	dc|d cy|f	16
+驹田	ju|c tm|d	16
+佐瀬	zo|h ld|s	16
+中屋	vs|d wu|v	16
+中畑	vs|d tm|y	16
+阪田	bj|z tm|d	16
+桑山	sh|x uj|d	16
+安里	an|o li|d	16
+真岛	vf|m dc|e	16
+岛野	dc|e ye|d	16
+寺门	si|l mf|p	16
+助川	vu|d ir|q	16
+泉田	qr|q tm|d	16
+根津	gf|f jb|s	16
+陶山	tc|z uj|d	16
+前沢	qm|y ze|s	16
+大浜	da|h bh|s	16
+藤平	tg|a pk|l	16
+加地	jx|b di|l	16
+亀冈	gv|e gh|d	16
+関戸	gr|d hu|k	16
+春名	iy|j mk|e	16
+露木	lu|l mu|f	16
+门间	mf|p jm|p	16
+冈元	gh|d yr|j	16
+信田	xb|h tm|d	16
+高良	gc|u ll|i	16
+木崎	mu|f qi|d	16
+青井	qk|j jk|j	16
+浅冈	qm|s gh|d	16
+冨冈	fu|i gh|d	16
+田宫	tm|d gs|o	16
+羽田野	yu|x tm ye|d	16
+武市	wu|j ui|u	16
+山辺	uj|d bm|b	16
+堀本	ku|l bf|m	16
+田仲	tm|d vs|h	16
+平出	pk|l iu|z	16
+道下	dc|y xx|m	16
+松藤	ss|f tg|a	16
+仲川	vs|h ir|q	16
+浜村	bh|s cy|f	16
+绵引	mm|c yb|v	16
+木幡	mu|f fj|d	16
+森内	sf|f nw|d	16
+沟渕	gz|s yr|s	16
+大洼	da|h wa|s	16
+井内	jk|j nw|d	16
+梶本	ww|f bf|m	16
+桜木	yk|f mu|f	16
+藤代	tg|a dd|h	16
+粟野	su|m ye|d	16
+真木	vf|m mu|f	16
+船田	ir|t tm|d	16
+西内	xi|m nw|d	16
+布川	bu|h ir|q	16
+宫口	gs|o kz|g	16
+谷野	gu|w ye|d	16
+白崎	bd|q qi|d	16
+板东	bj|f ds|k	16
+仓岛	ch|h dc|e	16
+守谷	uz|o gu|w	16
+平泽	pk|l ze|s	16
+涌井	ys|s jk|j	15
+兼田	jm|y tm|d	15
+竹森	vu|r sf|f	15
+栉田	vi|f tm|d	15
+内堀	nw|d ku|l	15
+三泽	sj|j ze|s	15
+吉住	ji|l vu|h	15
+安野	an|o ye|d	15
+菱田	lk|a tm|d	15
+坂巻	bj|l jr|y	15
+奥平	ao|q pk|l	15
+水沢	uv|s ze|s	15
+永原	ys|i yr|h	15
+奥本	ao|q bf|m	15
+冲本	is|u bf|m	15
+桐原	ts|f yr|h	15
+木野	mu|f ye|d	15
+北井	bw|f jk|j	15
+千原	qm|r yr|h	15
+向田	xl|q tm|d	15
+広井	gl|u jk|j	15
+川岸	ir|q an|d	15
+岩川	yj|d ir|q	15
+沢野	ze|s ye|d	15
+折田	ve|u tm|d	15
+田部井	tm|d bu jk|j	15
+松平	ss|f pk|l	15
+牛田	nq|r tm|d	15
+笹山	ti|r uj|d	15
+喜田	xi|l tm|d	15
+増本	zg|l bf|m	15
+佐古	zo|h gu|m	15
+熊木	xs|x mu|f	15
+漆原	qi|s yr|h	15
+森元	sf|f yr|j	15
+城田	ig|l tm|d	15
+彦坂	yj|u bj|l	15
+武本	wu|j bf|m	15
+铃村	lk|j cy|f	15
+三田村	sj|j tm cy|f	15
+河端	he|s dr|u	15
+小田桐	xn|k tm ts|f	15
+千野	qm|r ye|d	15
+大黒	da|h hw|d	15
+徳丸	de|i wj|e	15
+荒巻	hl|a jr|y	15
+豊冈	li|d gh|d	15
+瓜生	gx|t ug|r	15
+仁平	rf|h pk|l	15
+伊佐	yi|h zo|h	15
+岩渊	yj|d yr|s	15
+田沼	tm|d vc|s	15
+戸沢	hu|k ze|s	15
+正冈	vg|m gh|d	15
+谷藤	gu|w tg|a	15
+北泽	bw|f ze|s	15
+稲见	dc|r jm|d	15
+米本	mi|y bf|m	15
+胜俣	ug|c yu|h	15
+桧垣	gv|f yr|l	15
+宫腰	gs|o yc|c	15
+田冈	tm|d gh|d	15
+吉元	ji|l yr|j	15
+久我	jq|e wo|r	15
+小贯	xn|k gr|c	15
+远田	yr|j tm|d	15
+丸谷	wj|e gu|w	15
+大藤	da|h tg|a	15
+梅泽	mw|f ze|s	15
+井藤	jk|j tg|a	15
+柏仓	bd|f ch|h	14
+宫越	gs|o yt|l	14
+柳生	lq|f ug|r	14
+松宫	ss|f gs|o	14
+蜂谷	fg|d gu|w	14
+坂部	bj|l bu|u	14
+宇都	yu|o dz|m	14
+虾名	xx|d mk|e	14
+市野	ui|u ye|d	14
+冨山	fu|i uj|d	14
+白坂	bd|q bj|l	14
+蛯名	lc|d mk|e	14
+宇佐见	yu|o zo jm|d	14
+脇本	xp|c bf|m	14
+越田	yt|l tm|d	14
+佐佐	zo|h zo|h	14
+田内	tm|d nw|d	14
+宫木	gs|o mu|f	14
+川下	ir|q xx|m	14
+中出	vs|d iu|z	14
+又吉	yz|x ji|l	14
+武村	wu|j cy|f	14
+寺村	si|l cy|f	14
+中辻	vs|d ui|m	14
+坂仓	bj|l ch|h	14
+川中	ir|q vs|d	14
+盛田	ug|h tm|d	14
+三嶋	sj|j dc|d	14
+山県	uj|d xm|d	14
+山森	uj|d sf|f	14
+木口	mu|f kz|g	14
+今枝	jb|h vi|f	14
+长仓	vh|r ch|h	14
+吉山	ji|l uj|d	14
+古畑	gu|m tm|y	14
+丹下	dj|e xx|m	14
+武智	wu|j vi|r	14
+寺下	si|l xx|m	14
+三森	sj|j sf|f	14
+仲井	vs|h jk|j	14
+戸高	hu|k gc|u	14
+寺川	si|l ir|q	14
+永沢	ys|i ze|s	14
+谷沢	gu|w ze|s	14
+川元	ir|q yr|j	14
+押田	ya|u tm|d	14
+古闲	gu|m xm|p	14
+宇井	yu|o jk|j	14
+鱼住	yu|e vu|h	14
+権田	qr|f tm|d	14
+春木	iy|j mu|f	14
+曽田	cg|y tm|d	14
+泽井	ze|s jk|j	14
+高安	gc|u an|o	14
+阪上	bj|z uh|f	14
+松嶋	ss|f dc|d	14
+仲谷	vs|h gu|w	14
+柿原	ui|f yr|h	14
+具志坚	ju|d vi jm|a	14
+小滝	xn|k ls|s	14
+南川	nj|m ir|q	14
+豊永	li|d ys|i	14
+野元	ye|d yr|j	14
+松丸	ss|f wj|e	14
+外川	wd|e ir|q	14
+各务	ge|e wu|e	14
+両角	ll|m jn|e	14
+畑田	tm|y tm|d	14
+可児	ke|m er|d	14
+浜谷	bh|s gu|w	14
+折笠	ve|u li|r	14
+右田	yz|h tm|d	14
+植竹	vi|f vu|r	14
+本木	bf|m mu|f	14
+深町	uf|s tk|d	13
+藤尾	tg|a ww|v	13
+武部	wu|j bu|u	13
+峰岸	fg|d an|d	13
+仲本	vs|h bf|m	13
+稲本	dc|r bf|m	13
+古林	gu|m lb|f	13
+中内	vs|d nw|d	13
+畑野	tm|y ye|d	13
+小野瀬	xn|k ye ld|s	13
+斎木	vd|u mu|f	13
+永江	ys|i jl|s	13
+白戸	bd|q hu|k	13
+白沢	bd|q ze|s	13
+深尾	uf|s ww|v	13
+相场	xl|f ih|l	13
+住谷	vu|h gu|w	13
+曾根	cg|y gf|f	13
+㭴村	jm cy|f	13
+馆野	gr|e ye|d	13
+生方	ug|r fh|u	13
+土本	tu|l bf|m	13
+荒牧	hl|a mu|r	13
+桑岛	sh|x dc|e	13
+新堀	xb|u ku|l	13
+宇津木	yu|o jb mu|f	13
+新原	xb|u yr|h	13
+山尾	uj|d ww|v	13
+大渕	da|h yr|s	13
+上谷	uh|f gu|w	13
+一柳	yi|k lq|f	13
+安孙子	an|o sy zi|z	13
+稗田	bd|r tm|d	13
+木藤	mu|f tg|a	13
+加来	jx|b ld|l	13
+小笹	xn|k ti|r	13
+箱崎	xl|r qi|d	13
+瀬野	ld|s ye|d	13
+小谷野	xn|k gu ye|d	13
+深野	uf|s ye|d	13
+藤林	tg|a lb|f	13
+森重	sf|f vs|r	13
+新名	xb|u mk|e	13
+豊川	li|d ir|q	13
+片田	pm|q tm|d	13
+兼松	jm|y ss|f	13
+谷津	gu|w jb|s	13
+北出	bw|f iu|z	13
+外崎	wd|e qi|d	13
+森沢	sf|f ze|s	13
+福谷	fu|i gu|w	13
+芳野	fh|a ye|d	13
+小野沢	xn|k ye ze|s	13
+仲间	vs|h jm|p	13
+白仓	bd|q ch|h	13
+薮内	sz|a nw|d	13
+権藤	qr|f tg|a	13
+室谷	ui|o gu|w	13
+莲见	lm|a jm|d	13
+胜见	ug|c jm|d	13
+辰己	if|h ji|v	13
+木曽	mu|f cg|y	13
+熊坂	xs|x bj|l	13
+清藤	qk|s tg|a	13
+仲山	vs|h uj|d	13
+岩原	yj|d yr|h	13
+軽部	vi|m bu|u	13
+河瀬	he|s ld|s	13
+尾藤	ww|v tg|a	13
+平沼	pk|l vc|s	13
+藤城	tg|a ig|l	13
+生井	ug|r jk|j	13
+宫西	gs|o xi|m	13
+种村	vs|r cy|f	13
+渡瀬	du|s ld|s	13
+北嶋	bw|f dc|d	13
+谷田部	gu|w tm bu|u	13
+今中	jb|h vs|d	13
+杉沢	uj|f ze|s	12
+蔵本	zh|a bf|m	12
+福森	fu|i sf|f	12
+加岛	jx|b dc|e	12
+日浦	ri|v pu|s	12
+芝崎	vi|a qi|d	12
+辺见	bm|b jm|d	12
+安武	an|o wu|j	12
+小形	xn|k xk|j	12
+熊井	xs|x jk|j	12
+荻田	di|a tm|d	12
+弘中	hs|v vs|d	12
+寺坂	si|l bj|l	12
+香西	xl|r xi|m	12
+吉留	ji|l lq|e	12
+森村	sf|f cy|f	12
+原山	yr|h uj|d	12
+中浜	vs|d bh|s	12
+光田	gl|k tm|d	12
+国枝	go|d vi|f	12
+十河	ui|m he|s	12
+浅原	qm|s yr|h	12
+浅仓	qm|s ch|h	12
+泽村	ze|s cy|f	12
+寒川	hj|o ir|q	12
+西冢	xi|m vs|i	12
+池辺	ii|s bm|b	12
+岛谷	dc|e gu|w	12
+押川	ya|u ir|q	12
+阪井	bj|z jk|j	12
+谷脇	gu|w xp|c	12
+矶谷	ji|h gu|w	12
+南谷	nj|m gu|w	12
+金冈	jb|j gh|d	12
+池端	ii|s dr|u	12
+野川	ye|d ir|q	12
+穴井	xt|o jk|j	12
+薬师寺	yc|a ui si|l	12
+尾野	ww|v ye|d	12
+永见	ys|i jm|d	12
+梶野	ww|f ye|d	12
+坂入	bj|l ru|w	12
+莳田	ui|a tm|d	12
+尾岛	ww|v dc|e	12
+堀野	ku|l ye|d	12
+小畠	xn|k tm|q	12
+箕浦	ji|r pu|s	12
+増渕	zg|l yr|s	12
+笹野	ti|r ye|d	12
+武居	wu|j ju|v	12
+荘司	vl|a si|v	12
+稲冈	dc|r gh|d	12
+浅尾	qm|s ww|v	12
+南出	nj|m iu|z	12
+番场	fj|w ih|l	12
+椎野	iv|f ye|d	12
+徳重	de|i vs|r	12
+浮田	fu|s tm|d	12
+上本	uh|f bf|m	12
+斉木	qi|u mu|f	12
+赤崎	ii|l qi|d	12
+浦崎	pu|s qi|d	12
+长冢	vh|r vs|i	12
+玉村	yu|j cy|f	12
+岛贯	dc|e gr|c	12
+野野山	ye|d ye uj|d	12
+柳下	lq|f xx|m	12
+市冈	ui|u gh|d	12
+瀬口	ld|s kz|g	12
+竹尾	vu|r ww|v	12
+荫山	yb|a uj|d	12
+池沢	ii|s ze|s	12
+藤元	tg|a yr|j	12
+真崎	vf|m qi|d	12
+冈沢	gh|d ze|s	12
+五月女	wu|m yt nv|b	12
+滨口	bb|s kz|g	12
+増永	zg|l ys|i	12
+宇山	yu|o uj|d	12
+酒巻	jq|s jr|y	12
+仓内	ch|h nw|d	12
+楢崎	yz|f qi|d	12
+丸本	wj|e bf|m	12
+瀬田	ld|s tm|d	12
+成川	ig|h ir|q	12
+东原	ds|k yr|h	12
+丸井	wj|e jk|j	12
+久保木	jq|e bc mu|f	12
+近野	jb|t ye|d	12
+沼沢	vc|s ze|s	12
+藤吉	tg|a ji|l	12
+浜川	bh|s ir|q	12
+藤堂	tg|a th|k	12
+山家	uj|d jx|o	12
+吉江	ji|l jl|s	12
+竹崎	vu|r qi|d	12
+近田	jb|t tm|d	12
+小向	xn|k xl|q	12
+入沢	ru|w ze|s	12
+矢嶋	ui|r dc|d	12
+平瀬	pk|l ld|s	12
+笹岛	ti|r dc|e	12
+诸星	vu|n xk|v	12
+西畑	xi|m tm|y	12
+水村	uv|s cy|f	12
+羽山	yu|x uj|d	12
+笹森	ti|r sf|f	12
+堀切	ku|l qp|k	12
+石泽	ui|h ze|s	11
+井元	jk|j yr|j	11
+矢萩	ui|r qq|a	11
+西中	xi|m vs|d	11
+仲西	vs|h xi|m	11
+猿田	yr|e tm|d	11
+久保山	jq|e bc uj|d	11
+大戸	da|h hu|k	11
+猪又	vu|e yz|x	11
+関田	gr|d tm|d	11
+猪原	vu|e yr|h	11
+会沢	hv|h ze|s	11
+鹤巻	he|i jr|y	11
+浅香	qm|s xl|r	11
+藤沼	tg|a vc|s	11
+衣笠	yi|u li|r	11
+小河原	xn|k he yr|h	11
+石飞	ui|h fw|b	11
+串田	ir|d tm|d	11
+根来	gf|f ld|l	11
+东出	ds|k iu|z	11
+白神	bd|q uf|i	11
+舟木	vz|t mu|f	11
+兴梠	xk|o lv|f	11
+若尾	ro|a ww|v	11
+西坂	xi|m bj|l	11
+只野	vi|g ye|d	11
+新沼	xb|u vc|s	11
+岩松	yj|d ss|f	11
+须川	xu|t ir|q	11
+滝泽	ls|s ze|s	11
+鸭志田	ya|d vi tm|d	11
+小矶	xn|k ji|h	11
+樋田	ts|f tm|d	11
+八木桥	ba|w mu qn|f	11
+木全	mu|f qr|h	11
+奥川	ao|q ir|q	11
+赤津	ii|l jb|s	11
+徳本	de|i bf|m	11
+渊上	yr|s uh|f	11
+与那岭	yu|k na lk|d	11
+恒川	hg|o ir|q	11
+谷井	gu|w jk|j	11
+逢坂	fg|e bj|l	11
+仲里	vs|h li|d	11
+稲毛	dc|r mc|r	11
+仓林	ch|h lb|f	11
+饭泉	fj|e qr|q	11
+薮田	sz|a tm|d	11
+冈井	gh|d jk|j	11
+中矢	vs|d ui|r	11
+光永	gl|k ys|i	11
+出井	iu|z jk|j	11
+鹰野	yk|u ye|d	11
+名越	mk|e yt|l	11
+柴野	id|f ye|d	11
+大室	da|h ui|o	11
+徳留	de|i lq|e	11
+岩泽	yj|d ze|s	11
+豊嶋	li|d dc|d	11
+黒坂	hw|d bj|l	11
+上间	uh|f jm|p	11
+热田	re|u tm|d	11
+北崎	bw|f qi|d	11
+野木	ye|d mu|f	11
+鹈沢	ti|y ze|s	11
+神村	uf|i cy|f	11
+福西	fu|i xi|m	11
+深堀	uf|s ku|l	11
+阵内	vf|z nw|d	11
+辻川	ui|m ir|q	11
+渡会	du|s hv|h	11
+伴野	bj|h ye|d	11
+井泽	jk|j ze|s	11
+船戸	ir|t hu|k	11
+滨崎	bb|s qi|d	11
+今関	jb|h gr|d	11
+城山	ig|l uj|d	11
+成松	ig|h ss|f	11
+由井	yz|d jk|j	11
+南波	nj|m bo|s	11
+尾方	ww|v fh|u	11
+松森	ss|f sf|f	11
+戸崎	hu|k qi|d	11
+加古	jx|b gu|m	11
+细木	xi|c mu|f	11
+成岛	ig|h dc|e	11
+竹冈	vu|r gh|d	11
+野见山	ye|d jm uj|d	11
+広木	gl|u mu|f	11
+繁田	fj|r tm|d	11
+伊井	yi|h jk|j	11
+糟谷	zc|y gu|w	11
+戸井田	hu|k jk tm|d	11
+寺泽	si|l ze|s	11
+越后	yt|l hz|t	11
+岩根	yj|d gf|f	11
+氏原	ui|e yr|h	11
+藤波	tg|a bo|s	11
+茶谷	ia|a gu|w	11
+长峰	vh|r fg|d	11
+纲岛	gh|c dc|e	11
+利根川	li|r gf ir|q	11
+长原	vh|r yr|h	11
+嶋津	dc|d jb|s	11
+大塩	da|h yj|l	11
+宇贺神	yu|o he uf|i	11
+世古	ui|m gu|m	11
+瀬古	ld|s gu|m	11
+富泽	fu|o ze|s	11
+家田	jx|o tm|d	11
+古内	gu|m nw|d	11
+春原	iy|j yr|h	11
+天田	tm|j tm|d	11
+矢代	ui|r dd|h	11
+百田	bd|h tm|d	11
+丸桥	wj|e qn|f	10
+森藤	sf|f tg|a	10
+仙田	xm|h tm|d	10
+莲沼	lm|a vc|s	10
+横谷	hg|f gu|w	10
+稲吉	dc|r ji|l	10
+庄野	vl|u ye|d	10
+高藤	gc|u tg|a	10
+沟田	gz|s tm|d	10
+永沼	ys|i vc|s	10
+横地	hg|f di|l	10
+関山	gr|d uj|d	10
+中丸	vs|d wj|e	10
+管野	gr|r ye|d	10
+小园	xn|k yr|d	10
+葛原	ge|a yr|h	10
+鴫原	tm|d yr|h	10
+松波	ss|f bo|s	10
+富井	fu|o jk|j	10
+桥村	qn|f cy|f	10
+黒柳	hw|d lq|f	10
+城野	ig|l ye|d	10
+吉谷	ji|l gu|w	10
+桃井	tc|f jk|j	10
+中神	vs|d uf|i	10
+下里	xx|m li|d	10
+仓沢	ch|h ze|s	10
+伊泽	yi|h ze|s	10
+雑贺	za|e he|b	10
+籾山	ni|y uj|d	10
+久富	jq|e fu|o	10
+比留间	bi|k lq jm|p	10
+元田	yr|j tm|d	10
+川胜	ir|q ug|c	10
+夏井	xx|h jk|j	10
+山科	uj|d ke|r	10
+朝田	ic|m tm|d	10
+瀬下	ld|s xx|m	10
+笹谷	ti|r gu|w	10
+浜辺	bh|s bm|b	10
+野末	ye|d mo|j	10
+脇山	xp|c uj|d	10
+占部	vj|f bu|u	10
+岩月	yj|d yt|c	10
+打越	da|u yt|l	10
+江森	jl|s sf|f	10
+米津	mi|y jb|s	10
+生田目	ug|r tm mu|d	10
+筑地	vu|r di|l	10
+牧原	mu|r yr|h	10
+赤田	ii|l tm|d	10
+八木沢	ba|w mu ze|s	10
+福家	fu|i jx|o	10
+仮屋	fj|h wu|v	10
+川戸	ir|q hu|k	10
+新井田	xb|u jk tm|d	10
+长南	vh|r nj|m	10
+梶浦	ww|f pu|s	10
+植原	vi|f yr|h	10
+粟田	su|m tm|d	10
+森木	sf|f mu|f	10
+友利	yz|h li|r	10
+佐桥	zo|h qn|f	10
+金内	jb|j nw|d	10
+畔柳	pj|d lq|f	10
+堀池	ku|l ii|s	10
+榎田	jx|f tm|d	10
+田谷	tm|d gu|w	10
+高泽	gc|u ze|s	10
+冲山	is|u uj|d	10
+渋沢	se|s ze|s	10
+木川	mu|f ir|q	10
+光冈	gl|k gh|d	10
+山野井	uj|d ye jk|j	10
+友野	yz|h ye|d	10
+沢木	ze|s mu|f	10
+稲井	dc|r jk|j	10
+月冈	yt|c gh|d	10
+岩波	yj|d bo|s	10
+千贺	qm|r he|b	10
+宝田	bc|o tm|d	10
+花轮	hx|a ly|k	10
+縄田	ug|c tm|d	10
+干场	gj|j ih|l	10
+立木	li|u mu|f	10
+戸部	hu|k bu|u	10
+豊福	li|d fu|i	10
+宫园	gs|o yr|d	10
+今福	jb|h fu|i	10
+戸松	hu|k ss|f	10
+水津	uv|s jb|s	10
+宫平	gs|o pk|l	10
+井谷	jk|j gu|w	10
+増渊	zg|l yr|s	10
+鸟饲	nn|e si|e	10
+野辺	ye|d bm|b	10
+宍仓	rz|o ch|h	10
+池尻	ii|s kc|v	10
+鸨田	bc|e tm|d	10
+末田	mo|j tm|d	10
+桥野	qn|f ye|d	10
+上妻	uh|f qi|k	10
+与那覇	yu|k na ba|m	10
+纐缬	jn|c xp|c	10
+中钵	vs|d bo|j	10
+细贝	xi|c bw|d	10
+丸野	wj|e ye|d	10
+五十川	wu|m ui ir|q	10
+曾我	cg|y wo|r	10
+早崎	zc|v qi|d	10
+柄沢	bk|f ze|s	10
+森上	sf|f uh|f	10
+驹形	ju|c xk|j	10
+君冢	jy|v vs|i	10
+瀬崎	ld|s qi|d	10
+棚田	pg|f tm|d	10
+池崎	ii|s qi|d	10
+伊地知	yi|h di vi|r	10
+川津	ir|q jb|s	10
+筑山	vu|r uj|d	10
+小石	xn|k ui|h	10
+栋方	ds|f fh|u	10
+斎田	vd|u tm|d	10
+糸川	mi|c ir|q	10
+崎田	qi|d tm|d	10
+小野里	xn|k ye li|d	10
+沼仓	vc|s ch|h	10
+茂吕	mc|a lv|g	10
+立松	li|u ss|f	10
+熊泽	xs|x ze|s	10
+佐渡	zo|h du|s	10
+高见沢	gc|u jm ze|s	10
+矢泽	ui|r ze|s	10
+鬼沢	gv|q ze|s	9
+府川	fu|u ir|q	9
+池村	ii|s cy|f	9
+门仓	mf|p ch|h	9
+冨㭴	fu|i jm	9
+山部	uj|d bu|u	9
+蛯原	lc|d yr|h	9
+薗田	yr|a tm|d	9
+水嶋	uv|s dc|d	9
+青沼	qk|j vc|s	9
+谷岛	gu|w dc|e	9
+大隈	da|h ww|z	9
+重村	vs|r cy|f	9
+沼尻	vc|s kc|v	9
+円谷	yr|d gu|w	9
+平子	pk|l zi|z	9
+兼平	jm|y pk|l	9
+穴沢	xt|o ze|s	9
+中马	vs|d ma|c	9
+久永	jq|e ys|i	9
+有沢	yz|h ze|s	9
+久原	jq|e yr|h	9
+戸岛	hu|k dc|e	9
+糸贺	mi|c he|b	9
+代田	dd|h tm|d	9
+若原	ro|a yr|h	9
+水间	uv|s jm|p	9
+登坂	dg|x bj|l	9
+杉尾	uj|f ww|v	9
+川満	ir|q mj|s	9
+八寻	ba|w xy|v	9
+加川	jx|b ir|q	9
+砂原	ua|h yr|h	9
+常田	ih|k tm|d	9
+辻冈	ui|m gh|d	9
+有坂	yz|h bj|l	9
+山藤	uj|d tg|a	9
+锻治	dr|j vi|s	9
+花岛	hx|a dc|e	9
+芥川	jp|a ir|q	9
+笹仓	ti|r ch|h	9
+若生	ro|a ug|r	9
+武富	wu|j fu|o	9
+宫元	gs|o yr|j	9
+财津	cd|d jb|s	9
+出村	iu|z cy|f	9
+栗城	li|m ig|l	9
+鹤谷	he|i gu|w	9
+田泽	tm|d ze|s	9
+嶋本	dc|d bf|m	9
+高间	gc|u jm|p	9
+竹口	vu|r kz|g	9
+宫路	gs|o lu|g	9
+浜地	bh|s di|l	9
+苅谷	yi|a gu|w	9
+剣持	jm|h ii|u	9
+増川	zg|l ir|q	9
+国広	go|d gl|u	9
+杉下	uj|f xx|m	9
+小中	xn|k vs|d	9
+梅谷	mw|f gu|w	9
+阿比留	aa|z bi lq|e	9
+楢原	yz|f yr|h	9
+笹尾	ti|r ww|v	9
+山沢	uj|d ze|s	9
+竹泽	vu|r ze|s	9
+赤瀬	ii|l ld|s	9
+新木	xb|u mu|f	9
+福重	fu|i vs|r	9
+马越	ma|c yt|l	9
+横瀬	hg|f ld|s	9
+喜屋武	xi|l wu wu|j	9
+室伏	ui|o fu|h	9
+南里	nj|m li|d	9
+今城	jb|h ig|l	9
+笹沼	ti|r vc|s	9
+富冢	fu|o vs|i	9
+亀川	gv|e ir|q	9
+芝原	vi|a yr|h	9
+岛冈	dc|e gh|d	9
+稲富	dc|r fu|o	9
+宫森	gs|o sf|f	9
+香田	xl|r tm|d	9
+萩尾	qq|a ww|v	9
+川手	ir|q uz|u	9
+元山	yr|j uj|d	9
+神藤	uf|i tg|a	9
+大园	da|h yr|d	9
+稲生	dc|r ug|r	9
+込山	yu|w uj|d	9
+潮田	ic|s tm|d	9
+尾川	ww|v ir|q	9
+村崎	cy|f qi|d	9
+梅川	mw|f ir|q	9
+黒沼	hw|d vc|s	9
+横仓	hg|f ch|h	9
+横堀	hg|f ku|l	9
+锅田	go|j tm|d	9
+立原	li|u yr|h	9
+稲森	dc|r sf|f	9
+大蔵	da|h zh|a	9
+滨野	bb|s ye|d	9
+淡路	dj|s lu|g	9
+永嶋	ys|i dc|d	9
+高口	gc|u kz|g	9
+周藤	vz|e tg|a	9
+出原	iu|z yr|h	9
+贝冢	bw|d vs|i	9
+古馆	gu|m gr|e	9
+镝木	di|j mu|f	9
+古里	gu|m li|d	9
+若菜	ro|a cd|a	9
+奈须	nd|h xu|t	9
+冈嶋	gh|d dc|d	9
+矢仓	ui|r ch|h	9
+黒石	hw|d ui|h	9
+小长谷	xn|k vh gu|w	9
+横冢	hg|f vs|i	9
+安楽	an|o le|q	9
+安间	an|o jm|p	9
+川浪	ir|q lh|s	9
+高屋	gc|u wu|v	9
+杉井	uj|f jk|j	9
+仓地	ch|h di|l	9
+萩谷	qq|a gu|w	9
+矶山	ji|h uj|d	9
+橘田	ju|f tm|d	9
+北爪	bw|f vc|t	9
+関沢	gr|d ze|s	9
+小见山	xn|k jm uj|d	9
+二川	er|j ir|q	9
+下冈	xx|m gh|d	9
+上嶋	uh|f dc|d	9
+当山	dh|k uj|d	9
+喜纳	xi|l na|c	9
+星山	xk|v uj|d	9
+江沢	jl|s ze|s	9
+纸谷	vi|c gu|w	9
+芹泽	qb|a ze|s	9
+胜木	ug|c mu|f	9
+小浦	xn|k pu|s	9
+白幡	bd|q fj|d	9
+蓑田	so|a tm|d	9
+沢崎	ze|s qi|d	9
+中家	vs|d jx|o	9
+藤中	tg|a vs|d	9
+徳原	de|i yr|h	9
+荒瀬	hl|a ld|s	9
+桥元	qn|f yr|j	9
+重野	vs|r ye|d	9
+増冈	zg|l gh|d	9
+知久	vi|r jq|e	9
+猪饲	vu|e si|e	9
+矶辺	ji|h bm|b	9
+増沢	zg|l ze|s	9
+张替	vh|v ti|j	9
+重本	vs|r bf|m	9
+神代	uf|i dd|h	9
+八锹	ba|w qn|j	9
+藤生	tg|a ug|r	9
+片寄	pm|q ji|o	9
+坚田	jm|a tm|d	9
+柏谷	bd|f gu|w	9
+细矢	xi|c ui|r	8
+赤沼	ii|l vc|s	8
+菊谷	ju|a gu|w	8
+市瀬	ui|u ld|s	8
+舛田	ir|e tm|d	8
+江端	jl|s dr|u	8
+堀场	ku|l ih|l	8
+安宅	an|o vd|o	8
+池戸	ii|s hu|k	8
+菅生	jm|a ug|r	8
+菅沢	jm|a ze|s	8
+石堂	ui|h th|k	8
+浜名	bh|s mk|e	8
+滨本	bb|s bf|m	8
+㭴本	jm bf|m	8
+堂本	th|k bf|m	8
+六车	lq|u ie|k	8
+広中	gl|u vs|d	8
+十川	ui|m ir|q	8
+沼尾	vc|s ww|v	8
+山贺	uj|d he|b	8
+横関	hg|f gr|d	8
+高平	gc|u pk|l	8
+秋庭	qq|r tk|u	8
+先崎	xm|r qi|d	8
+泷泽	ls|s ze|s	8
+末冈	mo|j gh|d	8
+川路	ir|q lu|g	8
+前畑	qm|y tm|y	8
+江幡	jl|s fj|d	8
+鹿内	lu|u nw|d	8
+斉田	qi|u tm|d	8
+今里	jb|h li|d	8
+桶谷	ts|f gu|w	8
+吉池	ji|l ii|s	8
+増野	zg|l ye|d	8
+村岛	cy|f dc|e	8
+中筋	vs|d jb|r	8
+山县	uj|d xm|d	8
+水原	uv|s yr|h	8
+安斉	an|o qi|u	8
+伊田	yi|h tm|d	8
+宫谷	gs|o gu|w	8
+津崎	jb|s qi|d	8
+渋田	se|s tm|d	8
+新冈	xb|u gh|d	8
+菅家	jm|a jx|o	8
+川部	ir|q bu|u	8
+泷本	ls|s bf|m	8
+阿保	aa|z bc|h	8
+永友	ys|i yz|h	8
+高部	gc|u bu|u	8
+寺口	si|l kz|g	8
+仓冈	ch|h gh|d	8
+小阪	xn|k bj|z	8
+针谷	vf|j gu|w	8
+永石	ys|i ui|h	8
+河原崎	he|s yr qi|d	8
+海藤	hd|s tg|a	8
+渋川	se|s ir|q	8
+神长	uf|i vh|r	8
+谷垣	gu|w yr|l	8
+弘田	hs|v tm|d	8
+楠原	nj|f yr|h	8
+饭冈	fj|e gh|d	8
+新纳	xb|u na|c	8
+下岛	xx|m dc|e	8
+吉浦	ji|l pu|s	8
+植山	vi|f uj|d	8
+与仪	yu|k yi|h	8
+五藤	wu|m tg|a	8
+上出	uh|f iu|z	8
+大瀬	da|h ld|s	8
+池山	ii|s uj|d	8
+津曲	jb|s qu|d	8
+毛冢	mc|r vs|i	8
+花沢	hx|a ze|s	8
+安食	an|o ui|h	8
+石戸	ui|h hu|k	8
+峰村	fg|d cy|f	8
+三冢	sj|j vs|i	8
+中口	vs|d kz|g	8
+田洼	tm|d wa|s	8
+霜田	ul|l tm|d	8
+本谷	bf|m gu|w	8
+间野	jm|p ye|d	8
+室冈	ui|o gh|d	8
+岩堀	yj|d ku|l	8
+原沢	yr|h ze|s	8
+水元	uv|s yr|j	8
+藤浪	tg|a lh|s	8
+羽根	yu|x gf|f	8
+黒野	hw|d ye|d	8
+上远野	uh|f yr ye|d	8
+箭内	jm|r nw|d	8
+角井	jn|e jk|j	8
+満田	mj|s tm|d	8
+関原	gr|d yr|h	8
+戸嶋	hu|k dc|d	8
+森原	sf|f yr|h	8
+胜亦	ug|c yi|u	8
+足达	zu|g da|h	8
+唐木	th|u mu|f	8
+浅贺	qm|s he|b	8
+卜部	bo|s bu|u	8
+吉尾	ji|l ww|v	8
+水川	uv|s ir|q	8
+隈元	ww|z yr|j	8
+三吉	sj|j ji|l	8
+小尾	xn|k ww|v	8
+大岳	da|h yt|q	8
+有山	yz|h uj|d	8
+梨本	li|r bf|m	8
+小枝	xn|k vi|f	8
+安岛	an|o dc|e	8
+胜间田	ug|c jm tm|d	8
+嘉数	jx|l uu|y	8
+柿田	ui|f tm|d	8
+柴垣	id|f yr|l	8
+楠瀬	nj|f ld|s	8
+久下	jq|e xx|m	8
+照沼	vc|z vc|s	8
+都丸	dz|m wj|e	8
+有井	yz|h jk|j	8
+弓场	gs|v ih|l	8
+中司	vs|d si|v	8
+直江	vi|m jl|s	8
+酒匂	jq|s xs|e	8
+榛叶	vf|f ye|g	8
+土江	tu|l jl|s	8
+喜多村	xi|l do cy|f	8
+大日方	da|h ri fh|u	8
+宫林	gs|o lb|f	8
+森园	sf|f yr|d	8
+田邉	tm|d bm|q	8
+澁谷	se|s gu|w	8
+㭴原	jm yr|h	8
+敏夫	mb|r fu|j	10
+和夫	he|r fu|j	9
+幸雄	xk|l xs|h	9
+健一	jm|h yi|k	8
+正一	vg|m yi|k	8
+光男	gl|k nj|d	8
+秀雄	xq|r xs|h	8
+康夫	kh|u fu|j	7
+栄一	rs|o yi|k	7
+幸男	xk|l nj|d	7
+和男	he|r nj|d	7
+幸一	xk|l yi|k	7
+秀夫	xq|r fu|j	6
+孝雄	xn|m xs|h	6
+正雄	vg|m xs|h	6
+正夫	vg|m fu|j	6
+胜美	ug|c mw|y	6
+康之	kh|u vi|i	6
+义一	yi|y yi|k	6
+义雄	yi|y xs|h	6
+信夫	xb|h fu|j	5
+信一	xb|h yi|k	5
+孝一	xn|m yi|k	5
+光雄	gl|k xs|h	5
+忠雄	vs|d xs|h	5
+良一	ll|i yi|k	5
+久雄	jq|e xs|h	5
+正明	vg|m mk|v	5
+一雄	yi|k xs|h	5
+正美	vg|m mw|y	5
+英夫	yk|a fu|j	5
+文男	wf|u nj|d	5
+文夫	wf|u fu|j	5
+忠男	vs|d nj|d	5
+诚一	ig|n yi|k	5
+利夫	li|r fu|j	5
+幸夫	xk|l fu|j	4
+昭一	vc|v yi|k	4
+哲也	ve|u ye|z	4
+三男	sj|j nj|d	4
+清一	qk|s yi|k	4
+康弘	kh|u hs|v	4
+和彦	he|r yj|u	4
+贞夫	vf|f fu|j	4
+昭夫	vc|v fu|j	4
+洋一	yh|s yi|k	4
+健司	jm|h si|v	4
+正治	vg|m vi|s	4
+邦夫	bh|j fu|j	4
+信雄	xb|h xs|h	4
+俊一	jy|h yi|k	4
+胜男	ug|c nj|d	4
+修一	xq|h yi|k	4
+春雄	iy|j xs|h	4
+喜一	xi|l yi|k	4
+昭二	vc|v er|j	4
+健二	jm|h er|j	4
+贤一	xm|a yi|k	4
+正幸	vg|m xk|l	4
+正志	vg|m vi|l	4
+和雄	he|r xs|h	4
+胜雄	ug|c xs|h	4
+健治	jm|h vi|s	4
+胜彦	ug|c yj|u	3
+达雄	da|h xs|h	3
+秀男	xq|r nj|d	3
+忠夫	vs|d fu|j	3
+利雄	li|r xs|h	3
+顺一	uy|q yi|k	3
+重雄	vs|r xs|h	3
+富雄	fu|o xs|h	3
+俊夫	jy|h fu|j	3
+启之	qi|i vi|i	3
+秀明	xq|r mk|v	3
+义男	yi|y nj|d	3
+博之	bo|m vi|i	3
+久夫	jq|e fu|j	3
+利男	li|r nj|d	3
+正二	vg|m er|j	3
+真一	vf|m yi|k	3
+隆夫	ls|z fu|j	3
+武男	wu|j nj|d	3
+秀树	xq|r uu|f	3
+清治	qk|s vi|s	3
+八郎	ba|w lh|i	3
+孝夫	xn|m fu|j	3
+英男	yk|a nj|d	3
+浩一	hc|s yi|k	3
+正胜	vg|m ug|c	3
+光夫	gl|k fu|j	3
+义明	yi|y mk|v	3
+直树	vi|m uu|f	3
+隆一	ls|z yi|k	3
+达也	da|h ye|z	3
+康雄	kh|u xs|h	3
+秀一	xq|r yi|k	2
+昭三	vc|v sj|j	2
+利明	li|r mk|v	2
+正彦	vg|m yj|u	2
+信男	xb|h nj|d	2
+昌弘	ih|v hs|v	2
+栄治	rs|o vi|s	2
+久男	jq|e nj|d	2
+秀幸	xq|r xk|l	2
+春夫	iy|j fu|j	2
+芳雄	fh|a xs|h	2
+光一	gl|k yi|k	2
+和子	he|r zi|z	2
+茂男	mc|a nj|d	2
+宪一	xm|o yi|k	2
+信行	xb|h xk|i	2
+武志	wu|j vi|l	2
+春男	iy|j nj|d	2
+良雄	ll|i xs|h	2
+贞雄	vf|f xs|h	2
+幸治	xk|l vi|s	2
+茂树	mc|a uu|f	2
+英一	yk|a yi|k	2
+忠一	vs|d yi|k	2
+正弘	vg|m hs|v	2
+敏男	mb|r nj|d	2
+茂雄	mc|a xs|h	2
+富夫	fu|o fu|j	2
+贤治	xm|a vi|s	2
+雄一	xs|h yi|k	2
+茂夫	mc|a fu|j	2
+干夫	gj|j fu|j	2
+富男	fu|o nj|d	2
+昭男	vc|v nj|d	2
+义人	yi|y rf|h	2
+正树	vg|m uu|f	2
+文彦	wf|u yj|u	2
+宏明	hs|o mk|v	2
+行雄	xk|i xs|h	2
+义夫	yi|y fu|j	2
+清司	qk|s si|v	2
+义信	yi|y xb|h	2
+孝男	xn|m nj|d	2
+章夫	vh|u fu|j	2
+浩二	hc|s er|j	2
+义则	yi|y ze|d	2
+公一	gs|w yi|k	2
+伸一	uf|h yi|k	2
+淳一	iy|s yi|k	2
+利一	li|r yi|k	2
+敏之	mb|r vi|i	2
+胜治	ug|c vi|s	2
+良夫	ll|i fu|j	2
+胜义	ug|c yi|y	2
+昭治	vc|v vi|s	2
+定雄	dk|o xs|h	2
+敏明	mb|r mk|v	2
+敏彦	mb|r yj|u	2
+秀和	xq|r he|r	2
+正敏	vg|m mb|r	2
+邦雄	bh|j xs|h	2
+恒夫	hg|o fu|j	2
+干雄	gj|j xs|h	2
+正三	vg|m sj|j	2
+辰雄	if|h xs|h	2
+繁雄	fj|r xs|h	2
+孝治	xn|m vi|s	2
+常夫	ih|k fu|j	2
+良治	ll|i vi|s	2
+一弘	yi|k hs|v	2
+重男	vs|r nj|d	2
+保夫	bc|h fu|j	2
+辉雄	hv|k xs|h	2
+正之	vg|m vi|i	2
+利幸	li|r xk|l	2
+一彦	yi|k yj|u	2
+恒雄	hg|o xs|h	2
+哲雄	ve|u xs|h	2
+芳男	fh|a nj|d	2
+国雄	go|d xs|h	2
+和弘	he|r hs|v	2
+孝志	xn|m vi|l	2
+弘明	hs|v mk|v	2
+哲郎	ve|u lh|i	2
+胜夫	ug|c fu|j	2
+浩司	hc|s si|v	2
+芳夫	fh|a fu|j	2
+勇一	ys|x yi|k	2
+克巳	ke|m si|v	2
+正昭	vg|m vc|v	2
+正信	vg|m xb|h	2
+义昭	yi|y vc|v	2
+康司	kh|u si|v	2
+吉男	ji|l nj|d	2
+哲男	ve|u nj|d	2
+重夫	vs|r fu|j	2
+雄二	xs|h er|j	2
+正博	vg|m bo|m	2
+道夫	dc|y fu|j	2
+英二	yk|a er|j	2
+康男	kh|u nj|d	2
+耕一	gg|j yi|k	2
+静雄	jk|j xs|h	2
+雅彦	ya|k yj|u	2
+克彦	ke|m yj|u	2
+照夫	vc|z fu|j	2
+政夫	vg|m fu|j	2
+英树	yk|a uu|f	2
+弘幸	hs|v xk|l	2
+辉男	hv|k nj|d	2
+健夫	jm|h fu|j	2
+正巳	vg|m si|v	1
+善一	uj|y yi|k	1
+辉夫	hv|k fu|j	1
+弘一	hs|v yi|k	1
+隆司	ls|z si|v	1
+隆雄	ls|z xs|h	1
+孝司	xn|m si|v	1
+政男	vg|m nj|d	1
+邦男	bh|j nj|d	1
+辰夫	if|h fu|j	1
+鉄雄	vi|j xs|h	1
+阳一	yh|z yi|k	1
+敬一	jk|a yi|k	1
+宏幸	hs|o xk|l	1
+裕一	yu|i yi|k	1
+祐一	yz|i yi|k	1
+政一	vg|m yi|k	1
+秀治	xq|r vi|s	1
+清志	qk|s vi|l	1
+贞男	vf|f nj|d	1
+保男	bc|h nj|d	1
+喜三郎	xi|l sj lh|i	1
+英治	yk|a vi|s	1
+政美	vg|m mw|y	1
+武司	wu|j si|v	1
+健之	jm|h vi|i	1
+敏弘	mb|r hs|v	1
+基之	ji|m vi|i	1
+正春	vg|m iy|j	1
+义美	yi|y mw|y	1
+义治	yi|y vi|s	1
+武彦	wu|j yj|u	1
+贤二	xm|a er|j	1
+秀行	xq|r xk|i	1
+健次	jm|h ci|u	1
+胜也	ug|c ye|z	1
+一美	yi|k mw|y	1
+修二	xq|h er|j	1
+静夫	jk|j fu|j	1
+道雄	dc|y xs|h	1
+忠治	vs|d vi|s	1
+义久	yi|y jq|e	1
+敏郎	mb|r lh|i	1
+吉雄	ji|l xs|h	1
+宏和	hs|o he|r	1
+启司	qi|i si|v	1
+国夫	go|d fu|j	1
+博夫	bo|m fu|j	1
+喜一郎	xi|l yi lh|i	1
+正吉	vg|m ji|l	1
+隆志	ls|z vi|l	1
+伸幸	uf|h xk|l	1
+正次	vg|m ci|u	1
+和也	he|r ye|z	1
+博司	bo|m si|v	1
+安雄	an|o xs|h	1
+守男	uz|o nj|d	1
+明男	mk|v nj|d	1
+照男	vc|z nj|d	1
+照雄	vc|z xs|h	1
+常雄	ih|k xs|h	1
+胜一	ug|c yi|k	1
+郁夫	yu|h fu|j	1
+良明	ll|i mk|v	1
+清次	qk|s ci|u	1
+宪司	xm|o si|v	1
+幸三	xk|l sj|j	1
+裕之	yu|i vi|i	1
+雅之	ya|k vi|i	1
+义弘	yi|y hs|v	1
+安男	an|o nj|d	1
+鉄男	vi|j nj|d	1
+明夫	mk|v fu|j	1
+栄作	rs|o zo|h	1
+正喜	vg|m xi|l	1
+正司	vg|m si|v	1
+进一	jb|j yi|k	1
+正孝	vg|m xn|m	1
+恒男	hg|o nj|d	1
+辰男	if|h nj|d	1
+耕三	gg|j sj|j	1
+省三	ug|k sj|j	1
+直人	vi|m rf|h	1
+秋雄	qq|r xs|h	1
+信幸	xb|h xk|l	1
+徳治	de|i vi|s	1
+良三	ll|i sj|j	1
+干男	gj|j nj|d	1
+昭彦	vc|v yj|u	1
+六郎	lq|u lh|i	1
+耕司	gg|j si|v	1
+孝之	xn|m vi|i	1
+孝明	xn|m mk|v	1
+良平	ll|i pk|l	1
+光司	gl|k si|v	1
+谦一	qm|n yi|k	1
+洋子	yh|s zi|z	1
+良和	ll|i he|r	1
+浩之	hc|s vi|i	1
+恵一	hv|m yi|k	1
+光义	gl|k yi|y	1
+正利	vg|m li|r	1
+孝幸	xn|m xk|l	1
+京子	jk|u zi|z	1
+寿一	uz|j yi|k	1
+正己	vg|m ji|v	1
+定男	dk|o nj|d	1
+一义	yi|k yi|y	1
+光弘	gl|k hs|v	1
+耕太郎	gg|j td lh|i	1
+裕二	yu|i er|j	1
+寛治	kr|o vi|s	1
+秀典	xq|r dm|d	1
+幸吉	xk|l ji|l	1
+康博	kh|u bo|m	1
+三雄	sj|j xs|h	1
+义光	yi|y gl|k	1
+利治	li|r vi|s	1
+金一	jb|j yi|k	1
+胜则	ug|c ze|d	1
+则夫	ze|d fu|j	1
+修三	xq|h sj|j	1
+启一	qi|i yi|k	1
+晃一	hl|v yi|k	1
+秋男	qq|r nj|d	1
+和则	he|r ze|d	1
+市郎	ui|u lh|i	1
+和正	he|r vg|m	1
+诚治	ig|n vi|s	1
+徳雄	de|i xs|h	1
+文子	wf|u zi|z	1
+隆男	ls|z nj|d	1
+启介	qi|i jp|h	1
+晴夫	qk|v fu|j	1
+博一	bo|m yi|k	1
+圭司	gv|l si|v	1
+胜巳	ug|c si|v	1
+隆之	ls|z vi|i	1
+保雄	bc|h xs|h	1
+栄吉	rs|o ji|l	1
+栄子	rs|o zi|z	1
+清二	qk|s er|j	1
+诚二	ig|n er|j	1
+敏行	mb|r xk|i	1
+和幸	he|r xk|l	1
+松雄	ss|f xs|h	1
+慎一	uf|o yi|k	1
+弘之	hs|v vi|i	1
+芳郎	fh|a lh|i	1
+和久	he|r jq|e	1
+久子	jq|e zi|z	1
+义胜	yi|y ug|c	1
+勇治	ys|x vi|s	1
+吉郎	ji|l lh|i	1
+松男	ss|f nj|d	1
+政义	vg|m yi|y	1
+正俊	vg|m jy|h	1
+庄一	vl|u yi|k	1
+清吉	qk|s ji|l	1
+幸司	xk|l si|v	1
+広志	gl|u vi|l	1
+信二	xb|h er|j	1
+信之	xb|h vi|i	1
+俊行	jy|h xk|i	1
+健三	jm|h sj|j	1
+俊明	jy|h mk|v	1
+正広	vg|m gl|u	1
+忠司	vs|d si|v	1
+胜己	ug|c ji|v	1
+良男	ll|i nj|d	1
+和义	he|r yi|y	1
+弘志	hs|v vi|l	1
+忠志	vs|d vi|l	1
+胜弘	ug|c hs|v	1
+克典	ke|m dm|d	1
+栄二	rs|o er|j	1
+公彦	gs|w yj|u	1
+宪治	xm|o vi|s	1
+义彦	yi|y yj|u	1
+博幸	bo|m xk|l	1
+泰三	td|j sj|j	1
+次雄	ci|u xs|h	1
+静子	jk|j zi|z	1
+良二	ll|i er|j	1
+幸二	xk|l er|j	1
+俊治	jy|h vi|s	1
+昭司	vc|v si|v	1
+伸治	uf|h vi|s	1
+定夫	dk|o fu|j	1
+信也	xb|h ye|z	1
+仁一	rf|h yi|k	1
+光宏	gl|k hs|o	1
+义孝	yi|y xn|m	1
+义春	yi|y iy|j	1
+初男	iu|i nj|d	1
+信子	xb|h zi|z	1
+明彦	mk|v yj|u	1
+治夫	vi|s fu|j	1
+悦郎	yt|o lh|i	1
+庆一	qk|u yi|k	1
+昭次	vc|v ci|u	1
+公男	gs|w nj|d	1
+行男	xk|i nj|d	1
+昌宏	ih|v hs|o	1
+敬二	jk|a er|j	1
+通夫	ts|x fu|j	1
+豊治	li|d vi|s	1
+贤司	xm|a si|v	1
+节夫	jp|a fu|j	1
+敬三	jk|a sj|j	1
+耕二	gg|j er|j	1
+宏昌	hs|o ih|v	1
+康正	kh|u vg|m	1
+达男	da|h nj|d	1
+时雄	ui|v xs|h	1
+贞一	vf|f yi|k	1
+勇吉	ys|x ji|l	1
+修司	xq|h si|v	1
+伸夫	uf|h fu|j	1
+敏幸	mb|r xk|l	1
+敏昭	mb|r vc|v	1
+静男	jk|j nj|d	1
+利彦	li|r yj|u	1
+邦明	bh|j mk|v	1
+纪夫	ji|c fu|j	1
+太一	td|h yi|k	1
+祐二	yz|i er|j	1
+泰弘	td|j hs|v	1
+政幸	vg|m xk|l	1
+义之	yi|y vi|i	1
+康彦	kh|u yj|u	1
+悦夫	yt|o fu|j	1
+喜代治	xi|l dd vi|s	1
+幸作	xk|l zo|h	1
+仁志	rf|h vi|l	1
+雄三	xs|h sj|j	1
+美代子	mw|y dd zi|z	1
+一也	yi|k ye|z	1
+晴雄	qk|v xs|h	1
+繁夫	fj|r fu|j	1
+利和	li|r he|r	1
+嘉一	jx|l yi|k	1
+恭一	gs|m yi|k	1
+幸太郎	xk|l td lh|i	1
+雅一	ya|k yi|k	1
+克幸	ke|m xk|l	1
+克明	ke|m mk|v	1
+清隆	qk|s ls|z	1
+义隆	yi|y ls|z	1
+重光	is|r gl|k	1
+光正	gl|k vg|m	1
+利光	li|r gl|k	1
+启二	qi|i er|j	1
+源一	yr|s yi|k	1
+公治	gs|w vi|s	1
+俊二	jy|h er|j	1
+政志	vg|m vi|l	1
+敏子	mb|r zi|z	1
+勇二	ys|x er|j	1
+友治	yz|h vi|s	1
+利昭	li|r vc|v	1
+吉一	ji|l yi|k	1
+次夫	ci|u fu|j	1
+治男	vi|s nj|d	1
+康仁	kh|u rf|h	1
+幸弘	xk|l hs|v	1
+寿男	uz|j nj|d	1
+博史	bo|m ui|d	1
+耕治	gg|j vi|s	1
+浩史	hc|s ui|d	1
+英之	yk|a vi|i	1
+光治	gl|k vi|s	1
+省吾	ug|k wu|m	1
+弘行	hs|v xk|i	1
+友一	yz|h yi|k	1
+和明	he|r mk|v	1
+英司	yk|a si|v	1
+胜久	ug|c jq|e	1
+雅章	ya|k vh|u	1
+功一	gs|m yi|k	1
+孝二	xn|m er|j	1
+力男	li|b nj|d	1
+重治	vs|r vi|s	1
+喜久雄	xi|l jq xs|h	1
+大辅	da|h fu|k	1
+彰彦	vh|u yj|u	1
+利行	li|r xk|i	1
+日出夫	ri|v iu fu|j	1
+武美	wu|j mw|y	1
+弘和	hs|v he|r	1
+栄次	rs|o ci|u	1
+谦二	qm|n er|j	1
+耕造	gg|j zc|r	1
+贤次	xm|a ci|u	1
+好一	hc|b yi|k	1
+昭吉	vc|v ji|l	1
+信吉	xb|h ji|l	1
+博昭	bo|m vc|v	1
+末治	mo|j vi|s	1
+隆三	ls|z sj|j	1
+安弘	an|o hs|v	1
+悦子	yt|o zi|z	1
+圭一	gv|l yi|k	1
+诚司	ig|n si|v	1
+长一	vh|r yi|k	1
+敏博	mb|r bo|m	1
+史郎	ui|d lh|i	1
+光昭	gl|k vc|v	0
+武治	wu|j vi|s	0
+真也	vf|m ye|z	0
+良幸	ll|i xk|l	0
+秋夫	qq|r fu|j	0
+俊之	jy|h vi|i	0
+久一	jq|e yi|k	0
+元彦	yr|j yj|u	0
+光彦	gl|k yj|u	0
+春吉	iy|j ji|l	0
+伸二	uf|h er|j	0
+政行	vg|m xk|i	0
+千代子	qm|r dd zi|z	0
+八重子	ba|w vs zi|z	0
+昭吾	vc|v wu|m	0
+祐司	yz|i si|v	0
+真司	vf|m si|v	0
+裕康	yu|i kh|u	0
+久幸	jq|e xk|l	0
+志郎	vi|l lh|i	0
+岩男	yj|d nj|d	0
+胜三	ug|c sj|j	0
+贞治	vf|f vi|s	0
+隆治	ls|z vi|s	0
+吉弘	ji|l hs|v	0

@@ -1,0 +1,9 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: fly_km_chs_char
+version: "2023-11-13"
+import_tables:
+  - flykm_dicts/char     # 字表
+...

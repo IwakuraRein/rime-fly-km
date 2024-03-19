@@ -1,41 +1,24 @@
-# Rime schema
-# encoding: utf-8
-
-
-# 方案说明
-schema:
-  schema_id: fly_km_chs
-  name: 小鹤快码简中
-  version: "2023-08-19"
-  author:
-    - IwakuraRein
-  description: 
-    - https://github.com/IwakuraRein/rime-fly-km
-  dependencies:
-
-
-# 开关
-# 鼠须管 0.16 后，用快捷键切换时的提示文字由 states 定义
-# states: 方案选单显示的名称。可以注释掉，仍可以通过快捷键切换。
-# reset: 默认状态。 注释掉后，切换窗口时不会重置到默认状态。
-switches:
-  - name: ascii_mode
-    states: [ 中, En ]
-    reset: 1
-  - name: traditionalization
-    states: [ 汉, 漢 ]
-    reset: 0
-  - name: full_shape
-    states: [ 半, 全 ]
-    reset: 0
-  - name: show_words
-    states: [ 字, 词 ]
-    reset: 1
-
-# 输入引擎
+custom_phrase:
+  db_class: stabledb
+  dictionary: ""
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 99
+  user_dict: custom_phrase
+date_translator:
+  date: date
+  datetime: datetime
+  time: time
+  timestamp: timestamp
+  week: week
 engine:
+  filters:
+    - "simplifier@traditionalize"
+    - "lua_filter@autocap_filter"
+    # - "lua_filter@char_word_separator"
+    - uniquifier
   processors:
-    - lua_processor@select_character      # 以词定字
+    - "lua_processor@select_character"
     - ascii_composer
     - recognizer
     - key_binder
@@ -53,89 +36,150 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - lua_translator@date_translator      # 时间、日期、星期
-    - table_translator@custom_phrase      # 自定义短语 custom_phrase.txt
-    - lua_translator@unicode              # Unicode
-    - lua_translator@number_translator    # 数字、金额大写
-  filters:
-    # - lua_filter@corrector                # 错音错字提示
-    # - simplifier@emoji                    # Emoji
-    - simplifier@traditionalize           # 简繁切换
-    - lua_filter@autocap_filter           # 英文自动大写
-    - uniquifier                          # 去重
-    - lua_filter@char_word_separator
- 
-
-# Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字
-date_translator:
-  date: date            # 日期： 2022-11-29
-  time: time            # 时间： 18:13
-  week: week            # 星期： 星期二
-  datetime: datetime    # ISO 8601： 2022-11-29T18:13:11+08:00
-  timestamp: timestamp  # 时间戳： 1669716794
-
-
-# 主翻译器，拼音
-translator:
-  dictionary: fly_km_chs # 挂载词库 rime_ice.dict.yaml
-  spelling_hints: 8
-  initial_quality: 1.2           # 拼音的权重应该比英文大
-  enable_user_dict: false
-
-
-# 自定义短语：custom_phrase.txt
-custom_phrase:
-  dictionary: ""
-  user_dict: custom_phrase
-  db_class: stabledb
-  enable_completion: false # 补全提示
-  enable_sentence: false   # 禁止造句
-  initial_quality: 99      # custom_phrase 的权重应该比 pinyin 和 melt_eng 大
-
-# 简繁切换
-traditionalize:
-  option_name: traditionalization
-  opencc_config: s2t.json             # s2t.json | s2hk.json | s2tw.json | s2twp.json
-  tips: none                          # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
-  excluded_types: [ reverse_lookup ]  # 不转换反查（两分拼字）的内容
-
-
-# 标点符号
-# punctuator 下面有三个子项：
-#   full_shape 全角标点映射
-#   half_shape 半角标点映射
-#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符，自定义的 symbols_v.yaml 修改成了 'v' 开头。
+    - "table_translator@flykm_char"         # 单字
+    - "lua_translator@date_translator"
+    - "table_translator@custom_phrase"
+    - "lua_translator@unicode"
+    - "lua_translator@number_translator"
+key_binder:
+  bindings:
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: "Shift+space", switch: commit_code, when: always}
+    - {accept: "Control+Shift+F", toggle: traditionalization, when: always}
+    - {accept: "Shift+Shift_L", send: Page_Down, when: has_menu}
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: apostrophe, send: 3, when: has_menu}
+  import_preset: default
+  select_first_character: bracketleft
+  select_last_character: bracketright
+menu:
+  - page_size: 7
 punctuator:
   full_shape:
-    __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
+    " ": {commit: "　"}
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": ["＃", "⌘"]
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["％", "°", "℃"]
+    "&": "＆"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["＊", "·", "・", "×", "※", "❂"]
+    "+": "＋"
+    ",": {commit: "，"}
+    "-": "－"
+    .: {commit: "。"}
+    "/": ["／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "＝"
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": ["＠", "☯"]
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": ["・", "｀"]
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": "～"
   half_shape:
-    __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
-  # symbols:
-  #   __include: symbols_v:/symbols              # 从 symbols_v.yaml 导入配置
-
-
-# 处理符合特定规则的输入码，如网址、反查
+    "!": "！"
+    "\"": {pair: ["“", "”"]}
+    "#": "#"
+    "$": "¥"
+    "%": "%"
+    "&": "&"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": "*"
+    "+": "+"
+    ",": "，"
+    "-": "-"
+    .: "。"
+    "/": "/"
+    ":": "："
+    ";": "；"
+    "<": "《"
+    "=": "="
+    ">": "》"
+    "?": "？"
+    "@": "@"
+    "[": "【"
+    "\\": "、"
+    "]": "】"
+    "^": "……"
+    _: "——"
+    "`": "・"
+    "|": "|"
+    "~": "~"
 recognizer:
-  import_preset: default  # 从 default.yaml 继承通用的
-  patterns:  # 再增加方案专有的：
-    # punct: "^V([0-9]|10|[A-Za-z]+)$"  # 响应 symbols_caps_v.yaml 的 symbols
-    # reverse_lookup: "^L[a-z]+$"       # 响应两分拼字的反查
-    unicode: "^U[a-f0-9]+"            # 响应 Unicode
-    number: "^R[0-9]+[.]?[0-9]*"      # 响应 number_translator
-
-
-# 从 default 继承快捷键
-key_binder:
-  import_preset: default # 从 default.yaml 继承通用的
-  # bindings:            # 也可以再增加方案专有的
-
-
-# 拼写设定
+  import_preset: default
+  patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    number: "^R[0-9]+[.]?[0-9]*"
+    unicode: "^U[a-f0-9]+"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+schema:
+  author:
+    - IwakuraRein
+  dependencies:
+    - melt_eng
+  description:
+    - "https://github.com/IwakuraRein/rime-fly-km"
+  name: "小鹤快码简中"
+  schema_id: fly_km_chs
+  version: "2023-08-19"
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba|
-  initials: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " '"
   algebra:
-    - derive/^(..).+$/$1/
-    - derive/^(..[|].).+$/$1/
-    - xform/[|]//
+    - "derive/^(..[|].).+$/$1/"
+    - "derive/^(..).+$/$1/"
+    - "derive/[|]//"
+  alphabet: "Uzyxwvutsrqponmlkjihgfedcba|"
+  delimiter: " '"
+  initials: Uzyxwvutsrqponmlkjihgfedcba
+switches:
+  - name: ascii_mode
+    reset: 1
+    states: ["中", En]
+  - name: traditionalization
+    reset: 0
+    states: ["汉", "漢"]
+  - name: full_shape
+    reset: 0
+    states: ["半", "全"]
+  - name: show_words
+    reset: 1
+    states: ["字", "词"]
+traditionalize:
+  excluded_types:
+    - reverse_lookup
+  opencc_config: s2t.json
+  option_name: traditionalization
+  tips: none
+translator:
+  dictionary: fly_km_chs
+  enable_sentence: true
+  enable_user_dict: false
+  initial_quality: 1.3
+  spelling_hints: 8
+  comment_format:
+    - xform/^.*[|](.+)$/$1/
+flykm_char:
+  dictionary: fly_km_chs_char
+  enable_sentence: false
+  enable_user_dict: false
+  initial_quality: 1.2
+  spelling_hints: 8
+  comment_format:
+    - xform/^.*[|](.+)$/$1/
