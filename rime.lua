@@ -114,13 +114,13 @@ function char_word_separator(input, env)
     for cand in input:iter() do
         if utf8.len(cand.text) > 1 then
             if has_en(cand.text) then
-                if word_count > word_limit or #code < western_display_threshold then
+                if word_count >= word_limit or #code < western_display_threshold then
                     table.insert(western, cand)
                 else
                     yield(cand)
                     word_count = word_count + 1
                 end
-            elseif word_count <= word_limit then
+            elseif word_count < word_limit then
                 yield(cand)
                 word_count = word_count + 1
             else
