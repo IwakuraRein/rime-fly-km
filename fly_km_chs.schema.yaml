@@ -15,7 +15,7 @@ engine:
   filters:
     - "simplifier@traditionalize"
     - "lua_filter@autocap_filter"
-    # - "lua_filter@char_word_separator"
+    - "lua_filter@char_word_separator"
     - uniquifier
   processors:
     - "lua_processor@select_character"
@@ -171,7 +171,7 @@ translator:
   dictionary: fly_km_chs
   enable_sentence: true
   enable_user_dict: false
-  initial_quality: 1.3
+  initial_quality: 1.2
   spelling_hints: 8
   comment_format:
     - xform/^.*[|](.+)$/$1/
@@ -179,7 +179,7 @@ flykm_char:
   dictionary: fly_km_chs_char
   enable_sentence: false
   enable_user_dict: false
-  initial_quality: 1.2
+  initial_quality: 1.3
   spelling_hints: 8
   comment_format:
     - xform/^.*[|](.+)$/$1/

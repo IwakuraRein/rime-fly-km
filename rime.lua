@@ -96,6 +96,9 @@ function debug_checker(input, env)
     end
 end
 
+local function has_en(s)
+    return s:find("[%a%d]")
+end
 
 function char_word_separator(input, env)
     ctx = env.engine.context
@@ -104,10 +107,20 @@ function char_word_separator(input, env)
     local word_count = 0
     local chars = {}
     local tail_words = {}
+
+    local western_display_threshold = 5
+    local western = {}
     
     for cand in input:iter() do
         if utf8.len(cand.text) > 1 then
-            if word_count < word_limit then
+            if has_en(cand.text) then
+                if word_count > word_limit or #code < western_display_threshold then
+                    table.insert(western, cand)
+                else
+                    yield(cand)
+                    word_count = word_count + 1
+                end
+            elseif word_count <= word_limit then
                 yield(cand)
                 word_count = word_count + 1
             else
@@ -118,11 +131,15 @@ function char_word_separator(input, env)
         end
     end
 
-    for i, cand in ipairs(chars) do
+    for _, cand in ipairs(chars) do
         yield(cand)
     end
 
-    for i, cand in ipairs(tail_words) do
+    for _, cand in ipairs(tail_words) do
+        yield(cand)
+    end
+
+    for _, cand in ipairs(western) do
         yield(cand)
     end
 end
