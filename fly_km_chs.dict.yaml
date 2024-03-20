@@ -5,16 +5,17 @@
 name: fly_km_chs
 version: "2023-11-13"
 import_tables:
-  # - flykm_dicts/char_two     # 字表
-  - flykm_dicts/char_three     # 字表
+  # - flykm_dicts/char_two
+  - flykm_dicts/char_three
   - flykm_dicts/base     # 基础词库
   - flykm_dicts/ext      # 扩展词库
-  - flykm_dicts/books     # 字表
-  - flykm_dicts/celebrities     # 字表
-  - flykm_dicts/china     # 字表
-  - flykm_dicts/hongloumeng     # 字表
-  - flykm_dicts/japan     # 字表
-  - flykm_dicts/movies     # 字表
-  # - flykm_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
+  - flykm_dicts/books
+  - flykm_dicts/celebrities
+  - flykm_dicts/china
+  - flykm_dicts/hongloumeng
+  - flykm_dicts/japan
+  # - flykm_dicts/movies
+  - flykm_dicts/moegirl
+  - flykm_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
   - c:/Users/user/OneDrive/custom
 ...

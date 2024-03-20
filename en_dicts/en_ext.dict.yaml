@@ -1,0 +1,2466 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/iDvel/rime-ice
+# ------- 补充的英文词汇 -------
+#
+---
+name: en_ext
+version: "2024-03-18"
+sort: by_weight
+...
+# 一些杂项
+&nbsp;	&nbsp;	0
+<br>	<br>	0
+.DS_Store	.DS_Store	0
+README.md	README.md	0
+
+
+# 按键
+Fn	Fn	0
+cmd	cmd	0
+command	command	0
+Ctrl	Ctrl	0
+control	control	0
+Opt	Opt	0
+option	option	0
+shift	shift	0
+tab	tab	0
+Caps	Caps	0
+CapsLock	CapsLock	0
+return	return	0
+enter	enter	0
+space	space	0
+backspace	backspace	0
+Del	Del	0
+delete	delete	0
+Esc	Esc	0
+eject	eject	0
+
+
+# 月份（据说好像 5、6、7 月不要缩写 https://www.zhihu.com/question/29896678）
+January	January	0
+Jan.	Jan.	0
+January	Jan	0
+February	February	0
+Feb.	Feb.	0
+February	Feb	0
+March	March	0
+Mar.	Mar.	0
+March	Mar	0
+April	April	0
+Apr.	Apr.	0
+April	Apr	0
+May	May	0
+June	June	0
+# Jun.	Jun
+June	Jun	0
+July	July	0
+# Jul.	Jul
+# July	Jul
+August	August	0
+Aug.	Aug.	0
+August	Aug	0
+September	September	0
+Sep.	Sep.	0
+Sept.	Sep.	0
+Sept.	Sept.	0
+September	Sep	0
+September	Sept	0
+October	October	0
+Oct.	Oct.	0
+October	Oct	0
+November	November	0
+Nov.	Nov.	0
+November	Nov	0
+December	December	0
+Dec.	Dec.	0
+December	Dec	0
+
+
+# 星期
+Monday	Monday	0
+Mon.	Mon.	0
+Monday	Mon	0
+Tuesday	Tuesday	0
+Tue.	Tue.	0
+Tuesday	Tue.	0
+Wednesday	Wednesday	0
+Wed.	Wed.	0
+Wednesday	Wed	0
+Thursday	Thursday	0
+Thu.	Thu.	0
+Thurs.	Thu.	0
+Thurs.	Thurs.	0
+Thursday	Thu	0
+Thursday	Thurs	0
+Friday	Friday	0
+Fri.	Fri.	0
+Friday	Fri	0
+Saturday	Saturday	0
+Sat.	Sat.	0
+Saturday	Sat	0
+Sunday	Sunday	0
+Sun.	Sun.	0
+Sunday	Sun	0
+
+
+# 生活大爆炸 & 老友记
+Sheldon	Sheldon	0
+Leonard	Leonard	0
+Howard	Howard	0
+Rajesh	Rajesh	0
+Penny	Penny	0
+Bernadette	Bernadette	0
+Amy	Amy	0
+Rachel	Rachel	0
+Monica	Monica	0
+Joey	Joey	0
+Ross	Ross	0
+Chandler	Chandler	0
+Phoebe	Phoebe	0
+
+
+# 特定的排序，为了每组的排序，code 必须保持一致
+hell	hell	2	0
+he'll	hell	1	0
+shell	shell	2	0
+she'll	shell	1	0
+well	well	2	0
+we'll	well	1	0
+ill	ill	2	0
+I'll	ill	1	0
+ID	id	2	0
+I'd	id	1	0
+shed	shed	2	0
+she'd	shed	1	0
+net	net	2	0
+.NET	net	1	0
+.NET	dotnet	0
+
+
+# 带权重的系列
+iPhone	iPhone	999	0
+iPhone 15	iPhone	4	0
+iPhone 15 Plus	iPhone	3	0
+iPhone 15 Pro	iPhone	2	0
+iPhone 15 Pro Max	iPhone	1	0
+
+Mac OS X	MacOSX	999	0
+Mac OS X Cheetah	MacOSX	1	0
+Mac OS X Puma	MacOSX	2	0
+Mac OS X Jaguar	MacOSX	3	0
+Mac OS X Panther	MacOSX	4	0
+Mac OS X Tiger	MacOSX	5	0
+Mac OS X Leopard	MacOSX	6	0
+Mac OS X Snow Leopard	MacOSX	7	0
+
+OS X	OSX	999	0
+OS X Lion	OSX	1	0
+OS X Mountain Lion	OSX	2	0
+OS X Mavericks	OSX	3	0
+OS X Yosemite	OSX	4	0
+OS X El Capitan	OSX	5	0
+
+macOS	macOS	999	0
+macOS Sierra	macOS	1	0
+macOS High Sierra	macOS	2	0
+macOS Mojave	macOS	3	0
+macOS Catalina	macOS	4	0
+macOS Big Sur	macOS	5	0
+macOS Monterey	macOS	6	0
+macOS Ventura	macOS	7	0
+macOS Sonoma	macOS	8	0
+
+Windows	Windows	999	0
+Windows 95	Windows	1	0
+Windows 98	Windows	2	0
+Windows Me	Windows	3	0
+Windows 2000	Windows	4	0
+Windows XP	Windows	5	0
+Windows XP	WindowsXP	0
+Windows Vista	Windows	6	0
+Windows 7	Windows	7	0
+Windows 8	Windows	8	0
+Windows 10	Windows	10	0
+Windows 11	Windows	11	0
+
+
+# +_+
+iPhone 3G	iPhone3G	0
+iPhone 3GS	iPhone3GS	0
+iPhone 4	iPhone4	0
+iPhone 4S	iPhone4S	0
+iPhone 5	iPhone5	0
+iPhone 5C	iPhone5C	0
+iPhone 5S	iPhone5S	0
+iPhone 6	iPhone6	0
+iPhone 6 Plus	iPhone6Plus	0
+iPhone 6S	iPhone6S	0
+iPhone 6S Plus	iPhone6SPlus	0
+iPhone SE	iPhoneSE	0
+iPhone 7	iPhone7	0
+iPhone 7 Plus	iPhone7Plus	0
+iPhone 8	iPhone8	0
+iPhone 8 Plus	iPhone8Plus	0
+iPhone X	iPhoneX	0
+iPhone XR	iPhoneXR	0
+iPhone XS	iPhoneXS	0
+iPhone XS Max	iPhoneXSMax	0
+iPhone 11	iPhone11	0
+iPhone 11 Pro	iPhone11Pro	0
+iPhone 11 Pro Max	iPhone11ProMax	0
+iPhone 12	iPhone12	0
+iPhone 12 Mini	iPhone12Mini	0
+iPhone 12 Pro	iPhone12Pro	0
+iPhone 12 Pro Max	iPhone12ProMax	0
+iPhone 13	iPhone13	0
+iPhone 13 Mini	iPhone13Mini	0
+iPhone 13 Pro	iPhone13Pro	0
+iPhone 13 Pro Max	iPhone13ProMax	0
+iPhone 14	iPhone14	0
+iPhone 14 Plus	iPhone14Plus	0
+iPhone 14 Pro	iPhone14Pro	0
+iPhone 14 Pro Max	iPhone14ProMax	0
+iPhone 15	iPhone15	0
+iPhone 15 Plus	iPhone15Plus	0
+iPhone 15 Pro	iPhone15Pro	0
+iPhone 15 Pro Max	iPhone15ProMax	0
+Mac OS X Cheetah	MacOSXCheetah	0
+Mac OS X Puma	MacOSXPuma	0
+Mac OS X Jaguar	MacOSXJaguar	0
+Mac OS X Panther	MacOSXPanther	0
+Mac OS X Tiger	MacOSXTiger	0
+Mac OS X Leopard	MacOSXLeopard	0
+Mac OS X Snow Leopard	MacOSXSnowLeopard	0
+OS X Lion	OSXLion	0
+OS X Mountain Lion	OSXMountainLion	0
+OS X Mavericks	OSXMavericks	0
+OS X Yosemite	OSXYosemite	0
+OS X El Capitan	OSXElCapitan	0
+macOS Sierra	macOSSierra	0
+macOS High Sierra	macOSHighSierra	0
+macOS Mojave	macOSMojave	0
+macOS Catalina	macOSCatalina	0
+macOS Big Sur	macOSBigSur	0
+macOS Monterey	macOSMonterey	0
+macOS Ventura	macOSVentura	0
+macOS Sonoma	macOSSonoma	0
+Windows 95	Windows95	0
+Windows 98	Windows98	0
+Windows Me	WindowsMe	0
+Windows 2000	Windows2000	0
+Windows XP	WindowsXP	0
+Windows Vista	WindowsVista	0
+Windows 7	Windows7	0
+Windows 8	Windows8	0
+Windows 10	Windows10	0
+Windows 11	Windows11	0
+ERC-20	ERC-20	0
+ERC-721	ERC-721	0
+ERC-1155	ERC-1155	0
+cheetah	cheetah	0
+mavericks	mavericks	0
+High Sierra	HighSierra	0
+Mojave	Mojave	0
+Big Sur	BigSur	0
+TypeORM	TypeORM	0
+Griffiths	Griffiths	0
+Chapman	Chapman	0
+Walsh	Walsh	0
+Matthews	Matthews	0
+Patel	Patel	0
+Willie	Willie	0
+ChillSeph	ChillSeph	0
+Ernest	Ernest	0
+Phillip	Phillip	0
+Teresa	Teresa	0
+Doris	Doris	0
+Evelyn	Evelyn	0
+Cheryl	Cheryl	0
+Mildred	Mildred	0
+Katherine	Katherine	0
+Judith	Judith	0
+Janice	Janice	0
+Theresa	Theresa	0
+Kimberly	Kimberly	0
+Denise	Denise	0
+Irene	Irene	0
+Shirley	Shirley	0
+Cynthia	Cynthia	0
+Brenda	Brenda	0
+Kathleen	Kathleen	0
+Jacqueline	Jacqueline	0
+Wanda	Wanda	0
+Debra	Debra	0
+Lois	Lois	0
+Carolyn	Carolyn	0
+Tina	Tina	0
+Phyllis	Phyllis	0
+Norma	Norma	0
+Paula	Paula	0
+Frances	Frances	0
+Lillian	Lillian	0
+Olivia	Olivia	0
+Ava	Ava	0
+Isabella	Isabella	0
+Sherlock	Sherlock	0
+Amelia	Amelia	0
+Sophia	Sophia	0
+Abigail	Abigail	0
+Liam	Liam	0
+Noah	Noah	0
+Jay	Jay	0
+Enya	Enya	0
+Juno	Juno	0
+Trump	Trump	0
+Biden	Biden	0
+Joseph	Joseph	0
+Braun	Braun	0
+Bayes	Bayes	0
+Saul	Saul	0
+Wick	Wick	0
+RPG	RPG	0
+Role-Playing Game	RPG	0
+Role-Playing Game	RolePlayingGame	0
+ADC	ADC	0
+Attack Damage Carry	ADC	0
+Attack Damage Carry	AttackDamageCarry	0
+APC	APC	0
+Ability Power Carry	APC	0
+Ability Power Carry	AbilityPowerCarry	0
+GDP	GDP	0
+Gross Domestic Product	GDP	0
+Gross Domestic Product	GrossDomesticProduct	0
+LOL	LOL	0
+League of Legends	LOL	0
+League of Legends	LeagueofLegends	0
+Laugh Out Loudly	LOL	0
+Laugh Out Loudly	LaughOutLoudly	0
+SQL Server	SQLServer	0
+Microsoft SQL Server	SQLServer	0
+Microsoft SQL Server	MicrosoftSQLServer	0
+SSH	SSH	0
+Secure Shell	SSH	0
+Secure Shell	SecureShell	0
+ISO	ISO	0
+International Organization for Standardization	ISO	0
+ISO 8601	ISO8601	0
+RFC	RFC	0
+Request for Comments	RFC	0
+RFC 3339	RFC3339	0
+RFCs	RFCs	0
+IETF	IETF	0
+Internet Engineering Task Force	IETF	0
+Pro Max	ProMax	0
+Aeron	Aeron	0
+Aeron Chair	AeronChair	0
+Netscape	Netscape	0
+WeChat	WeChat	0
+Dota	Dota	0
+Database	Database	0
+Macintosh	Macintosh	0
+Superlist	Superlist	0
+DJ	DJ	0
+DLC	DLC	0
+Downloadable content	DLC	0
+Downloadable content	Downloadablecontent	0
+Quora	Quora	0
+LinkedIn	LinkedIn	0
+COO	COO	0
+Chief Operating Officer	COO	0
+Chief Operating Officer	ChiefOperatingOfficer	0
+iShot	iShot	0
+TapTap	TapTap	0
+HHD	HHD	0
+Hybrid drive	HHD	0
+Hybrid drive	Hybriddrive	0
+SSD	SSD	0
+Solid-state drive	SSD	0
+Solid-state drive	Solidstatedrive	0
+CPU	CPU	0
+Central Processing Unit	CPU	0
+Central Processing Unit	CentralProcessingUnit	0
+GPU	GPU	0
+Graphics Processing Unit	GPU	0
+Graphics Processing Unit	GraphicsProcessingUnit	0
+MCU	MCU	0
+ARM	ARM	0
+Advanced RISC Machine	ARM	0
+Advanced RISC Machine	AdvancedRISCMachine	0
+eGPU	eGPU	0
+One Piece	OnePiece	0
+CCTV	CCTV	0
+Closed-Circuit Television	CCTV	0
+Closed-Circuit Television	ClosedCircuitTelevision	0
+China Central Television	CCTV	0
+ColorOS	ColorOS	0
+China Central Television	ChinaCentralTelevision	0
+GTA	GTA	0
+Grand Theft Auto	GTA	0
+Grand Theft Auto	GrandTheftAuto	0
+GTAV	GTAV	0
+Grand Theft Auto V	GTAV	0
+Grand Theft Auto V	GrandTheftAutoV	0
+LGBT	LGBT	0
+GPS	GPS	0
+ATM	ATM	0
+automated teller machine	ATM	0
+automated teller machine	automatedtellermachine	0
+CentOS	CentOS	0
+Debian	Debian	0
+BBC	BBC	0
+DataGrip	DataGrip	0
+AlphaGo	AlphaGo	0
+AlphaFold	AlphaFold	0
+Valve	Valve	0
+CS:GO	CS:GO	0
+Counter-Strike: Global Offensive	CS:GO	0
+Counter-Strike	Counter-Strike	0
+Tesla	Tesla	0
+Polo	Polo	0
+Code Runner	CodeRunner	0
+AfterShokz Aeropex	AfterShokzAeropex	0
+AfterShokz	AfterShokz	0
+Aeropex	Aeropex	0
+Xnip	Xnip	0
+Workspace	Workspace	0
+Google Chrome	GoogleChrome	0
+Google Workspace	GoogleWorkspace	0
+WYSIWYG	WYSIWYG	0
+What You See Is What You Get	WYSIWYG	0
+Mark Text	MarkText	0
+Joplin	Joplin	0
+SteamOS	SteamOS	0
+TikTok	TikTok	0
+IDC	IDC	0
+International Data Corporation	IDC	0
+International Data Corporation	InternationalDataCorporation	0
+Wunderlist	Wunderlist	0
+VMware	VMware	0
+Fusion	Fusion	0
+Flyme	Flyme	0
+VMware Fusion	VMwareFusion	0
+VMware Fusion Player	VMwareFusionPlayer	0
+VMware Fusion Pro	VMwareFusionPro	0
+Vanilla	Vanilla	0
+Ubisoft	Ubisoft	0
+Twitch	Twitch	0
+Todoist	Todoist	0
+TeamViewer	TeamViewer	0
+Sleep Cycle	SleepCycle	0
+Sony	Sony	0
+PDF Expert	PDFExpert	0
+OSCHINA	OSCHINA	0
+Navicat	Navicat	0
+Navicat Premium	NavicatPremium	0
+NameSilo	NameSilo	0
+localhost	localhost	0
+Musixmatch	Musixmatch	0
+G Suite	GSuite	0
+CloudXNS	CloudXNS	0
+Bitwarden	Bitwarden	0
+BitComet	BitComet	0
+Bitbucket	Bitbucket	0
+Google Photos	GooglePhotos	0
+Google Calendar	GoogleCalendar	0
+LyricsX	LyricsX	0
+OneDrive	OneDrive	0
+Xbox	Xbox	0
+Xbox One	XboxOne	0
+Xbox One X	XboxOneX	0
+Xbox Series	XboxSeries	0
+Xbox Series S	XboxSeriesS	0
+Switch	Switch	0
+CSS	CSS	0
+Cascading Style Sheets	CSS	0
+Cascading Style Sheets	CascadingStyleSheets	0
+cascading	cascading	0
+OTC	OTC	0
+IEPL	IEPL	0
+International Ethernet Private Line	IEPL	0
+IPLC	IPLC	0
+International Private Leased Circuit	IPLC	0
+IntelliJ	IntelliJ	0
+IntelliJ IDEA	IntelliJIDEA	0
+IntelliJ IDEA Community	IntelliJIDEACommunity	0
+IntelliJ IDEA Ultimate	IntelliJIDEAUltimate	0
+IDEA Community	IDEACommunity	0
+IDEA Ultimate	IDEAUltimate	0
+IDE	IDE	0
+NTR	NTR	0
+Notion	Notion	0
+Touch Bar	TouchBar	0
+DOM	DOM	0
+D.VA	D.VA	0
+IPv4	IPv4	0
+IPv6	IPv6	0
+Rick and Morty	RickandMorty	0
+uTools	uTool	0
+uTools	uTools	0
+AirPods	AirPods	0
+AirPods Pro	AirPodsPro	0
+AirPods Max	AirPods	0
+AirPods Max	AirPodsMax	0
+CallKit	CallKit	0
+OSS	OSS	0
+Object Storage Service	OSS	0
+Object Storage Service	ObjectStorageService	0
+OceanBase	OceanBase	0
+YouTube Music	YouTubeMusic	0
+Apple Music	AppleMusic	0
+TED	TED	0
+DeepL	DeepL	0
+Homebrew	Homebrew	0
+brew	brew	0
+Finder	Finder	0
+VMess	VMess	0
+Shadowsocks	Shadowsocks	0
+PC	PC	0
+iStat	iStat	0
+ClashX	ClashX	0
+ClashX Pro	ClashXPro	0
+tracker	tracker	0
+trackers	trackers	0
+qBittorrent	qBittorrent	0
+qBittorrent	qBit	0
+qBittorrent Enhanced Edition	qEE	0
+qBittorrent Enhanced Edition	qBEE	0
+qBittorrent Enhanced Edition	qBitEE	0
+qBittorrent Enhanced Edition	qBittorrentEE	0
+qBittorrent Enhanced Edition	qBittorrentEnhancedEdition	0
+YAML	YAML	0
+YAML Ain't Markup Language	YAML	0
+TOML	TOML	0
+Tom's Obvious Minimal Language	TOML	0
+Hexo	Hexo	0
+Hugo	Hugo	0
+Epic	Epic	0
+Epic Games	EpicGames	0
+Instagram	Instagram	0
+archive	archive	0
+Evernote	Evernote	0
+PDF	PDF	0
+Portable Document Format	PDF	0
+Portable Document Format	PortableDocumentFormat	0
+QuickTime Player	QuickTimePlayer	0
+CSDN	CSDN	0
+Gitee	Gitee	0
+Gitea	Gitea	0
+GitBook	GitBook	0
+Gboard	Gboard	0
+Access	Access	0
+BMW	BMW	0
+Bayerische Motoren Werke AG	BMW	0
+BGM	BGM	0
+Background music	BGM	0
+Background music	Backgroundmusic	0
+CEO	CEO	0
+Chief Executive Officer	CEO	0
+Chief Executive Officer	ChiefExecutiveOfficer	0
+CTO	CTO	0
+Chief Technology Officer	CTO	0
+Chief Technology Officer	ChiefTechnologyOfficer	0
+CFO	CFO	0
+Chief Financial Officer	CFO	0
+Django	Django	0
+DBMesh	DBMesh	0
+Facebook	Facebook	0
+Firefox	Firefox	0
+git	git	0
+GoLand	GoLand	0
+Golang	Golang	0
+IQOS	IQOS	0
+Intel	Intel	0
+JSON	JSON	0
+JetBrains	JetBrains	0
+KTV	KTV	0
+MBP	MBP	0
+MacBook Pro	MBP	0
+MBA	MBA	0
+MacBook Air	MBA	0
+MariaDB	MariaDB	0
+markdown	markdown	0
+Microsoft Access	Access	0
+MongoDB	MongoDB	0
+MySQL	MySQL	0
+MyISAM	MyISAM	0
+InnoDB	InnoDB	0
+Node.js	Node.js	0
+Pornhub	Pornhub	0
+Postgres	Postgres	0
+PowerPoint	PowerPoint	0
+PPT	PPT	0
+PowerPoint	PPT	0
+Microsoft PowerPoint	PPT	0
+PyCharm	PyCharm	0
+roguelike	roguelike	0
+Redis	Redis	0
+rime	rime	0
+RION	RION	0
+SegmentFault	SegmentFault	0
+SPA	SPA	0
+SQL	SQL	0
+Structured Query Language	SQL	0
+Structured Query Language	StructuredQueryLanguage	0
+SQLite	SQLite	0
+Sourcetree	Sourcetree	0
+Spiritfarer	Spiritfarer	0
+TCP/IP	TCP/IP	0
+Twitter	Twitter	0
+V2EX	V2EX	0
+VSCode	VSCode	0
+Vue	Vue	0
+Vue.js	Vue.js	0
+WebStorm	WebStorm	0
+Xcode	Xcode	0
+emoji	emoji	0
+exe	exe	0
+gakki	gakki	0
+iMazing	iMazing	0
+jQuery	jQuery	0
+JPG	JPG	0
+Joint Photographic Experts Group	JPG	0
+JPEG	JPEG	0
+Joint Photographic Experts Group	JPEG	0
+PNG	PNG	0
+Portable Network Graphics	PNG	0
+GIF	GIF	0
+Graphics Interchange Format	GIF	0
+DNS	DNS	0
+Domain Name System	DNS	0
+Domain Name System	DomainNameSystem	0
+RimWorld	RimWorld	0
+Factorio	Factorio	0
+Game Boy	GameBoy	0
+GBA	GBA	0
+Game Boy Advance	GBA	0
+Game Boy Advance	GameBoyAdvance	0
+GBC	GBC	0
+Game Boy Color	GBC	0
+Game Boy Color	GameBoyColor	0
+GCC	GCC	0
+GNU Compiler Collection	GCC	0
+GNU Compiler Collection	GNUCompilerCollection	0
+uBlacklist	uBlacklist	0
+Apple Watch	AppleWatch	0
+AppleCare	AppleCare	0
+AppleCare+	AppleCare+	0
+Apple Card	AppleCard	0
+Apple Books	AppleBooks	0
+ATI	ATI	0
+Apple Store	AppleStore	0
+Apple TV	AppleTV	0
+Apple TV+	AppleTV+	0
+Apple Developer	AppleDeveloper	0
+Apple File System	AppleFileSystem	0
+Apple ID	AppleID	0
+Apple News	AppleNews	0
+Apple Pay	ApplePay	0
+iTunes Store	iTunesStore	0
+AMD	AMD	0
+Amphetamine	Amphetamine	0
+App Store	AppStore	0
+AirDrop	AirDrop	0
+Alfred	Alfred	0
+Amazon	Amazon	0
+Adobe	Adobe	0
+Axure	Axure	0
+Bartender	Bartender	0
+Better Snap Tool	BetterSnapTool	0
+Better Touch Tool	BetterTouchTool	0
+Better Zip	BetterZip	0
+Brackets	Brackets	0
+BundleHunt	BundleHunt	0
+Byword	Byword	0
+Btitish	Btitish	0
+Caffeine	Caffeine	0
+Calcbot	Calcbot	0
+Calibre	Calibre	0
+CarPlay	CarPlay	0
+CDN	CDN	0
+Content Delivery Network	CDN	0
+Content Delivery Network	ContentDeliveryNetwork	0
+CheatSheet	CheatSheet	0
+Chocolatey	Chocolatey	0
+choco	choco	0
+ChemBioDraw	ChemBioDraw	0
+Clean My Mac	CleanMyMac	0
+Clean My Mac X	CleanMyMacX	0
+CloudApp	CloudApp	0
+CloudMagic	CloudMagic	0
+CodeBox	CodeBox	0
+CodeKit	CodeKit	0
+Color Schemer	ColorSchemer	0
+Color Snapper	ColorSnapper	0
+Control Center	ControlCenter	0
+Cornerstone	Cornerstone	0
+Cortana	Cortana	0
+Curio	Curio	0
+Current Mac Bundles	CurrentMacBundles	0
+Daisy Disk	DaisyDisk	0
+Datagraph	Datagraph	0
+Day One	DayOne	0
+Default Folder X	DefaultFolderX	0
+Desktop	Desktop	0
+Developer Preview	DeveloperPreview	0
+DEVONthink	DEVONthink	0
+Disk Utility	DiskUtility	0
+Diumoo	Diumoo	0
+Dropbox	Dropbox	0
+Dropzone	Dropzone	0
+Endnote	Endnote	0
+Entropy	Entropy	0
+EPUB	EPUB	0
+Eureka	Eureka	0
+ExFAT	ExFAT	0
+Extended File Allocation Table	ExFAT	0
+Extended File Allocation Table	ExtendedFileAllocationTable	0
+Fantastical	Fantastical	0
+FileVault	FileVault	0
+Final Cut Pro	FinalCutPro	0
+Flickr	Flickr	0
+Force Touch	ForceTouch	0
+Forecast	Forecast	0
+ForkLift	ForkLift	0
+Frank DeLoupe	FrankDeLoupe	0
+Geekbench	Geekbench	0
+Gestimer	Gestimer	0
+GhostNote	GhostNote	0
+GhostTile	GhostTile	0
+Gif Brewery	GifBrewery	0
+gists	gists	0
+GitHub	GitHub	0
+GoagentX	GoagentX	0
+Google Play	GooglePlay	0
+Google Play Music	GooglePlayMusic	0
+Graffle	Graffle	0
+Handoff	Handoff	0
+Hazel	Hazel	0
+HomeKit	HomeKit	0
+HTML	HTML	0
+HyperText Markup Language	HTML	0
+HyperText Markup Language	HyperTextMarkupLanguage	0
+iA Writer	iAWriter	0
+IBM	IBM	0
+International Business Machines	IBM	0
+International Business Machines	InternationalBusinessMachines	0
+iCloud	iCloud	0
+iCloud Mail	iCloudMail	0
+iCloud Drive	iCloudDrive	0
+iExplorer	iExplorer	0
+iFFmpeg	iFFmpeg	0
+IFTTT	IFTTT	0
+iMac	iMac	0
+iMessage	iMessage	0
+iMore	iMore	0
+Inboard	Inboard	0
+Instacast	Instacast	0
+Instashare	Instashare	0
+Intensify	Intensify	0
+IP	IP	0
+iPack	iPack	0
+iPad Air	iPadAir	0
+iPad mini	iPadmini	0
+iPad Pro	iPadPro	0
+IPN	IPN	0
+IPTV	IPTV	0
+iStat Menus	iStatMenus	0
+iTerm	iTerm	0
+iTerm2	iTerm2	0
+iTunes	iTunes	0
+iTunes Connect	iTunesConnect	0
+iTunes Match	iTunesMatch	0
+iWatch	iWatch	0
+Kaleidoscope	Kaleidoscope	0
+Karabiner	Karabiner	0
+Keka	Keka	0
+Keyboard Maestro	KeyboardMaestro	0
+Keycard	Keycard	0
+KeyCue	KeyCue	0
+LaTeXian	LaTeXian	0
+Launcher	Launcher	0
+Little Snitch	LittleSnitch	0
+Live Photos	LivePhotos	0
+LiveReload	LiveReload	0
+LockScreen	LockScreen	0
+Mac App Store	MacAppStore	0
+Mac Rumors	MacRumors	0
+MacAppDeals	MacAppDeals	0
+MacBook	MacBook	0
+MacBook Air	MacBookAir	0
+MacBook Pro	MacBookPro	0
+Mac Pro	MacPro	0
+MacID	MacID	0
+MacTips	MacTips	0
+MacUpdate Desktop	MacUpdateDesktop	0
+Mailbox	Mailbox	0
+MAMP PRO	MAMPPRO	0
+Manico	Manico	0
+Maple	Maple	0
+MarkMyWords	MarkMyWords	0
+MarsEdit	MarsEdit	0
+Mathtype	Mathtype	0
+MIPS	MIPS	0
+Moke	Moke	0
+MoneyWiz	MoneyWiz	0
+Moom	Moom	0
+MP3	MP3	0
+MP4	MP4	0
+MplayerX	MplayerX	0
+Netflix	Netflix	0
+Noizio	Noizio	0
+nvALT	nvALT	0
+OmmWriter	OmmWriter	0
+OmniFocus	OmniFocus	0
+OmniGraffle	OmniGraffle	0
+OmniOutliner	OmniOutliner	0
+OmniPlan	OmniPlan	0
+OneNote	OneNote	0
+OS	OS	0
+Operating System	OS	0
+Operating System	OperatingSystem	0
+overcast	overcast	0
+PaintCode	PaintCode	0
+Parallels Desktop	ParallelsDesktop	0
+PayPal	PayPal	0
+PhotoDesk	PhotoDesk	0
+Picatext	Picatext	0
+PingWest	PingWest	0
+Pixelmator	Pixelmator	0
+Play by Play	PlaybyPlay	0
+PlistEdit	pliPlistEdit	0
+PopClip	PopClip	0
+PowerPack	PowerPack	0
+Privoxy	Privoxy	0
+Promotee	Promotee	0
+Proxifier	Proxifier	0
+Public Beta	PublicBeta	0
+Quitter	Quitter	0
+Quiver	Quiver	0
+Rdio	Rdio	0
+Readability	Readability	0
+Readkit	Readkit	0
+Regulex	Regulex	0
+Remote	Remote	0
+RescueTime	RescueTime	0
+Retina	Retina	0
+Safari	Safari	0
+Safari View Controller	SafariViewController	0
+SaneDesk	SaneDesk	0
+Scrapbook	Scrapbook	0
+ScreenFloat	ScreenFloat	0
+ScreenFlow	ScreenFlow	0
+scribble	scribble	0
+Scrivener	Scrivener	0
+SDK	SDK	0
+Software Development Kit	SDK	0
+Software Development Kit	SoftwareDevelopmentKit	0
+Should I Sleep	ShouldISleep	0
+Simplenote	Simplenote	0
+Siri	Siri	0
+Slicy	Slicy	0
+Snagit	Snagit	0
+Sparkbox	Sparkbox	0
+Sparrow	Sparrow	0
+Speedtest	Speedtest	0
+Spotify	Spotify	0
+SSL	SSL	0
+StackSocial	StackSocial	0
+Sublime Text	SublimeText	0
+TechWeb	TechWeb	0
+Terminal	Terminal	0
+TestFlight	TestFlight	0
+Texshop	Texshop	0
+Textastic	Textastic	0
+TextExpander	TextExpander	0
+TextWrangler	TextWrangler	0
+The Unarchiver	TheUnarchiver	0
+Time Capsule	TimeCapsule	0
+TinkerTool	TinkerTool	0
+Touch ID	TouchID	0
+Trello	Trello	0
+Tumblr	Tumblr	0
+tvOS	tvOS	0
+Tweetbot	Tweetbot	0
+tweet	tweet	0
+Typora	Typora	0
+Uber	Uber	0
+uBlock	uBlock	0
+uBlock Origin	uBlockOrigin	0
+Ulysses	Ulysses	0
+USB	USB	0
+Universal Serial Bus	USB	0
+Universal Serial Bus	UniversalSerialBus	0
+Versions	Versions	0
+VPN	VPN	0
+virtual private network	VPN	0
+watchOS	watchOS	0
+Wi-Fi	Wi-Fi	0
+WiFi	WiFi	0
+Widget	Widget	0
+WiFi Explorer	WiFiExplorer	0
+WiFi Scanner	WiFiScanner	0
+Window Tidy	WindowTidy	0
+Windows Vista	WindowsVista	0
+Windows RT	WindowsRT	0
+Windows Me	WindowsMe	0
+Windows NT	WindowsNT	0
+Windows Server	WindowsServer	0
+Windows Mobile	WindowsMobile	0
+Windows Phone	WindowsPhone	0
+Workflow	Workflow	0
+WorkFlowy	WorkFlowy	0
+WWDC	WWDC	0
+Apple Worldwide Developers Conference	WWDC	0
+Xee	Xee	0
+Xeon	Xeon	0
+Xmind	Xmind	0
+xScope	xScope	0
+XtraFinder	XtraFinder	0
+YouTube	YouTube	0
+YouTuber	YouTuber	0
+ZEALER	ZEALER	0
+Rosetta	Rosetta	0
+Face ID	FaceID	0
+URL	URL	0
+Uniform Resource Locator	URL	0
+URI	URI	0
+Uniform Resource Identifier	URI	0
+HTTP	HTTP	0
+Hypertext Transfer Protocol	HTTP	0
+Hypertext Transfer Protocol	HypertextTransferProtocol	0
+HTTPS	HTTPS	0
+Hypertext Transfer Protocol Secure	HTTPS	0
+Hypertext Transfer Protocol Secure	HypertextTransferProtocolSecure	0
+WSGI	WSGI	0
+BTC	BTC	0
+Bitcoin	BTC	0
+Bitcoin	Bitcoin	0
+Blockchain	Blockchain	0
+gank	gank	0
+debuff	debuff	0
+MagSafe	MagSafe	0
+Magic UI	MagicUI	0
+HDMI	HDMI	0
+High Definition Multimedia Interface	HDMI	0
+High Definition Multimedia Interface	HighDefinitionMultimediaInterface	0
+NSFW	NSFW	0
+Not Safe For Work	NSFW	0
+Not Suitable For Work	NSFW	0
+Not Safe For Work	NotSafeForWork	0
+Not Suitable For Work	NotSuitableForWork	0
+Termius	Termius	0
+Jinja	Jinja	0
+capitalize	capitalize	0
+NetSetMan	NetSetMan	0
+Cinity	Cinity	0
+UTC	UTC	0
+Coordinated Universal Time	UTC	0
+Coordinated Universal Time	CoordinatedUniversalTime	0
+GMT	GMT	0
+Greenwich Mean Time	GMT	0
+Greenwich Mean Time	GreenwichMeanTime	0
+GoDaddy	GoDaddy	0
+Eason	Eason	0
+alchemy	alchemy	0
+SQLAlchemy	SQLAlchemy	0
+Admin	Admin	0
+Administrator	Administrator	0
+ASMR	ASMR	0
+Autonomous sensory meridian response	ASMR	0
+Autonomous sensory meridian response	Autonomoussensorymeridianresponse	0
+autonomous	autonomous	0
+sensory	sensory	0
+meridian	meridian	0
+iKlear	iKlear	0
+# Legal High	ligouhai
+Legal High	LegalHigh	0
+Werkzeug	Werkzeug	0
+itsdangerours	itsdangerours	0
+Mimestream	Mimestream	0
+CRUD	CRUD	0
+Create Read Update Delete	CRUD	0
+RESTful	RESTful	0
+CLion	CLion	0
+Unix-like	Unix-like	0
+Metal	Metal	0
+Alembic	Alembic	0
+imgur	imgur	0
+Stack Overflow	StackOverflow	0
+PyWebIO	PyWebIO	0
+Launchpad	Launchpad	0
+squoosh	squoosh	0
+cosplay	cosplay	0
+Gravatar	Gravatar	0
+copilot	copilot	0
+Xshell	Xshell	0
+Nokia	Nokia	0
+OCR	OCR	0
+Optical Character Recognition	OCR	0
+Optical Character Recognition	OpticalCharacterRecognition	0
+Déjà vu	Dejavu	0
+FFmpeg	FFmpeg	0
+DMCA	DMCA	0
+Digital Millennium Copyright Act	DMCA	0
+Digital Millennium Copyright Act	DigitalMillenniumCopyrightAct	0
+PUA	PUA	0
+Pickup Artists	PUA	0
+Pickup Artists	PickupArtists	0
+docker	docker	0
+Darcula	Darcula	0
+Google Analytics	GoogleAnalytics	0
+Cloudflare Pages	CloudflarePages	0
+GitHub Pages	GitHubPages	0
+Coding Pages	CodingPages	0
+Gitee Pages	GiteePages	0
+CNAME	CNAME	0
+macOS Server	macOSServer	0
+Darwin	Darwin	0
+NAS	NAS	0
+Network Attached Storage	NAS	0
+Network Attached Storage	NetworkAttachedStorage	0
+CommonMark	CommonMark	0
+Goldmark	Goldmark	0
+blackFriday	blackFriday	0
+One UI	OneUI	0
+Raycast	Raycast	0
+CloudFront	CloudFront	0
+RSS	RSS	0
+RDF Site Summary	RSS	0
+Really Simple Syndication	RSS	0
+gosh	gosh	0
+CocoaPods	CocoaPods	0
+Zsh	Zsh	0
+Oh My Zsh	OhMyZsh	0
+deploy	deploy	0
+ProxyChains	ProxyChains	0
+AdSense	AdSense	0
+Google AdSense	GoogleAdSense	0
+Disqus	Disqus	0
+Waline	Waline	0
+Valine	Valine	0
+LeanCloud	LeanCloud	0
+PaperMod	PaperMod	0
+Vercel	Vercel	0
+chore	chore	0
+chores	chores	0
+swag	swag	0
+CS	CS	0
+Counter-Strike	CS	0
+Backblaze	Backblaze	0
+WebP	WebP	0
+WebM	WebM	0
+CleanShot X	CleanShotX	0
+Setapp	Setapp	0
+GraphQL	GraphQL	0
+TOTP	TOTP	0
+Time-based One-Time Password	TOTP	0
+Unclutter	Unclutter	0
+sitemap	sitemap	0
+DuckDuckGo	DuckDuckGo	0
+Yandex	Yandex	0
+Geralt	Geralt	0
+ServerCat	ServerCat	0
+Zoho	Zoho	0
+Harington	Harington	0
+Hades	Hades	0
+Gecko	Gecko	0
+omicron	omicron	0
+TinyPNG	TinyPNG	0
+Thanos	Thanos	0
+XML	XML	0
+Extensible Markup Language	XML	0
+Extensible Markup Language	ExtensibleMarkupLanguage	0
+XHTML	XHTML	0
+eXtensible HyperText Markup Language	XHTML	0
+eXtensible HyperText Markup Language	eXtensibleHyperTextMarkupLanguage	0
+Googlebot	Googlebot	0
+Baiduspider	Baiduspider	0
+Bingbot	Bingbot	0
+SogouSpider	SogouSpider	0
+YoudaoBot	YoudaoBot	0
+swat	swat	0
+footer	footer	0
+header	header	0
+GitHub Copilot	GitHubCopilot	0
+GitHub Copilot X	GitHubCopilotX	0
+GitHub Copilot CLI	GitHubCopilotCLI	0
+GitHub Copilot chat	GitHubCopilotchat	0
+iPadOS	iPadOS	0
+Apple Pencil	ApplePencil	0
+Reddit	Reddit	0
+HHKB	HHKB	0
+Happy Hacking Keyboard	HHKB	0
+Happy Hacking Keyboard	HappyHackingKeyboard	0
+MAPPA	MAPPA	0
+SEO	SEO	0
+Search Engine Optimization	SEO	0
+Search Engine Optimization	SearchEngineOptimization	0
+OCSP	OCSP	0
+Online Certificate Status Protocol	OCSP	0
+Online Certificate Status Protocol	OnlineCertificateStatusProtocol	0
+Arthas	Arthas	0
+Wordle	Wordle	0
+Silicon Valley	SiliconValley	0
+Pied Piper	PiedPiper	0
+Pikachu	Pikachu	0
+Fastmail	Fastmail	0
+rumour	rumour	0
+WordPress	WordPress	0
+AOSP	AOSP	0
+Android Open Source Project	AOSP	0
+Android Open Source Project	AndroidOpenSourceProject	0
+TypeScript	TypeScript	0
+Unity	Unity	0
+MIUI	MIUI	0
+Shottr	Shottr	0
+turbo	turbo	0
+Turbo Boost	TurboBoost	0
+Turbo Boost Switcher	TurboBoostSwitcher	0
+OPPO	OPPO	0
+vivo	vivo	0
+Uno	Uno	0
+gopher	gopher	0
+GDPR	GDPR	0
+General Data Protection Regulation	GDPR	0
+Netlify	Netlify	0
+Mac Studio	MacStudio	0
+Studio Display	StudioDisplay	0
+OC	OC	0
+Objective-C	OC	0
+Objective-C	Objective-C	0
+Mac mini	Macmini	0
+Garena	Garena	0
+WonderCV	WonderCV	0
+WebKit	WebKit	0
+Igalia	Igalia	0
+WebCore	WebCore	0
+GNU	GNU	0
+GNU General Public License	GNU	0
+GNU General Public License	GNUGeneralPublicLicense	0
+GPL	GPL	0
+GNU General Public License	GPL	0
+Ukraine	Ukraine	0
+Minions	Minions	0
+Rush B	RushB	0
+Rush A	RushA	0
+AK	AK	0
+AK47	AK47	0
+AK74	AK74	0
+Mastercard	Mastercard	0
+COVID	COVID	0
+COVID-19	COVID-19	0
+Wallpaper Engine	WallpaperEngine	0
+Erlang	Erlang	0
+FAQ	FAQ	0
+Frequently Asked Question	FAQ	0
+Frequently Asked Question	FrequentlyAskedQuestion	0
+Panamera	Panamera	0
+FaceTime	FaceTime	0
+FaceTime Audio	FaceTimeAudio	0
+LMAO	LMAO	0
+Laugh My Ass Off	LMAO	0
+Laugh My Ass Off	LaughMyAssOff	0
+Vivaldi	Vivaldi	0
+Cryptomator	Cryptomator	0
+WTF	WTF	0
+what the fuck	WTF	0
+what the fuck	whatthefuck	0
+ASAP	ASAP	0
+as soon as possible	ASAP	0
+PUBG	PUBG	0
+PLAYERUNKNOWN'S BATTLEGROUNDS	PUBG	0
+Ruby	Ruby	0
+GFM	GFM	0
+GitHub Flavored Markdown	GFM	0
+GitHub Flavored Markdown	GitHubFlavoredMarkdown	0
+GeekNote	GeekNote	0
+GUI	GUI	0
+Graphical User Interface	GUI	0
+Graphical User Interface	GraphicalUserInterface	0
+VPS	VPS	0
+Virtual private server	VPS	0
+Virtual private server	Virtualprivateserver	0
+BIOS	BIOS	0
+Basic Input/Output System	BIOS	0
+Basic Input/Output System	BasicInputOutputSystem	0
+unbelievable	unbelievable	0
+goroutine	goroutine	0
+Celsius	Celsius	0
+Fahrenheit	Fahrenheit	0
+nil	nil	0
+Mojito	Mojito	0
+weasel	weasel	0
+Niconico	Niconico	0
+TickTick	TickTick	0
+CHDBits	CHDBits	0
+M-Team	M-Team	0
+Vim	Vim	0
+Google Voice	GoogleVoice	0
+Workers	Workers	0
+Cloudflare Workers	CloudflareWorkers	0
+PlayStation	PlayStation	0
+Visual Studio	VisualStudio	0
+AVIF	AVIF	0
+AV1 Image File Format	AVIF	0
+Apple Arcade	AppleArcade	0
+MS-DOS	MS-DOS	0
+Microsoft Visual Studio	MicrosoftVisualStudio	0
+Microsoft Visual Studio	VisualStudio	0
+Microsoft Corporation	MicrosoftCorporation	0
+Microsoft Windows	MicrosoftWindows	0
+Microsoft Office	MicrosoftOffice	0
+Microsoft Word	MicrosoftWord	0
+Microsoft Excel	MicrosoftExcel	0
+Microsoft Access	MicrosoftAccess	0
+Microsoft PowerPoint	MicrosoftPowerPoint	0
+Microsoft PowerPoint	PowerPoint	0
+Microsoft Outlook	MicrosoftOutlook	0
+Microsoft OneNote	MicrosoftOneNote	0
+Microsoft Azure	MicrosoftAzure	0
+Microsoft Edge	MicrosoftEdge	0
+IE	IE	0
+Internet Explorer	IE	0
+Internet Explorer	InternetExplorer	0
+Windows Media Player	WindowsMediaPlayer	0
+Media Player	MediaPlayer	0
+Windows Media Player	MediaPlayer	0
+Visual Studio Code	VisualStudioCode	0
+Visual Studio Code	VSCode	0
+PowerShell	PowerShell	0
+Surface	Surface	0
+MSN	MSN	0
+Skype	Skype	0
+TOC	TOC	0
+Table of Contents	TOC	0
+Table of Contents	TableOfContents	0
+Jenny	Jenny	0
+One Dark	OneDark	0
+IINA	IINA	0
+GUID	GUID	0
+Globally Unique Identifier	GUID	0
+Globally Unique Identifier	GloballyUniqueIdentifier	0
+APFS	APFS	0
+Apple File System	APFS	0
+NTFS	NTFS	0
+New Technology File System	NTFS	0
+New Technology File System	NewTechnologyFileSystem	0
+Microsoft NTFS	NTFS	0
+Microsoft NTFS	MicrosoftNTFS	0
+ChromeOS	ChromeOS	0
+GCD	GCD	0
+Grand Central Dispatch	GCD	0
+Grand Central Dispatch	GrandCentralDispatch	0
+greatest common divisor	GCD	0
+greatest common divisor	Greatestcommondivisor	0
+Ed Sheeran	EdSheeran	0
+Sheeran	Sheeran	0
+Cloudflare Images	CloudflareImages	0
+Cloudflare Stream	CloudflareStream	0
+Zero Trust	ZeroTrust	0
+goroutines	goroutines	0
+Universal Actions	UniversalActions	0
+Google Drive	GoogleDrive	0
+Google One	GoogleOne	0
+Airbnb	Airbnb	0
+OpenCC	OpenCC	0
+HarmonyOS	HarmonyOS	0
+incase	incase	0
+NPC	NPC	0
+Non-Player Character	NPC	0
+Non-Player Character	NonPlayerCharacter	0
+MVP	MVP	0
+Quantumult X	QuantumultX	0
+Confluence	Confluence	0
+followers	followers	0
+Skynet	Skynet	0
+serverless	serverless	0
+Identifier	Identifier	0
+NameCheap	NameCheap	0
+rime-ice	rime-ice	0
+Handover	Handover	0
+Language Reactor	LanguageReactor	0
+Tencent	Tencent	0
+Alibaba	Alibaba	0
+Alibaba Group	AlibabaGroup	0
+Linus	Linus	0
+PaaS	PaaS	0
+platform as a service	PaaS	0
+aPaaS	aPaaS	0
+application Platform as a Service	aPaaS	0
+WhatsApp	WhatsApp	0
+Messenger	Messenger	0
+Doge	Doge	0
+SUV	SUV	0
+Sport Utility Vehicle	SUV	0
+Sport Utility Vehicle	SportUtilityVehicle	0
+UFO	UFO	0
+Unidentified Flying Object	UFO	0
+Unidentified Flying Object	UnidentifiedFlyingObject	0
+Copyright	Copyright	0
+Registered	Registered	0
+TM	TM	0
+SOS	SOS	0
+abcd	abcd	0
+ABCD	ABCD	0
+abc	abc	0
+ABC	ABC	0
+Starbucks	Starbucks	0
+I Love You	ILoveYou	0
+ZZZ	ZZZ	0
+PS	PS	0
+Photoshop	PS	0
+Photoshop	Photoshop	0
+Adobe Photoshop	AdobePhotoshop	0
+dashboard	dashboard	0
+Honey Select	HoneySelect	0
+McCafe	McCafe	0
+BSD	BSD	0
+Berkeley Software Distribution	BSD	0
+Berkeley Software Distribution	BerkeleySoftwareDistribution	0
+DNSPod	DNSPod	0
+Bandizip	Bandizip	0
+NATO	NATO	0
+North Atlantic Treaty Organization	NATO	0
+North Atlantic Treaty Organization	NorthAtlanticTreatyOrganization	0
+MissWarmJ	MissWarmJ	0
+NASA	NASA	0
+National Aeronautics and Space Administration	NASA	0
+Meta	Meta	0
+PictureView	PictureView	0
+RAM	RAM	0
+Random-access memory	RAM	0
+Random-access memory	RandomAccessMemory	0
+ROM	ROM	0
+Read-only memory	ROM	0
+Read-only memory	ReadOnlyMemory	0
+AV	AV	0
+Adult Video	AV	0
+Adult Video	AdultVideo	0
+TODO	TODO	0
+Microsoft To Do	MicrosoftToDo	0
+VCD	VCD	0
+Video CD	VCD	0
+Video CD	VideoCD	0
+FBI	FBI	0
+Federal Bureau of Investigation	FBI	0
+Federal Bureau of Investigation	FederalBureauofInvestigation	0
+FBI WARNING	FBIWARNING	0
+CDPR	CDPR	0
+CD Projekt	CDPR	0
+CD Projekt	CDProjekt	0
+CD Projekt RED	CDProjektRED	0
+ACG	ACG	0
+Animation Comics Games	ACG	0
+NBA	NBA	0
+National Basketball Association	NBA	0
+National Basketball Association	NationalBasketballAssociation	0
+CBA	CBA	0
+Chinese Basketball Association	CBA	0
+Chinese Basketball Association	ChineseBasketballAssociation	0
+SpaceX	SpaceX	0
+Avira	Avira	0
+uninstall	uninstall	0
+FeHelper	FeHelper	0
+Hypertext	Hypertext	0
+PHP	PHP	0
+Hypertext Preprocessor	PHP	0
+Hypertext Preprocessor	HypertextPreprocessor	0
+cannot	cannot	0
+duang	duang	0
+placeholder	placeholder	0
+pythonic	pythonic	0
+redefine	redefine	0
+QSpace	QSpace	0
+Path Finder	PathFinder	0
+Tabnine	Tabnine	0
+Bonjour	Bonjour	0
+ICMP	ICMP	0
+Internet Control Message Protocol	ICMP	0
+Internet Control Message Protocol	InternetControlMessageProtocol	0
+Electron	Electron	0
+FTP	FTP	0
+File Transfer Protocol	FTP	0
+File Transfer Protocol	FileTransferProtocol	0
+SFTP	SFTP	0
+SSH File Transfer Protocol	SFTP	0
+SSH File Transfer Protocol	SSHFileTransferProtocol	0
+uPic	uPic	0
+homemade	homemade	0
+refactoring	refactoring	0
+refactor	refactor	0
+Notepad	Notepad	0
+Notepad++	Notepad++	0
+O'Reilly	O'Reilly	0
+Octocat	Octocat	0
+IMAP	IMAP	0
+Internet Message Access Protocol	IMAP	0
+Internet Message Access Protocol	InternetMessageAccessProtocol	0
+SMTP	SMTP	0
+Simple Mail Transfer Protocol	SMTP	0
+Simple Mail Transfer Protocol	SimpleMailTransferProtocol	0
+unacceptable	unacceptable	0
+Waterfox	Waterfox	0
+Let's go	Let'sgo	0
+one-liner	one-liner	0
+Callback	Callback	0
+SSID	SSID	0
+Service Set Identifier	SSID	0
+Service Set Identifier	ServiceSetIdentifier	0
+Time Machine	TimeMachine	0
+regexp	regexp	0
+FOSS	FOSS	0
+Free and open source software	FOSS	0
+Free and open source software	Freeandopensourcesoftware	0
+InfoQ	InfoQ	0
+SFC	SFC	0
+Software Freedom Conservancy	SFC	0
+Software Freedom Conservancy	SoftwareFreedomConservancy	0
+PopCap	PopCap	0
+PopCap Games	PopCapGames	0
+Cyberpunk	Cyberpunk	0
+Kotlin	Kotlin	0
+PhpStorm	PhpStorm	0
+Datalore	Datalore	0
+DataSpell	DataSpell	0
+RubyMine	RubyMine	0
+AppCode	AppCode	0
+Code With Me	CodeWithMe	0
+JetBrains Mono	JetBrainsMono	0
+JVM	JVM	0
+Java Virtual Machine	JVM	0
+Java Virtual Machine	JavaVirtualMachine	0
+Java EE	JavaEE	0
+ReSharper	ReSharper	0
+dotPeek	dotPeek	0
+dotTrace	dotTrace	0
+dotMemory	dotMemory	0
+dotCover	dotCover	0
+TeamCity	TeamCity	0
+EduTools	EduTools	0
+FIFO	FIFO	0
+First In, First Out	FIFO	0
+LIFO	LIFO	0
+Last In, First out	LIFO	0
+Neat Download Manager	NeatDownloadManager	0
+furry	furry	0
+Maine	Maine	0
+Elijah	Elijah	0
+Love & Peace	Love&Peace	0
+Peace & Love	Peace&Love	0
+Liquid	Liquid	0
+LCD	LCD	0
+Liquid Crystal Display	LCD	0
+Liquid Crystal Display	LiquidCrystalDisplay	0
+Emotional Damage	EmotionalDamage	0
+revert	revert	0
+GitLab	GitLab	0
+Apple silicon	Applesilicon	0
+ADSL	ADSL	0
+Asymmetric Digital Subscriber Line	ADSL	0
+Asymmetric Digital Subscriber Line	AsymmetricDigitalSubscriberLine	0
+ICP	ICP	0
+Internet Content Provider	ICP	0
+Internet Content Provider	InternetContentProvider	0
+iRime	iRime	0
+emo	emo	0
+colon	colon	0
+APK	APK	0
+Android application package	APK	0
+Android application package	Androidapplicationpackage	0
+whack	whack	0
+encore	encore	0
+suffix	suffix	0
+prefix	prefix	0
+Type-A	TypeA	0
+Type-B	TypeB	0
+Type-C	TypeC	0
+USB Type-A	USBTypeA	0
+USB Type-B	USBTypeB	0
+USB Type-C	USBTypeC	0
+USB-A	USBA	0
+USB-B	USBB	0
+USB-C	USBC	0
+vex	vex	0
+tempest	tempest	0
+J.R.R. Tolkien	J.R.R.Tolkien	0
+Impostor Factory	ImpostorFactory	0
+impostor	impostor	0
+Vampire Survivors	VampireSurvivors	0
+AppCleaner	AppCleaner	0
+IQIYI	IQIYI	0
+BuhoCleaner	BuhoCleaner	0
+Midjourney	Midjourney	0
+Champion's inequality	Champion'sinequality	0
+NovelAI	NovelAI	0
+swab	swab	0
+angular	angular	0
+addressable	addressable	0
+rebase	rebase	0
+Motrix	Motrix	0
+VCS	VCS	0
+version control system	VCS	0
+version control system	versioncontrolsystem	0
+cnBeta	cnBeta	0
+pull request	pullrequest	0
+merge request	mergerequest	0
+squash	squash	0
+Ant Design	AntDesign	0
+Disney	Disney	0
+early access	earlyaccess	0
+deprecate	deprecate	0
+deprecated	deprecated	0
+tum	tum	0
+rapper	rapper	0
+Fedora	Fedora	0
+downbeat	downbeat	0
+hading	hading	0
+LeetCode	LeetCode	0
+danced	danced	0
+ghosts	ghosts	0
+moonlit	moonlit	0
+Helvetica	Helvetica	0
+limon	limon	0
+annotate	annotate	0
+annotated	annotated	0
+GFW	GFW	0
+Great Firewall	GFW	0
+Great Firewall	GreatFirewall	0
+departed	departed	0
+GeoIP	GeoIP	0
+Vimium	Vimium	0
+Nvim	Nvim	0
+Neovim	Neovim	0
+nerd	nerd	0
+MacVim	MacVim	0
+VimR	VimR	0
+plugin	plugin	0
+plugins	plugins	0
+buffer	buffer	0
+LunarVim	LunarVim	0
+IdeaVim	IdeaVim	0
+unfo	unfo	0
+timestamp	timestamp	0
+ChatGPT	ChatGPT	0
+OpenAI	OpenAI	0
+OpenAI Codex	OpenAICodex	0
+OpenAI ChatGPT	OpenAIChatGPT	0
+VoIP	VoIP	0
+Voice over Internet Protocol	VoIP	0
+Greasy Fork	GreasyFork	0
+greasy	greasy	0
+GalGame	GalGame	0
+VoLTE	VoLTE	0
+VoWiFi	VoWiFi	0
+Voice Over LTE	VoLTE	0
+capper	capper	0
+shank	shank	0
+shanks	shanks	0
+CEF	CEF	0
+Chromium Embedded Framework	CEF	0
+Chromium Embedded Framework	ChromiumEmbeddedFramework	0
+RustDesk	RustDesk	0
+Capcom	Capcom	0
+watermark	watermark	0
+Paxlovid	Paxlovid	0
+datetime	datetime	0
+millisecond	millisecond	0
+microsecond	microsecond	0
+nanosecond	nanosecond	0
+offload	offload	0
+Hammerspoon	Hammerspoon	0
+CrossOver	CrossOver	0
+hallelujahIM	hallelujahIM	0
+AVAST!	AVAST!	0
+Bitdefender	Bitdefender	0
+ClamAV	ClamAV	0
+Comodo	Comodo	0
+McAfee	McAfee	0
+OK	OK	0
+NG	NG	0
+TV	TV	0
+VTuber	VTuber	0
+NVMe	NVMe	0
+NGFF	NGFF	0
+PCIe	PCIe	0
+PCI Express	PCIe	0
+PCI Express	PCIExpress	0
+SATA	SATA	0
+eSATA	eSATA	0
+mSATA	mSATA	0
+GPIB	GPIB	0
+GPIO	GPIO	0
+LCD	LCD	0
+DVD	DVD	0
+CD	CD	0
+eSIM	eSIM	0
+UTF	UTF	0
+UTF-8	UTF-8	0
+UTF-16	UTF-16	0
+ASCII	ASCII	0
+ANSI	ANSI	0
+IEEE	IEEE	0
+Institute of Electrical and Electronics Engineers	IEEE	0
+DjVu	DjVu	0
+LaTeX	LaTeX	0
+API	API	0
+Application Programming Interface	API	0
+Ethernet	Ethernet	0
+SOCKS	SOCKS	0
+PrintScreen	PrintScreen	0
+DIY	DIY	0
+Do It Yourself	DIY	0
+DNA	DNA	0
+deoxyribonucleic acid	DNA	0
+RNA	RNA	0
+ribonucleic acid	RNA	0
+mRNA	mRNA	0
+messenger RNA	mRNA	0
+C++	C++	0
+C++	Cpp	0
+Python	Python	0
+MIT	MIT	0
+Massachusetts Institute of Technology	MIT	0
+Massachusetts Institute of Technology	MassachusettsInstituteofTechnology	0
+MIT License	MITLicense	0
+LGPL	LGPL	0
+GNU Lesser General Public License	LGPL	0
+GNU Lesser General Public License	GNULesserGeneralPublicLicense	0
+Mozilla	Mozilla	0
+Mozilla Firefox	MozillaFirefox	0
+Apache	Apache	0
+Steam	Steam	0
+Steam Deck	SteamDeck	0
+Android	Android	0
+android	android	0
+Chrome	Chrome	0
+arch	arch	0
+iOS	iOS	0
+Linux	Linux	0
+Ubuntu	Ubuntu	0
+Windows	Windows	0
+Microsoft	Microsoft	0
+Nintendo	Nintendo	0
+Google	Google	0
+nexus	nexus	0
+Wii U	WiiU	0
+Wii	Wii	0
+Oracle	Oracle	0
+OriginOS	OriginOS	0
+iPhone	iPhone	0
+iPad	iPad	0
+iPod	iPod	0
+UI	UI	0
+UK	UK	0
+United Kingdom	UK	0
+United Kingdom	UnitedKingdom	0
+DirectX	DirectX	0
+Kinect	Kinect	0
+azure	azure	0
+Cloudflare	Cloudflare	0
+Buddhism	Buddhism	0
+Catholic	Catholic	0
+Christ	Christ	0
+Christian	Christian	0
+Christmas	Christmas	0
+Easter	Easter	0
+Egyptian	Egyptian	0
+Islam	Islam	0
+Jupiter	Jupiter	0
+Latin	Latin	0
+Mars	Mars	0
+Marxist	Marxist	0
+Moslem	Moslem	0
+Negro	Negro	0
+Thanksgiving	Thanksgiving	0
+Venus	Venus	0
+X-ray	X-ray	0
+American	American	0
+Australia	Australia	0
+Australian	Australian	0
+Brazil	Brazil	0
+Brazilian	Brazilian	0
+Britain	Britain	0
+Canada	Canada	0
+Canadian	Canadian	0
+Chinese	Chinese	0
+Danish	Danish	0
+Denmark	Denmark	0
+Dutch	Dutch	0
+Egypt	Egypt	0
+England	England	0
+English	English	0
+Filipino	Filipino	0
+Finland	Finland	0
+Finn	Finn	0
+Finnish	Finnish	0
+France	France	0
+French	French	0
+German	German	0
+Germany	Germany	0
+Greece	Greece	0
+Greek	Greek	0
+Hebrew	Hebrew	0
+Hindi	Hindi	0
+Hip-Hop	Hip-Hop	0
+Iceland	Iceland	0
+Icelander	Icelander	0
+Icelandic	Icelandic	0
+India	India	0
+Indian	Indian	0
+Iran	Iran	0
+Iranian	Iranian	0
+Ireland	Ireland	0
+Irish	Irish	0
+Irishman	Irishman	0
+Israel	Israel	0
+Israeli	Israeli	0
+Italian	Italian	0
+Italilian	Italilian	0
+Italy	Italy	0
+Japan	Japan	0
+Japanese	Japanese	0
+Korea	Korea	0
+Korean	Korean	0
+native American	nativeAmerican	0
+Netherlands	Netherlands	0
+New Zealand	NewZealand	0
+New Zealander	NewZealander	0
+Philppines	Philppines	0
+Poland	Poland	0
+Pole	Pole	0
+Polish	Polish	0
+Portugal	Portugal	0
+Portuguese	Portuguese	0
+Russia	Russia	0
+Russian	Russian	0
+Scotland	Scotland	0
+Scots	Scots	0
+Scottish	Scottish	0
+Simplified Chinese	SimplifiedChinese	0
+Traditional Chinese	TraditionalChinese	0
+Singapore	Singapore	0
+Spain	Spain	0
+Spanish	Spanish	0
+Swede	Swede	0
+Sweden	Sweden	0
+Swedish	Swedish	0
+Swiss	Swiss	0
+Thai	Thai	0
+Thailand	Thailand	0
+United Kingdom	UnitedKingdom	0
+USA	USA	0
+The United States of America	USA	0
+United States	UnitedStates	0
+USD	USD	0
+United States Dollar	USD	0
+United States Dollar	UnitedStatesDollar	0
+Wales	Wales	0
+Welsh	Welsh	0
+CN	CN	0
+MTV	MTV	0
+Music Television	MTV	0
+Music Television	MusicTelevision	0
+Mrs.	Mrs.	0
+MitM	MitM	0
+man-in-the-middle	MitM	0
+ToDesk	ToDesk	0
+PreSearch	PreSearch	0
+Odysee	Odysee	0
+ISBN	ISBN	0
+International Standard Book Number	ISBN	0
+International Standard Book Number	InternationalStandardBookNumber	0
+ISSN	ISSN	0
+International Standard Serial Number	ISSN	0
+International Standard Serial Number	InternationalStandardSerialNumber	0
+QoS	QoS	0
+Quality of Service	QoS	0
+Quality of Service	QualityofService	0
+DoH	DoH	0
+DNS over HTTPS	DoH	0
+DNS over HTTPS/3	DoH	0
+DNS over HTTPS	DNSoverHTTPS	0
+DNS over HTTPS/3	DNSoverHTTPS	0
+DoQ	DoQ	0
+DNS over QUIC	DoQ	0
+DNS over QUIC	DNSoverQUIC	0
+HK	HK	0
+Hong Kong	HK	0
+Hong Kong	HongKong	0
+Party Animals	PartyAnimals	0
+clipboard	clipboard	0
+ABS	ABS	0
+Anti-lock Braking System	ABS	0
+Anti-lock Braking System	AntilockBrakingSystem	0
+ADHD	ADHD	0
+attention deficit hyperactivity disorder	ADHD	0
+attention deficit hyperactivity disorder	attentiondeficithyperactivitydisorder	0
+BBQ	BBQ	0
+barbecue	BBQ	0
+BBS	BBS	0
+Bulletin Board System	BBS	0
+Bulletin Board System	BulletinBoardSystem	0
+chrono	chrono	0
+Widevine	Widevine	0
+Google Ads	GoogleAds	0
+Valhalla	Valhalla	0
+flies	flies	0
+KFC	KFC	0
+AWP	AWP	0
+Arctic Warfare Police	AWP	0
+Arctic Warfare Police	ArcticWarfarePolice	0
+CLI	CLI	0
+Command-Line Interface	CLI	0
+Command-Line Interface	CommandLineInterface	0
+Dnsmasq	Dnsmasq	0
+clique	clique	0
+candid	candid	0
+DOS	DOS	0
+Disk Operating System	DOS	0
+Disk Operating System	DiskOperatingSystem	0
+diss	diss	0
+USDT	USDT	0
+Tether	Tether	0
+Lua	Lua	0
+MacType	MacType	0
+Alipay	Alipay	0
+WeChat Pay	WeChatPay	0
+Google Maps	GoogleMaps	0
+Google Keep	GoogleKeep	0
+Google Docs	GoogleDocs	0
+UPnP	UPnP	0
+Universal Plug and Play	UPnP	0
+Universal Plug and Play	UniversalPlugandPlay	0
+DoS	DoS	0
+denial-of-service attack	DoS	0
+denial-of-service attack	denialofserviceattack	0
+DDoS	DDoS	0
+distributed denial-of-service attack	DDoS	0
+distributed denial-of-service attack	distributeddenialofserviceattack	0
+lullaby	lullaby	0
+LibreWolf	LibreWolf	0
+miscarry	miscarry	0
+WebRTC	WebRTC	0
+WebDAV	WebDAV	0
+SwiftUI	SwiftUI	0
+watermarking	watermarking	0
+jellyfish	jellyfish	0
+Astro	Astro	0
+SigmaOS	SigmaOS	0
+switcher	switcher	0
+fuckity	fuckity	0
+Funtouch OS	FuntouchOS	0
+fo	fo	0
+layouts	layouts	0
+redirect	redirect	0
+redirects	redirects	0
+Unix shell	Unixshell	0
+shells	shells	0
+Zaraz	Zaraz	0
+waitlist	waitlist	0
+diffusion	diffusion	0
+Scribble Diffusion	ScribbleDiffusion	0
+Lenovo	Lenovo	0
+Adios	Adios	0
+EMS	EMS	0
+Express Mail Service	EMS	0
+IPFS	IPFS	0
+InterPlanetary File System	IPFS	0
+InterPlanetary File System	InterPlanetaryFileSystem	0
+interplanetary	interplanetary	0
+Noria	Noria	0
+DHCP	DHCP	0
+Dynamic Host Configuration Protocol	DHCP	0
+PPPoE	PPPoE	0
+Point-to-Point Protocol over Ethernet	PPPoE	0
+IPoE	IPoE	0
+Internet Protocol over Ethernet	IPoE	0
+VLAN	VLAN	0
+Virtual Local Area Network	VLAN	0
+WLAN	WLAN	0
+Wireless LAN	WLAN	0
+GPT	GPT	0
+Generative Pre-trained Transformer	GPT	0
+GPT-4	GPT-4	0
+bard	bard	0
+LaMDA	LaMDA	0
+Language Model for Dialogue Applications	LaMDA	0
+tokens	tokens	0
+roadmap	roadmap	0
+Coinbase Wallet	CoinbaseWallet	0
+MetaMask	MetaMask	0
+favicon	favicon	0
+Discord	Discord	0
+New Bing	NewBing	0
+Notion AI	NotionAI	0
+memos	memos	0
+flomo	flomo	0
+arabica	Arabica	0
+robusta	robusta	0
+HanLP	HanLP	0
+Arch Linux	ArchLinux	0
+AlmaLinux	AlmaLinux	0
+Fedora CoreOS	FedoraCoreOS	0
+CoreOS	CoreOS	0
+OpenBSD	OpenBSD	0
+Rocky Linux	RockyLinux	0
+Vultr	Vultr	0
+GoFrame	GoFrame	0
+ORM	ORM	0
+Object Relational Mapping	ORM	0
+iris	iris	0
+burnt	burnt	0
+KPI	KPI	0
+Key Performance Indicators	KPI	0
+mutex	mutex	0
+TIOBE	TIOBE	0
+DigitalOcean	DigitalOcean	0
+Google Authenticator	GoogleAuthenticator	0
+Authenticator	Authenticator	0
+authenticator	authenticator	0
+Depay	Depay	0
+Codeium	Codeium	0
+OpenCat	OpenCat	0
+OpenWrt	OpenWrt	0
+AWS	AWS	0
+Amazon Web Services	AWS	0
+Amazon Web Services	AmazonWebServices	0
+Orion	Orion	0
+Virgo	Virgo	0
+Aries	Aries	0
+Taurus	Taurus	0
+Cancer	Cancer	0
+Libra	Libra	0
+Scorpio	Scorpio	0
+Sagittarius	Sagittarius	0
+Capricorn	Capricorn	0
+Aquarius	Aquarius	0
+Pisces	Pisces	0
+tailwind	tailwind	0
+Fcitx	Fcitx	0
+Fcitx5	Fcitx5	0
+openSUSE	openSUSE	0
+defer	defer	0
+FOMO	FOMO	0
+Fear of Missing Out	FOMO	0
+rune	rune	0
+wick	wick	0
+meow	meow	0
+woof	woof	0
+bromite	bromite	0
+hutch	hutch	0
+Laotian	Laotian	0
+mitigation	mitigation	0
+transformer	transformer	0
+mayonnaise	mayonnaise	0
+orz	orz	0
+parametric	parametric	0
+Scooby-Doo	Scooby-Doo	0
+SpongeBob	SpongeBob	0
+SquarePants	SquarePants	0
+SpongeBob SquarePants	SpongeBobSquarePants	0
+Universal Actions	UniversalActions	0
+Louis Vuitton	LouisVuitton	0
+FIFA	FIFA	0
+Fédération Internationale de Football Association	FIFA	0
+FYI	FYI	0
+for your information	FYI	0
+IPO	IPO	0
+Initial Public Offerings	IPO	0
+MVC	MVC	0
+Model-View-Controller	MVC	0
+MVVM	MVVM	0
+Model-View-ViewModel	MVVM	0
+NGO	NGO	0
+Non-Governmental Organization	NGO	0
+OMG	OMG	0
+Oh My God	OMG	0
+RFT	RFT	0
+Rich Text Format	RFT	0
+SVG	SVG	0
+Scalable Vector Graphics	SVG	0
+SVN	SVN	0
+Apache Subversion	SVN	0
+TLS	TLS	0
+Transport Layer Security	TLS	0
+SSL	SSL	0
+Secure Sockets Layer	SSL	0
+UDP	UDP	0
+User Datagram Protocol	UDP	0
+TCP	TCP	0
+Transmission Control Protocol	TCP	0
+UID	UID	0
+User ID	UID	0
+USSR	USSR	0
+Union of Soviet Socialist Republics	USSR	0
+WMV	WMV	0
+Windows Media Video	WMV	0
+WWI	WWI	0
+World War I	WWI	0
+WWII	WWII	0
+World War II	WWII	0
+WWIII	WWIII	0
+World War III	WWIII	0
+PL/pgSQL	PL/pgSQL	0
+Procedural Language / PostGres Structured Query Language	PL/pgSQL	0
+IQ	IQ	0
+Intelligence quotient	IQ	0
+quotient	quotient	0
+BTW	BTW	0
+by the way	BTW	0
+QUIC	QUIC	0
+Quick UDP Internet Connections	QUIC	0
+SRWare Iron	SRWareIron	0
+trending	trending	0
+Nexitally	Nexitally	0
+AGI	AGI	0
+Artificial general intelligence	AGI	0
+Strong AI	StrongAI	0
+Weak AI	WeakAI	0
+Narrow AI	NarrowAI	0
+Applied AI	AppliedAI	0
+BREAKING CHANGE	BREAKINGCHANGE	0
+GitHub Actions	GitHubActions	0
+UUID	UUID	0
+Universally Unique Identifier	UUID	0
+stargazer	stargazer	0
+stargazers	stargazers	0
+fallback	fallback	0
+Fyne	Fyne	0
+Claude	Claude	0
+Claude+	Claude+	0
+Anthropic	Anthropic	0
+overdue	overdue	0
+Cinderella	Cinderella	0
+WebGPU	WebGPU	0
+Mailfence	Mailfence	0
+gimme	gimme	0
+CodeWhisperer	CodeWhisperer	0
+Heisenberg	Heisenberg	0
+codex	codex	0
+storyteller	storyteller	0
+troublemaker	troublemaker	0
+troublemaking	troublemaking	0
+espanso	espanso	0
+okey	okey	0
+okey-dokey	okey-dokey	0
+CAPTCHA	CAPTCHA	0
+Coinbase	Coinbase	0
+Kraken	Kraken	0
+Huobi	Huobi	0
+Bitfinex	Bitfinex	0
+KuCoin	KuCoin	0
+OKX	OKX	0
+Arbitrum	Arbitrum	0
+Avalanche	Avalanche	0
+Binance	Binance	0
+Binance Smart Chain	BinanceSmartChain	0
+OpenSea	OpenSea	0
+BNB Chain	BNBChain	0
+Chainlink	Chainlink	0
+Cosmos	Cosmos	0
+Cardano	Cardano	0
+Polkadot	Polkadot	0
+Solana	Solana	0
+Starknet	Starknet	0
+Optimism	Optimism	0
+Polygon	Polygon	0
+NEAR Protocol	NEARProtocol	0
+Lens Protocal	LensProtocal	0
+zkSync	zkSync	0
+Arweave	Arweave	0
+Filecoin	Filecoin	0
+Harmony	Harmony	0
+Harmony One	HarmonyOne	0
+DApp	DApp	0
+DApps	DApps	0
+Uniswap	Uniswap	0
+SushiSwap	SushiSwap	0
+PancakeSwap	PancakeSwap	0
+JediSwap	JediSwap	0
+Orbiter	Orbiter	0
+MakerDAO	MakerDAO	0
+Compound	Compound	0
+Aave	Aave	0
+Curve	Curve	0
+Curve Finance	CurveFinance	0
+dYdX	dYdX	0
+NFT	NFT	0
+Non-Fungible Token	NFT	0
+Solidity	Solidity	0
+Argent	Argent	0
+argent	argent	0
+Argent X	ArgentX	0
+Braavos	Braavos	0
+Braavos Wallet	Braavos	0
+OneKey	OneKey	0
+hamster	hamster	0
+hamsters	hamsters	0
+DYOR	DYOR	0
+Do Your Own Research	DYOR	0
+Noita	Noita	0
+Screen Studio	ScreenStudio	0
+Norah	Norah	0
+floccus	floccus	0
+Wappalyzer	Wappalyzer	0
+phony	phony	0
+noop	noop	0
+Kung Fu	KungFu	0
+prefixes	prefixes	0
+suffixes	suffixes	0
+DeepMind	DeepMind	0
+Google DeepMind	GoogleDeepMind	0
+TL;DR	TL;DR	0
+too long; didn't read	TL;DR	0
+Ant-Man	Ant-Man	0
+ungoogled	ungoogled	0
+ungoogled-chromium	ungoogled-chromium	0
+taxman	taxman	0
+RouterOS	RouterOS	0
+Sumatra	Sumatra	0
+Sumatra PDF	SumatraPDF	0
+sideload	sideload	0
+sideloading	sideloading	0
+misdirection	misdirection	0
+librime	librime	0
+JRPG	JRPG	0
+Japanese Role-Playing Game	JRPG	0
+Kuromis	Kuromis	0
+sorcerer	sorcerer	0
+sorcerers	sorcerers	0
+werewolf	werewolf	0
+disjunction	disjunction	0
+heil	heil	0
+maintainers	maintainers	0
+AmyTelecom	AmyTelecom	0
+Patreon	Patreon	0
+Anaconda	Anaconda	0
+LLaMA	LLaMA	0
+Large Language Model Meta AI	LLaMA	0
+fellatio	fellatio	0
+silo	silo	0
+R.I.P	R.I.P	0
+requiescat	requiescat	0
+AIGC	AIGC	0
+AI Generated Content	AIGC	0
+Presto	Presto	0
+presto	presto	0
+Upscayl	Upscayl	0
+Cocos Creator	CocosCreator	0
+John Wick	JohnWick	0
+firetruck	firetruck	0
+prankster	prankster	0
+pranksters	pranksters	0
+npm	npm	0
+Node Package Manager	npm	0
+Node Package Manager	NodePackageManager	0
+Apple Vision	AppleVision	0
+Apple Vision Pro	AppleVisionPro	0
+Vision Pro	VisionPro	0
+shithead	shithead	0
+a11y	a11y	0
+accessibility	a11y	0
+i18n	i18n	0
+internationalization	i18n	0
+internationalization	internationalization	0
+l10n	l10n	0
+localization	l10n	0
+g11n	g11n	0
+globalization	g11n	0
+m17n	m17n	0
+multilingualization	m17n	0
+multilingualization	multilingualization	0
+t9n	t9n	0
+translation	t9n	0
+p13n	p13n	0
+personalization	p13n	0
+personalization	personalization	0
+K8s	K8s	0
+Kubernetes	K8s	0
+Kubernetes	Kubernetes	0
+Kubeadm	Kubeadm	0
+Minikube	Minikube	0
+containerized	containerized	0
+shitty	shitty	0
+shitwork	shitwork	0
+A4	A4	0
+3D	3D	0
+polyphone	polyphone	0
+traditionalization	traditionalization	0
+traditionalize	traditionalize	0
+traditionalist	traditionalist	0
+traditionalistic	traditionalistic	0
+simplification	simplification	0
+simplifier	simplifier	0
+Loki	Loki	0
+panzer	panzer	0
+hardened	hardened	0
+motherfucker	motherfucker	0
+motherfuckers	motherfuckers	0
+motherfucking	motherfucking	0
+dict	dict	0
+latte	latte	0
+Hughie	Hughie	0
+Maeve	Maeve	0
+hyphen	hyphen	0
+Oppenheimer	Oppenheimer	0
+UltraEdit	UltraEdit	0
+GoldenDict	GoldenDict	0
+tokenizer	tokenizer	0
+Stable Diffusion	StableDiffusion	0
+x86	x86	0
+x86-64	x86-64	0
+x64	x64	0
+amd64	amd64	0
+arm64	arm64	0
+keysym	keysym	0
+keysyms	keysyms	0
+PotPlayer	PotPlayer	0
+Code::Blocks	Code::Blocks	0
+passkey	passkey	0
+Protocol Buffers	ProtocolBuffers	0
+protobuf	protobuf	0
+interstellar	interstellar	0
+weirdo	weirdo	0
+beyatch	beyatch	0
+perplexity	perplexity	0
+masturbate	masturbate	0
+thorium	thorium	0
+iBus	iBus	0
+BT	BT	0
+corrector	corrector	0
+hashtag	hashtag	0
+ProtonMail	ProtonMail	0
+Elasticsearch	Elasticsearch	0
+Next.js	Next.js	0
+mantis	mantis	0
+strongbox	strongbox	0
+tabby	tabby	0
+subtext	subtext	0
+homophone	homophone	0
+homophones	homophones	0
+JDK	JDK	0
+Java Development Kit	JDK	0
+polyphony	polyphony	0
+iota	iota	0
+mu	mu	0
+rho	rho	0
+upsilon	upsilon	0
+D&D	D&D	0
+Dungeons & Dragons	D&D	0
+Dungeons & Dragons	Dungeons&Dragons	0
+DnD	DnD	0
+D&D	DnD	0
+Dungeons & Dragons	DnD	0
+Minecraft	Minecraft	0
+LSP	LSP	0
+Language Server Protocol	LSP	0
+Google Pixel	GooglePixel	0
+medallion	medallion	0
+add-on	add-on	0
+add-ons	add-ons	0
+C#	C#	0
+decode	decode	0
+KeyCastr	KeyCastr	0
+Laugh Tale	LaughTale	0
+Joy Boy	JoyBoy	0
+gotcha	gotcha	0
+wombat	wombat	0
+prank	prank	0
+RustRover	RustRover	0
+bilibili	bilibili	0
+Terraria	Terraria	0
+Unihan	Unihan	0
+adrift	adrift	0
+joker	joker	0
+cannibalistic	cannibalistic	0
+micrometer	micrometer	0
+nanometer	nanometer	0
+DLsite	DLsite	0
+picosecond	picosecond	0
+femtosecond	femtosecond	0
+attosecond	attosecond	0
+I'm	I'm	0
+you're	you're	0
+she's	she's	0
+we're	we're	0
+they're	they're	0
+aren't	aren't	0
+wasn't	wasn't	0
+weren't	weren't	0
+hasn't	hasn't	0
+haven't	haven't	0
+hadn't	hadn't	0
+wouldn't	wouldn't	0
+couldn't	couldn't	0
+shouldn't	shouldn't	0
+mightn't	mightn't	0
+mustn't	mustn't	0
+shan't	shan't	0
+ain't	ain't	0
+daren't	daren't	0
+needn't	needn't	0
+oughtn't	oughtn't	0
+who's	who's	0
+where's	where's	0
+when's	when's	0
+why's	why's	0
+how's	how's	0
+here's	here's	0
+you'll	you'll	0
+it'll	it'll	0
+they'll	they'll	0
+you'd	you'd	0
+we'd	we'd	0
+I've	I've	0
+he'd	he'd	0
+it'd	it'd	0
+they'd	they'd	0
+you've	you've	0
+we've	we've	0
+they've	they've	0
+sorta	sorta	0
+lemme	lemme	0
+outta	outta	0
+whatcha	whatcha	0
+Google TV	GoogleTV	0
+PVP	PVP	0
+Player versus Player	PVP	0
+PVE	PVE	0
+player versus environment	PVE	0
+Elon	Elon	0
+Musk	Musk	0
+Logseq	Logseq	0
+WPS	WPS	0
+Morty	Morty	0
+destructible	destructible	0
+indestructible	indestructible	0
+Frundles	Frundles	0
+Brotato	Brotato	0
+homie	homie	0
+homey	homey	0
+cynical	cynical	0
+seduce	seduce	0
+pinky	pinky	0
+engineman	engineman	0
+unhuman	unhuman	0
+unhumified	unhumified	0
+unhumanize	unhumanize	0
+flares	flares	0
+P2P	P2P	0
+F2A	F2A	0
+B2B	B2B	0
+C2C	C2C	0
+B2C	B2C	0
+C2B	C2B	0
+O2O	O2O	0
+NBA 2K	NBA2K	0
+tempting	tempting	0
+WebCatalog	WebCatalog	0
+Apple One	AppleOne	0
+pixiv	pixiv	0
+M4A1	M4A1	0
+shogun	shogun	0
+wail	wail	0
+wails	wails	0
+wailed	wailed	0
+wailing	wailing	0
+PK	PK	0
+WireGuard	WireGuard	0
+AdGuard	AdGuard	0
+Altman	Altman	0
+Ultraman	Ultraman	0
+silicones	silicones	0
+GPTs	GPTs	0
+sider	sider	0
+DALL·E	DALL·E	0
+keychain	keychain	0
+keychains	keychains	0
+guile	guile	0
+e.g.	e.g.	0
+i.e.	i.e.	0
+et al.	etal.	0
+Zettlr	Zettlr	0
+Codium	Codium	0
+CodiumAI	CodiumAI	0
+SaaS	SaaS	0
+Software as a service	SaaS	0
+gitignore	gitignore	0
+.gitignore	.gitignore	0
+humankind	humankind	0
+Alita	Alita	0
+epoll	epoll	0
+kqueue	kqueue	0
+LangChain	LangChain	0
+LangServe	LangServe	0
+LangSmith	LangSmith	0
+runc	runc	0
+containerd	containerd	0
+Melvor	Melvor	0
+Melvor Idle	MelvorIdle	0
+paradise	paradise	0
+ketchup	ketchup	0
+pinning	pinning	0
+WebSocket	WebSocket	0
+systemctl	systemctl	0
+reconfig	reconfig	0
+sudo	sudo	0
+flypy	flypy	0
+traefik	traefik	0
+deepin	deepin	0
+srv	srv	0
+usr	usr	0
+bin	bin	0
+AUR	AUR	0
+Arch User Repository	AUR	0
+pacman	pacman	0
+Pac-Man	Pac-Man	0
+eBPF	eBPF	0
+livid	livid	0
+DevOps	DevOps	0
+Zippo	Zippo	0
+goddamn	goddamn	0
+punctuator	punctuator	0
+punctuators	punctuators	0
+QR code	QRcode	0
+sentry	sentry	0
+Prometheus	Prometheus	0
+Grafana	Grafana	0
+Mirtle	Mirtle	0
+Hadoop	Hadoop	0
+HBase	HBase	0
+hive	hive	0
+Flink	Flink	0
+Palworld	Palworld	0
+lark	lark	0
+submodule	submodule	0
+submodules	submodules	0
+Writerside	Writerside	0
+groundhog	groundhog	0
+groundhogs	groundhogs	0
+Writerside	Writerside	0
+Manifest V2	ManifestV2	0
+Manifest V3	ManifestV3	0
+copycat	copycat	0
+Google Gemini	GoogleGemini	0
+Google Gemini Advanced	GoogleGeminiAdvanced	0
+infuse	infuse	0
+headless	headless	0
+IMBA	IMBA	0
+imbalance	imbalance	0
+imbalanced	imbalanced	0
+GitButler	GitButler	0
+Sora	Sora	0
+WinNAS	WinNAS	0
+prune	prune	0
+Wireshark	Wireshark	0
+Theseus	Theseus	0
+Laravel	Laravel	0
+monolith	monolith	0
+Chiikawa	Chiikawa	0
+anxious	anxious	0
+trudge	trudge	0
+LibreOffice	LibreOffice	0
+Asics	Asics	0

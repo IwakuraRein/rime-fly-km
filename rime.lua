@@ -97,7 +97,7 @@ function debug_checker(input, env)
 end
 
 local function has_en(s)
-    return s:find("[%a%d]")
+    return s:find("[%a]")
 end
 
 function char_word_separator(input, env)
@@ -114,7 +114,7 @@ function char_word_separator(input, env)
     for cand in input:iter() do
         if utf8.len(cand.text) > 1 then
             if has_en(cand.text) then
-                if word_count >= word_limit or #code < western_display_threshold then
+                if word_count > word_limit or #code < western_display_threshold then
                     table.insert(western, cand)
                 else
                     yield(cand)
