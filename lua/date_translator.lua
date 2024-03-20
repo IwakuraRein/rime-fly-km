@@ -27,7 +27,7 @@ function M.func(input, seg, env)
         yield_cand(seg, os.date('%Y/%m/%d', current_time))
         yield_cand(seg, os.date('%Y.%m.%d', current_time))
         yield_cand(seg, os.date('%Y%m%d', current_time))
-        yield_cand(seg, os.date('%Y 年 %m 月 %d 日', current_time):gsub(' 0', ' '))
+        yield_cand(seg, os.date('%Y年%m月%d日', current_time):gsub('年0', '年'):gsub('月0','月'))
 
     -- 时间
     elseif (input == M.time) then
@@ -48,6 +48,7 @@ function M.func(input, seg, env)
     elseif (input == M.datetime) then
         local current_time = os.time()
         yield_cand(seg, os.date('%Y-%m-%dT%H:%M:%S+08:00', current_time))
+        yield_cand(seg, os.date('%Y-%m-%d %H:%M:%S', current_time))
         yield_cand(seg, os.date('%Y%m%d%H%M%S', current_time))
 
     -- 时间戳（十位数，到秒，示例 1650861664）
