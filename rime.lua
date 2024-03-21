@@ -101,7 +101,8 @@ local function has_en(s)
 end
 
 function char_word_separator(input, env)
-    ctx = env.engine.context
+    local ctx = env.engine.context
+    local composition = ctx.composition
     local code = ctx.input
     local word_limit = 3
     local word_count = 0
@@ -114,7 +115,8 @@ function char_word_separator(input, env)
     for cand in input:iter() do
         if utf8.len(cand.text) > 1 then
             if has_en(cand.text) then
-                if word_count > word_limit or #code < western_display_threshold then
+                -- cand.quality = 0
+                if word_count > word_limit or #cand.comment < western_display_threshold then
                     table.insert(western, cand)
                 else
                     yield(cand)
