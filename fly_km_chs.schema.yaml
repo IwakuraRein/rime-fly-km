@@ -76,8 +76,9 @@ translator:
   dictionary: fly_km_chs
   enable_sentence: true
   enable_user_dict: false
-  initial_quality: 8
+  initial_quality: 1.1
   spelling_hints: 8
+  always_show_comments: true
   comment_format:
     - xform/^.*?[|](.).*?[|](.+)$/$1,$2/
     - xform/^.*[|](.+)$/$1/
@@ -86,10 +87,11 @@ flykm_char:
   dictionary: fly_km_chs_char
   enable_sentence: false
   enable_user_dict: false
-  initial_quality: 16
+  initial_quality: 1.2
   spelling_hints: 8
+  always_show_comments: true
   comment_format:
-    # - xform/^.*?[|](.).*?[|](.+)$/$1,$2/
+    - xform/^.*?[|](.).*?[|](.+)$/$1,$2/
     - xform/^.*[|](.+)$/$1/
 
 # 次翻译器，英文
@@ -97,7 +99,7 @@ melt_eng:
   dictionary: melt_eng     # 挂载词库 melt_eng.dict.yaml
   enable_sentence: false   # 禁止造句
   enable_user_dict: false  # 禁用用户词典
-  initial_quality: 4       # 初始权重
+  initial_quality: 1.0       # 初始权重
   comment_format:          # 自定义提示码
     - xform/.*//           # 清空提示码
 
@@ -109,7 +111,7 @@ cn_en:
   enable_user_dict: false  # 禁用用户词典
   enable_completion: true
   enable_sentence: false
-  initial_quality: 2
+  initial_quality: 0.5
   comment_format:
     - xform/^.+$//
 
